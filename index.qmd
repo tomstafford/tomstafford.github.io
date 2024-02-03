@@ -1,26 +1,16 @@
 ---
-title: "index"
+title: "Tom Stafford, Professor of Cognitive Science"
 format: html
 editor: visual
 ---
 
-## Quarto
+I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+## Updates on <mastodon.online/@tomstafford>
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="500" height="800" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.online%2Fusers%2Ftomstafford&theme=light&size=100&header=true&replies=false&boosts=false"></iframe>
 
-```{r}
-1 + 1
-```
+Colophon
 
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+Website made with [Quarto](https://quarto.org), hosted on github pages. Styles taken from <https://ddimmery.com/posts/quarto-website/>
