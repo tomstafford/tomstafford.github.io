@@ -1,0 +1,70 @@
+---
+title: "Done"
+---
+
+Recording things i've done which don't go under [Publications](https://tomstafford.sites.sheffield.ac.uk/outputs/scholarly-publications), 
+[Talks](https://tomstafford.sites.sheffield.ac.uk/outputs/talks) or Newsletter: <https://tomstafford.substack.com/>. Most of these posted to [Mastodon](https://mastodon.online/@tomstafford) too.
+
+
+
+## 2023
+
+December 2023 : joined the PsyArXiv Scientific Advisory Board and approved as chair of the public engagement subcommittee. <https://osf.io/preprints/psyarxiv>
+
+2023-11-10; Worked with Lingyu-Meng on a novel visualisation of how group discussion shifts people's opinions : <a href="Dynamics of group discussion in agreement-error space">https://lingyu-meng.github.io/convergence-valence_space/</a>
+
+2023-11-07-: elected Chair of UKRN Institutional Leads group
+
+Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www.ukrn.org/open-research-programme/), [workstream 1: training](https://www.ukrn.org/ws1-training/)
+
+2023 August made <https://tomstafford.github.io/imdb/>, showing change in crowdsourced ratings of summer movies:
+
+<img src="https://tomstafford.github.io/imdb/plots/average_ratings_ordered.png" height=400>
+
+2023 July Consulted on [University of Sheffield Guidelines on Generative AI](https://sheffield.libguides.com/genai/)
+
+2023-05-23 Analysis of Open Editors data: <https://tomstafford.github.io/editors/>
+
+<img src="https://tomstafford.github.io/editors/figs/gpa_vs_eds.png" height = 400>
+
+
+
+2023-05-18 Chaired UKRN/RoRI panel on [The Future of Peer Review](https://www.ukrn.org/event/future-of-peer-review-may2023/). ([Recording](https://youtu.be/BMeSh6esehE), [Slides](https://osf.io/ce3ts/))
+
+2023-05-05 Co-author on UKRN working paper on [Open Research Training Resources and Priorities](https://osf.io/s2f6k/), ([news item](https://www.ukrn.org/2023/05/05/ukrn-first-working-paper-on-training-priorities-and-resources/))
+
+2023-05-10 Cited in Science, Innovation and Technology Committee report on [Reproducibility and research integrity](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). Written evidence:[Commercial involvement in academic publishing is key to research reliability and should face greater public scrutiny](https://osf.io/preprints/metaarxiv/rjmvh)
+
+2023-04-15 Chaired [Straight to the Facts: Can we save public debate? A dialogue with Will Moy](https://www.eventbrite.co.uk/e/straight-to-the-facts-can-we-save-public-debate-a-dialogue-with-will-moy-tickets-546336496167)
+
+2023-02-19 Updated my minimal working example of RMarkdown + papaja + tenzing for APA formatted manuscript preparation, to include a rights retention statement : <https://github.com/tomstafford/rmarkdown_apa>
+
+2023-02-06 Teaching my MSc course in Data Management and Visualisation. Materials, all CC-BY, and containing many links and resources on all things research project management, data wrangling and #dataviz  here <https://tomstafford.github.io/psy6422/>
+
+2023-02-01 and forever: taking part in [UCU strike action](https://mastodon.online/@tomstafford/109788334770383538)
+
+2023-01-24 Attended launch of [N8 Research Partnership stands up for researchers with new Rights Retention statement](https://www.n8research.org.uk/n8-research-partnership-rights-retention-statement/)
+
+2023-01-17 Celebrating [University of Sheffield announcing rights retention policy](https://www.researchprofessional.com/0/rr/news/uk/universities/2023/1/University-of-Sheffield-approves-policies-to-bolster-open-research.html)
+
+2023-01-16 Retired the [Choice Engine](https://tomstafford.github.io/choice-engine-text/) bot
+
+2023-01-09 Graduation for Psychological Research Method with Data Science MSc [class of 2021](https://mastodon.online/@tomstafford/109659193946308768)
+
+2023-01-06 Updated: Experiment Design Checklist <https://tomstafford.github.io/psy-checklist/>
+
+2023-01-05 [Christmas message 2022](https://tomstafford.sites.sheffield.ac.uk/news/christmas-message-2022)
+
+2023-01-01 [Archive of tweets 2008-2022](https://idiolect.org.uk/tweets/)
+
+# 2020
+
+Led development and adoption of the [University of Sheffield statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+
+# Earlier
+
+2017 Organised [Mind Matters](https://tomstafford.sites.sheffield.ac.uk/sub-sites/mind-matters) 'a series of events based on various psychological research to bring knowledge to the general public and showcase Sheffield as a hub for psychology!'
+
+2012 - 2017 Wrote a column for [BBC Future](https://www.bbc.com/future/columns/neurohacks)
+
+2012-09 I wrote some of the code in LongArm, [a robot which draws labrynthine patterns](https://www.youtube.com/watch?v=lSuvSsDrEAw), by Matthias Jones

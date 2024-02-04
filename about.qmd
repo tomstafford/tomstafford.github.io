@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-
-
 I am Professor of Cognitive Science in the [Department of Psychology, University of Sheffield](https://www.sheffield.ac.uk/psychology) and Senior Research Fellow at the [Research on Research Institute](https://researchonresearch.org/).
 
 ### Research Interests
@@ -13,20 +11,5 @@ I am Professor of Cognitive Science in the [Department of Psychology, University
 - Metaresearch
 - Data Science
 - Experimental Design
-
-### Education
-
-::: {.d-flex .justify-content-between}
-::: {}
-**New York University**  
-PhD in clevrness
-Not really
-:::
-::: {.text-end}
-New York, NY  
-Granted May 2016
-:::
-:::
-- Some texthere
 
 

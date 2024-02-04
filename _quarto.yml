@@ -15,8 +15,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: research.qmd
-      - href: software.qmd
+      - href: done.qmd
       - href: news.qmd
 
 format:

@@ -17,6 +17,10 @@ I study learning and decision making. Much of my research looks at risk and bias
 </div>
 :::
 
+This page is a test. Most current material is at [tomstafford.sites.sheffield.ac.uk](https://tomstafford.sites.sheffield.ac.uk/)
+
+Or you can find traces on these other platforms:
+
 {{< pagebreak >}}
 
 ::: {.column-page-inset .text-center}
