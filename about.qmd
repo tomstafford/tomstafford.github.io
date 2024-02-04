@@ -2,7 +2,9 @@
 title: "About"
 ---
 
-I am Professor of Cognitive Science in the [Department of Psychology, University of Sheffield](https://www.sheffield.ac.uk/psychology) and Senior Research Fellow at the [Research on Research Institute](https://researchonresearch.org/).
+::: {.column-page-inset-left}
+I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.
+:::
 
 ### Research Interests
 

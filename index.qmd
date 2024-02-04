@@ -1,20 +1,26 @@
 ---
-title: "Tom Stafford, Professor of Cognitive Science"
+title: "Tom Stafford"
 format: html
 page-layout: full
 image: /tom_2020.jpg
 ---
-
-
-
 ::: {.column-page-inset}
-::: {.column-page-inset-left}
-I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.
-:::
 
-<div class="column-margin column-container">
-![](tom_2020.jpg){.rounded}
-</div>
+![](tom_2020.jpg){width="20%"}
+
+I teach and research in the [Department of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield as Professor of Cognitive Science. My research and teaching focuses on applying insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
+
+I Direct the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. I teach a module on [Data Management and Visualisation](https://tomstafford.github.io/psy6422/).
+
+At the University I hold the position of Research Practice Lead, an institution-wide role with a remit to encourage practices which support robust and trusted research. As Research Practice Lead, I represent the University of Sheffield as Institutional Lead for the UK Reproducibility Network, and chair of the national UKRN Institutional Leads group.
+
+As Senior Fellow at the [Research on Research Institute](https://researchonresearch.org/), I lead the programme [AFIRE: Accelerator For Innovation &amp; Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/).
+
+I am on the [PsyArXiv](https://osf.io/preprints/psyarxiv) Scientific Advisory Board as chair of the Public Engagement Subcommittee. 
+
+For non-specialist audiences, I have written a [best-selling book](https://mindhacks.com/book/), an [award winning blog](https://mindhacks.com/) and columns for venues including BBC, New Scientist, The Guardian and The Conversation. I have also written some mediocre selling books, some widely ignored blogs and tweeted jokes which I thought were hilarious at the time but which received precisely zero likes and zero retweets.
+
+
 :::
 
 This page is a test. Most current material is at [tomstafford.sites.sheffield.ac.uk](https://tomstafford.sites.sheffield.ac.uk/)
