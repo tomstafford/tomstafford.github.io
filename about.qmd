@@ -2,6 +2,17 @@
 title: "About"
 ---
 
+::: {.html}
+<style>
+  iframe {
+    width: 100%;
+    aspect-ratio: 500 / 800;
+    max-width: 500px; /* Optional */
+  }
+</style>
+:::
+
+
 I am Professor of Cognitive Science in the [Department of Psychology, University of Sheffield](https://www.sheffield.ac.uk/psychology) and Senior Research Fellow at the [Research on Research Institute](https://researchonresearch.org/).
 
 ### Research Interests
