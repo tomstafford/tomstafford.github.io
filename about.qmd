@@ -2,15 +2,6 @@
 title: "About"
 ---
 
-::: {.html}
-<style>
-  iframe {
-    width: 100%;
-    aspect-ratio: 500 / 800;
-    max-width: 500px; /* Optional */
-  }
-</style>
-:::
 
 
 I am Professor of Cognitive Science in the [Department of Psychology, University of Sheffield](https://www.sheffield.ac.uk/psychology) and Senior Research Fellow at the [Research on Research Institute](https://researchonresearch.org/).
@@ -38,6 +29,4 @@ Granted May 2016
 :::
 - Some texthere
 
-### Mastodon
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.online%2Fusers%2Ftomstafford&theme=light&size=100&header=true&replies=false&boosts=false"></iframe>
