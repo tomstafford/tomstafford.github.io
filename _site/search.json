@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Tom Stafford, Professor of Cognitive Science",
     "section": "",
-    "text": "I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.\nHI"
+    "text": "I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion."
   },
   {
     "objectID": "index.html#updates-on-mastodon.onlinetomstafford",
@@ -19,5 +19,26 @@
     "title": "About",
     "section": "",
     "text": "I am Professor of Cognitive Science in the Department of Psychology, University of Sheffield and Senior Research Fellow at the Research on Research Institute.\n\nResearch Interests\n\nDecision Making, Bias\nReasoning\nMetaresearch\nData Science\nExperimental Design\n\n\n\nEducation\n\n\nNew York University\nPhD in clevrness Not really\n\n\nNew York, NY\nGranted May 2016\n\n\n\nSome texthere"
+  },
+  {
+    "objectID": "index.html#updates-from-mastodon.onlinetomstafford",
+    "href": "index.html#updates-from-mastodon.onlinetomstafford",
+    "title": "Tom Stafford, Professor of Cognitive Science",
+    "section": "Updates from mastodon.online/@tomstafford",
+    "text": "Updates from mastodon.online/@tomstafford\n\n\nColophon\nWebsite made with Quarto, hosted on github. Site style & structure from Drew Dimmery."
+  },
+  {
+    "objectID": "index.html#colophon",
+    "href": "index.html#colophon",
+    "title": "Tom Stafford, Professor of Cognitive Science",
+    "section": "Colophon",
+    "text": "Colophon\nWebsite made with Quarto, hosted on github. Site style & structure from Drew Dimmery."
+  },
+  {
+    "objectID": "news.html#updates-from-mastodon.onlinetomstafford",
+    "href": "news.html#updates-from-mastodon.onlinetomstafford",
+    "title": "News",
+    "section": "Updates from mastodon.online/@tomstafford",
+    "text": "Updates from mastodon.online/@tomstafford\n\n\nColophon"
   }
 ]

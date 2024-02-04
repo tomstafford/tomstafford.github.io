@@ -5,25 +5,50 @@ page-layout: full
 image: /tom_2020.jpg
 ---
 
-::: {.html}
-<style>
-  iframe {
-    width: 100%;
-    aspect-ratio: 500 / 800;
-    max-width: 500px; /* Optional */
-  }
-</style>
+
+
+::: {.column-page-inset}
+::: {.column-page-inset-left}
+I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.
 :::
 
+<div class="column-margin column-container">
+![](tom_2020.jpg){.rounded}
+</div>
+:::
 
-I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.
+{{< pagebreak >}}
 
-HI
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://tomstafford.substack.com" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-substack" role='img' aria-label='Substack'></i>
+</a>
 
+<a class="btn btn-outline-dark", href="https://mastodon.online/@tomstafford" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-mastodon" role='img' aria-label='Mastodon'></i>
+</a>
 
-## Updates on <mastodon.online/@tomstafford>
+<a class="btn btn-outline-dark", href="https://github.com/tomstafford" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.online%2Fusers%2Ftomstafford&theme=light&size=100&header=false&replies=false&boosts=false"></iframe>
-Colophon
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/tom-stafford-81a737262/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
 
-Website made with [Quarto](https://quarto.org), hosted on [github](https://github.com/tomstafford/tomstafford.github.io). Styles taken from <https://ddimmery.com/posts/quarto-website/>
+<a class="btn btn-outline-dark", href="https://scholar.google.co.uk/citations?user=bMEna2UAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="mailto:t.stafford@sheffield.ac.uk" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+```
+:::
+
+{{< pagebreak >}}
+
+## Colophon
+
+Website made with [Quarto](https://quarto.org), hosted on [github](https://github.com/tomstafford/tomstafford.github.io). Site style & structure from [Drew Dimmery](https://ddimmery.com/posts/quarto-website/).

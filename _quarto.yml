@@ -8,10 +8,6 @@ website:
   site-url: https://tomstafford.github.io
   repo-url: https://github.com/tomstafford/tomstafford.github.io
   favicon: favicon.png
-  twitter-card: 
-    creator: "@drewdim"
-    site: "@drewdim"
-    card-style: "summary_large_image"
   navbar:
     background: dark
     foreground: light
@@ -21,7 +17,7 @@ website:
       - href: about.qmd
       - href: research.qmd
       - href: software.qmd
-      - href: blog.qmd
+      - href: news.qmd
 
 format:
   html:
