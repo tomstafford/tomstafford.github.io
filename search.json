@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tom Stafford, Professor of Cognitive Science",
+    "title": "Tom Stafford",
     "section": "",
-    "text": "I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.\nThis page is a test. Most current material is at tomstafford.sites.sheffield.ac.uk\nOr you can find traces on these other platforms:"
+    "text": "I teach and research in the Department of Psychology at the University of Sheffield as Professor of Cognitive Science. My research and teaching focuses on applying insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.\nI Direct the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. I teach a module on Data Management and Visualisation.\nAt the University I hold the position of Research Practice Lead, an institution-wide role with a remit to encourage practices which support robust and trusted research. As Research Practice Lead, I represent the University of Sheffield as Institutional Lead for the UK Reproducibility Network, and chair of the national UKRN Institutional Leads group.\nAs Senior Fellow at the Research on Research Institute, I lead the programme AFIRE: Accelerator For Innovation & Research Funding Experimentation.\nI am on the PsyArXiv Scientific Advisory Board as chair of the Public Engagement Subcommittee.\nFor non-specialist audiences, I have written a best-selling book, an award winning blog and columns for venues including BBC, New Scientist, The Guardian and The Conversation. I have also written some mediocre selling books, some widely ignored blogs and tweeted jokes which I thought were hilarious at the time but which received precisely zero likes and zero retweets.\nThis page is a test. Most current material is at tomstafford.sites.sheffield.ac.uk\nOr you can find traces on these other platforms:"
   },
   {
     "objectID": "index.html#updates-on-mastodon.onlinetomstafford",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am Professor of Cognitive Science in the Department of Psychology, University of Sheffield and Senior Research Fellow at the Research on Research Institute.\n\nResearch Interests\n\nDecision Making, Bias\nReasoning\nMetaresearch\nData Science\nExperimental Design"
+    "text": "I study learning and decision making. Much of my research looks at risk and bias, and their management, in decision making. I am also interested in skill learning, using measures of behaviour informed by work done in computational theory and neuroscience. More recently a strand of my research looks at complex decisions, and the psychology of reason, argument and persuasion.\n\n\nResearch Interests\n\nDecision Making, Bias\nReasoning\nMetaresearch\nData Science\nExperimental Design"
   },
   {
     "objectID": "index.html#updates-from-mastodon.onlinetomstafford",
@@ -30,7 +30,7 @@
   {
     "objectID": "index.html#colophon",
     "href": "index.html#colophon",
-    "title": "Tom Stafford, Professor of Cognitive Science",
+    "title": "Tom Stafford",
     "section": "Colophon",
     "text": "Colophon\nWebsite made with Quarto, hosted on github. Site style & structure from Drew Dimmery."
   },
