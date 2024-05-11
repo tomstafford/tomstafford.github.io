@@ -10,9 +10,9 @@ image: /tom_2020.jpg
 
 I teach and research in the [Department of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield as Professor of Cognitive Science. My research and teaching focuses on applying insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
 
-I Direct the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. I teach a module on [Data Management and Visualisation](https://tomstafford.github.io/psy6422/).
+I direct the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. I teach a module on [Data Management and Visualisation](https://tomstafford.github.io/psy6422/).
 
-At the University I hold the position of Research Practice Lead, an institution-wide role with a remit to encourage practices which support robust and trusted research. As Research Practice Lead, I represent the University of Sheffield on the UK Reproducibility Network, and chair the national UKRN Institutional Leads group.
+At the University I hold the position of Research Practice Lead, an institution-wide role with a remit to encourage practices which support robust and trusted research. As Research Practice Lead, I represent the University of Sheffield on the [UK Reproducibility Network](https://www.ukrn.org/), for which I chair the national [UKRN Institutional Leads group](https://www.ukrn.org/institutional-leads/).
 
 As Senior Fellow at the [Research on Research Institute](https://researchonresearch.org/), I lead the programme [AFIRE: Accelerator For Innovation &amp; Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/). We seek to catalyse the generation and use of high quality evidence on research processes ("Metaresearch").
 
