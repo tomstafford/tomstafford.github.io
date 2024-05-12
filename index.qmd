@@ -61,6 +61,16 @@ Or you can find traces on these other platforms:
 
 {{< pagebreak >}}
 
+## More
+
+* [Research](research.html)
+* [Papers](papers.html)
+* [Writing](writing.html)
+* [Talks](talks.html)
+* [Teaching](teaching.html)
+* [Supervision](supervision.html)
+* [Done](done.html)
+* [News](news.html)
 
 ## Colophon
 
