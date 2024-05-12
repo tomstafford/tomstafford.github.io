@@ -15,7 +15,8 @@ website:
       - href: index.qmd
         text: Home
       - href: research.qmd
-      - href: publications.qmd
+      - href: papers.qmd
+      - href: writing.qmd
       - href: done.qmd
       - href: news.qmd
 
