@@ -1,0 +1,92 @@
+---
+title: "Research"
+---
+
+## Reasearch Leadership
+
+As of May 2020, I am [Research Practice Lead for the University of Sheffield](https://sites.google.com/sheffield.ac.uk/orwg/research-practice). This role involves the responsibility of promoting open, transparent, robust and reproducible research at the University. Read more about [our work on open research on the Sheffield University website](https://www.sheffield.ac.uk/openresearch).
+
+From September 2022 I am also a Senior Research Fellow of the [Research on Research Institute (RoRI)](https://researchonresearch.org/). The aim of the Institute, lead by James Wilsdon, is to “translate ideas and evidence into practical, real world solutions to improve research culture and systems”. I lead the programme [AFIRE: Accelerator For Innovation & Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/). 
+
+
+## Research ambitions
+
+Three core ambitions of my research are:
+
+* Data Intensive Methods – robust, scalable, reproducible experiments and analysis which are transparent, sharable and work with 400,000 data points as well as for 40.
+
+* Interdisciplinarity – collaborating across all scholarly fields.
+
+ * Public Engagement – listening to public interests, sharing research process and outcomes with non-specialists, giving back to the publics involved with research.
+
+
+## Research Interests
+
+- Decision Making, Bias
+- Reasoning
+- Metaresearch
+- Data Science
+- Experimental Design
+
+## Research Grants
+
+-   2023--2025: Research on Research Institute, [AFIRE: Accelerator For Innovation & Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/) & [Distributed Peer Review Experiment](https://researchonresearch.org/volkswagen-distributed-peer-review/)
+
+-   2022--2025: [Reinforcer-specific value-based decision-making in persistence of and recovery from alcohol use disorder](https://gtr.ukri.org/projects?ref=MR%2FW028476%2F1). [Matt Field](https://www.sheffield.ac.uk/psychology/people/academic/matt-field) (PI), Tom Stafford and Amber Copeland. MRC (£661, 617)
+
+-   2021--2025: [Informing citizens? Effects of imprints on digital political advertising](https://tomstafford.sites.sheffield.ac.uk/news/phd-opportunity-informing-citizens).\
+    White Rose Doctoral Training Partnership Collaborative Award, October 2020 to September 2024 (PhD studentship taken up by Hazel Gordon; primary supervisor, with Kate Dommett, and partnered with the [Electoral Reform Society](https://www.electoral-reform.org.uk/)).
+
+-   2021--2026: [Growing and embedding open research in institutional practice and culture](https://www.sheffield.ac.uk/news/university-sheffield-spearhead-open-research-drive). Marcus Munafò (PI) and the UKRN. Research England Development Fund. £8,500,000 (£333,096 to Sheffield).
+
+-   2021--2024: [Opening up minds: engaging dialogue generated from argument maps](https://tomstafford.sites.sheffield.ac.uk/news/engaging-dialogue-generated-from-argument-maps). Paul Piwek (PI), Tom Stafford, Andreas Vlachos, Svetlana Stonyanchev. EPSRC. £711,020 (£218,662 to Sheffield).
+
+-   2020--2023: [Understanding online political advertising: perceptions, uses and regulation](https://tomstafford.sites.sheffield.ac.uk/news/understanding-online-political-advertising). Kate Dommett (PI), Tom Stafford, Nikos Aletras. Leverhulme Trust. (£390,215)
+
+-   2019--2021: Plastics: redefining single-use. Anthony Ryan (PI) and many others. UKRI (Creative Circular Economy Approaches to Eliminate Plastics Waste). (£1,010,896).
+
+-   2019--2020: EEG analysis of errors during skilled typing. Experimental Psychology Society Small Grant Scheme. Tom Stafford (PI), Cigir Kalfaoglu. (£3,500).
+
+-   2018--2019: Assessing functional ability in older adults. Claudia von Bastian (PI). White Rose Collaboration Fund (£9,619).
+
+-   2017--2018: C[yberselves: How Immersive Technologies will Impact our Future Selves](https://gtr.ukri.org/projects?ref=AH%2FR004811%2F1). Tony Prescott (PI), Tom Stafford, Michael Szollosy. AHRC (£78,494).
+
+-   2014--2015: [Neuroimaging as a marker of Attention Deficit Hyperactivity Disorder (ADHD)](https://tomstafford.sites.sheffield.ac.uk/news/neuroimaging-as-a-marker-of-attention-deficit-hyperactivity-disorder-adhd)  Tom Stafford (PI), Paul Overton, Maria Panagiotidi (Sheffield), Tony Morland, Alex Wade (York), Jac Billington, Jean-Francois Delvenne (Leeds). White Rose Collaboration Fund 2014, (£10,996).
+
+-   2014--2015:  [Reduced habitual intrusions : an early marker for Parkinson's Disease?](https://tomstafford.sites.sheffield.ac.uk/news/new-grant-reduced-habitual-intrusions-an-early-marker-for-parkinsons)  Tom Stafford (PI), with Jose Obeso, Peter Redgrave, Colin Bannard. Michael J Fox Foundation ($100,000).
+
+-   2014--2015: [Cyberselves in Immersive Technologies\
+    ](http://www.scentro.ac.uk/node/26)Tony Prescott (PI), Tom Stafford, Stuart Wilson (Department of Psychology, Sheffield), Adam Piette, Michael Szollosy (School of English, Sheffield), Julian Savulescu, Hannah Maslen (Philosophy, Oxford). AHRC, (£64,118).
+
+-   2014--2016: [Bias and Blame: Do moral interactions modulate the expression of implicit bias?](https://tomstafford.sites.sheffield.ac.uk/news/new-project-bias-and-blame)  A Leverhulme Trust grant to the University of Nottingham, with Jules Holroyd (PI) and Tom Stafford. (£220,608).
+
+-   2013--2016: Decision making under uncertainty: brains, swarms and markets\
+    A studentship network for 3 PhDs at the University of Sheffield (led by Tom Stafford and with Kevin Gurney, James Marshall, Eleni Vasaliki, Jane Binner and Roderich Gross).
+
+-   2012--2013:  Developing Haptics in Assistive Technology for the Visually-Impaired -- HATV-I.\
+    Matt Carre (PI), Tom Stafford, Tony Prescott, Mark Hawley. UoS EPSRC Pump-priming fund (£46,000).
+
+-   2013--2014:  'Collicular hyper-responsiveness in Attention Deficit Hyperactivity Disorder.\
+    Overton, P.G., Chalhoub, N., Ennis, J., Stafford, T., Codina, C. Sheffield Children's Hospital Charity (£9,284).
+
+-   2011--2012:  A wearable active sensing device using tactile displays\
+    £50,000, EPSRC Proof of Concept Funding, via University of Sheffield
+
+-   2009--2013: Intrinsically motivated cumulative learning versatile robots (Principal: Gianluca Baldassarre, ISTCCNR, Rome)\
+    €5,900,000 (€771,190 to Sheffield), European Union FP7 grant.
+
+-   2009--2010: Teaching Synthetic Psychology With Lego Robots (Principal: Tony Prescott, Sheffield) University of Sheffield Learning and Teaching Services grant,  (£6,720).
+
+-   2009: [Does the tea really taste better if you put the milk in first?](https://tomstafford.sites.sheffield.ac.uk/sub-sites/tea-taste-test)' Scientific inquiry in public, CILASS Sheffield Undergraduate Research Experience Scheme: Summer studentship (£1,130).
+
+-   2008--2011: White Rose Active Vision Network (Principal: Jim Austin, York)\
+    £162,000 (£54,000 to Sheffield), White Rose Network studentship grant.
+
+-   2008--2009: IBL at MSc level (Principal: Tom Stafford), CILASS Scholarship of Teaching grant, University of Sheffield (£2,720).
+
+-   2005: 'The cognitive psychology of decision processing: How does intensity and size of choice-set affect response selection?' (Principal: Tom Stafford), Social Sciences Devolved Funds Grant, University of Sheffield (£3,000).
+
+
+## Learned Societies
+
+I am a fellow of the [British Psychological Society](https://www.bps.org.uk/) and the [Higher Education Academy](http://advance-he.ac.uk), and a member of the [Cognitive Science Society](https://cognitivesciencesociety.org/), the [Experimental Psychology Society](https://eps.ac.uk/) and the [Psychonomic Society](https://www.psychonomic.org/default.aspx).
