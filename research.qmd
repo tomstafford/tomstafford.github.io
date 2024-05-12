@@ -13,9 +13,9 @@ From September 2022 I am also a Senior Research Fellow of the [Research on Resea
 
 Three core ambitions of my research are:
 
-* Data Intensive Methods – robust, scalable, reproducible experiments and analysis which are transparent, sharable and work with 400,000 data points as well as for 40.
+* Data Intensive Methods – robust, scalable, reproducible experiments and analysis; methods which are transparent, shareable and work with 400,000 data points as well as for 40.
 
-* Interdisciplinarity – collaborating across all scholarly fields.
+* Interdisciplinarity – pathfinding, cross-fertilising and collaborating across scholarly fields.
 
  * Public Engagement – listening to public interests, sharing research process and outcomes with non-specialists, giving back to the publics involved with research.
 

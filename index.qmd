@@ -8,7 +8,7 @@ image: /tom_2020.jpg
 
 ![](tom_2020.jpg){width="25%"}
 
-I teach and research in the [Department of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield as Professor of Cognitive Science. My research and teaching focuses on applying insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
+As Professor of Cognitive Science, I teach and research in the [School of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield. My work applies insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
 
 I direct the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. I teach a module on [Data Management and Visualisation](https://tomstafford.github.io/psy6422/).
 
