@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Papers"
 ---
 
 [Google scholar profile](https://scholar.google.co.uk/citations?hl=en&user=bMEna2UAAAAJ&view_op=list_works&sortby=pubdate), ORCID ID : [0000-0002-8089-9479](http://orcid.org/0000-0002-8089-9479)
@@ -307,8 +307,6 @@ title: "Publications"
 
 -   **The Basal Ganglia provides an appropriate model for response selection in the Stroop task.**  Stafford, T. and Gurney, K.N. Poster presented at the Annual Conference of the BPS Cognitive Psychology Section at Essex, September 6th-8th, 2000.
 
-[Back to top](https://tomstafford.sites.sheffield.ac.uk/outputs/conference-papers)
-
 # Other publications
 
 -   Yates, D., and Stafford, T. (2017, October 1). [**'Cognitive strategy' in visual search: how it works and when it generalises**](https://www.google.com/url?q=https%3A%2F%2Fpsyarxiv.com%2F5dup8%2F&sa=D&sntz=1&usg=AOvVaw11ViqM96Lr3hnLbFR4Ppb3). https://doi.org/10.31234/osf.io/5dup8.
@@ -337,3 +335,22 @@ title: "Publications"
 -   Stafford, T. (2003). [**Psychology in the coffee shop**](http://www.google.com/url?q=http%3A%2F%2Fwww.idiolect.org.uk%2Fdocs%2Fjan04%2Fcoffee.pdf&sa=D&sntz=1&usg=AOvVaw31tI9HJmF3R-nIRUVcsaX2)**.** *The Psychologist*, 16(7), 358--359.
 
 -   Stafford, T. (2000). [**Stroop interference: methodological problems and contrary data**](http://www.google.com/url?q=http%3A%2F%2Fpsycprints.ecs.soton.ac.uk%2Farchive%2F00000110%2F&sa=D&sntz=1&usg=AOvVaw25AMB1sxZcqBDAARA21Zu1)**,** *Psycoloquy*, 11, #110.
+
+
+# Books and chapters
+
+-   Stafford, T. (2011). [How do we use computational models of cognitive processes?](https://drive.google.com/file/d/1aXmvysI3PVNXGEdsMpAXunptvwUuez6h/view?usp=sharing) (PDF, 289KB) In E. Davelaar (eds) Connectionist Models Of Neurocognition And Emergent Behavior: Proceedings of the 12th Neural Computation and Psychology Workshop, 326--342. World Scientific.
+
+-   Stafford, T. (2010).[ The Narrative Escape](http://mindhacks.com/2010/10/21/the-narrative-escape/), 40kbooks, Milan.
+
+-   Moore, G & Stafford, T. (2010). [The Rough Guide Book of Brain Training](http://idiolect.org.uk/braintrain/).
+
+-   Stafford, T. (2009) Hacking our tools for thought in Nold, C. (ed) Emotional Cartography: Technologies of the Self, 88-96. [emotionalcartography.net](http://emotionalcartography.net/)
+
+-   Stafford, T. (2009). [What use are computational models of cognitive processes?](https://drive.google.com/file/d/19ZS4cAaAIlHcC0kTqOtJHAfox-4GRQlB/view?usp=sharing) (PDF, 132KB) In J. Mayor, N. Ruh and K. Plunkett (eds.) Connectionist Models of Behavior and Cognition II: Proceedings of the 11th Neural Computation and Psychology Workshop, 265--274. World Scientific.
+
+-   Catney, P., Eiser, J.R., Henneberry, J. and Stafford, T. (2007) Democracy, Trust and Risk Related to Contaminated Sites in the UK, in: T. Dixon, M. Raco, P. Catney & D.N. Lerner (Eds.) Sustainable Brownfield Regeneration: Liveable Places from Problem Spaces. Oxford: Blackwells.
+
+-   Stafford, T. and Gurney, K.N. (2006). Computational Models of Cognition. In An Introduction to Cognitive Psychology: Processes and Disorders. Second Edition. Ed. David Groome. Hove, UK: Psychology Press.
+
+Stafford, T. and Webb, M. (2004). [Mind Hacks: Tips and Tricks for using your brain](http://www.mindhacks.com/). Sebastapol, CA: O'Reilly.

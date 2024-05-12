@@ -2,9 +2,8 @@
 title: "Done"
 ---
 
-Recording things i've done which don't go under [Publications](https://tomstafford.sites.sheffield.ac.uk/outputs/scholarly-publications), 
-[Talks](https://tomstafford.sites.sheffield.ac.uk/outputs/talks) or Newsletter: <https://tomstafford.substack.com/>. Most of these posted to [Mastodon](https://mastodon.online/@tomstafford) too.
-
+Recording things i've done which don't go under  [Papers](papers.html), 
+[Talks](https://tomstafford.sites.sheffield.ac.uk/outputs/talks) or Newsletter: <https://tomstafford.substack.com/>. For current preoccupations, see [here](news.html).
 
 
 ## 2023
@@ -57,9 +56,23 @@ Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www
 
 2023-01-01 [Archive of tweets 2008-2022](https://idiolect.org.uk/tweets/)
 
+# 2021
+
+2021: [The Experiment Design Checklist](https://tomstafford.github.io/psy-checklist/)
+
 # 2020
 
 Led development and adoption of the [University of Sheffield statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+
+2020: [The Letters of Pope Gregory VII - pilot project](https://figshare.com/articles/dataset/The_Letters_of_Pope_Gregory_VII_-_pilot_project/12781049) (with Charles West and George Litchfield)
+
+# 2019
+
+[Animated Itinerary of King John,](https://sites.google.com/d/1nQb4g6jqk7M0gwaD4Bvw7QKtBg0nkQRV/p/120fMmXEkjhEwEnsgf8fx5v1XKQrf3MdZ/edit)  [Mapping The Itinerary of King Edward I](https://figshare.com/articles/dataset/Mapping_The_Itinerary_of_King_Edward_I/8948699), [Mapping Papal Letters](https://tomstafford.github.io/PapalCorrespondence/) (with Charles West)
+
+# 2018
+
+2018: [@ChoiceEngine - an interactive essay about the psychology of free will](https://github.com/tomstafford/choice-engine-text)
 
 # Earlier
 
@@ -68,3 +81,7 @@ Led development and adoption of the [University of Sheffield statement on Open R
 2012 - 2017 Wrote a column for [BBC Future](https://www.bbc.com/future/columns/neurohacks)
 
 2012-09 I wrote some of the code in LongArm, [a robot which draws labrynthine patterns](https://www.youtube.com/watch?v=lSuvSsDrEAw), by Matthias Jones
+
+2012: [The Cognitive Science Safari](https://sites.google.com/d/1nQb4g6jqk7M0gwaD4Bvw7QKtBg0nkQRV/p/1Q0M0b1kRUveC9w0Li7Je0A1f1E8PzzYB/edit) was a street-tour of classic social psychology experiments, in Berlin as part of the BMW Guggenheim Lab.
+
+2011: [The Tea Taste Test](https://sites.google.com/d/1nQb4g6jqk7M0gwaD4Bvw7QKtBg0nkQRV/p/1O7uZnZPiKBL7C6JiR0DLSgGCqVw86uYX/edit) -- explaining why statistics are important to psychology, using a controversy of how to make a cup of tea.
