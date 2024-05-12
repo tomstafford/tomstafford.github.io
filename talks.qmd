@@ -1,0 +1,377 @@
+---
+title: "talks"
+---
+
+# Coming up
+
+
+# Past talks
+
+## 2024
+
+-   17th April 2024, [Improving The Research Funding Lottery](https://docs.google.com/presentation/d/1W1RmcaYGKjsRHFLZ-zC0S0PN_UWV_oCto78z62I1bc8/edit?usp=sharing) at School of Architecture, University of Sheffield.
+
+    -   Researchers spend hours and hours writing funding proposals and in the end bad ideas get funded and good ideas get missed. Everyone has the suspicion that the funding process is biased against people in the wrong fields, from the wrong institutions or with the wrong backgrounds. Can research funding be improved, and what does the evidence say? Tom will talk about work from the Research on Research Institute, and about projects on innovations in how research funding is awarded.[  https://researchonresearch.org/](https://researchonresearch.org/)
+
+-   10th April 2024, [Research on Research](https://docs.google.com/presentation/d/1htwqAwrvKtLONwIP1szg7QNMDMQoEJBvuGRTmfrqX20/edit?usp=sharing) at School of Psychology Research Day, University of Sheffield.
+
+-   9th February 2024, [Adventures in the Multiverse](https://docs.google.com/presentation/d/1ZIdTon4KVqZrwkoQMR_Seu4plM5oTQf3hzgk6lZqveY/edit?usp=sharing) at [TARG](https://www.bristol.ac.uk/psychology/research/brain/targ/), University of Bristol
+
+    -   Complex data and complex methods mean multiple statistical analyses are potentially legitimate. Multiverse analysis offers a tool to interrogate the stability of results under different analysis choices. After introducing the general history and rationale of multiverse analysis, I will talk about two multiverse projects I have been involved in, both in my research area of bias and decision making, and what we have learned from them
+
+    -   Slides: "[Adventures in the Multiverse](https://docs.google.com/presentation/d/1ZIdTon4KVqZrwkoQMR_Seu4plM5oTQf3hzgk6lZqveY/edit?usp=sharing)" ([PDF](https://drive.google.com/file/d/1il0clUWLZCSlj4s8L_5ftZaSAABH4e0o/view?usp=sharing))
+
+-   19th January 2024 6pm UK time, Google IQ Research Talk: [When people are wrong on the internet - reasons to be optimistic](https://docs.google.com/presentation/d/1snNtURuMiiXBkrt-kg2cF3E_g0pfwn9as3e_Tz3p30I/edit?usp=sharing) (host Mevan Babakar)
+
+    -   Human reasoning in the digital age has a terrible reputation. People are often portrayed as hopelessly biased, polarised and resistant to good sense, while - strangely - also being easily manipulated by malevolent forces and bizarre fads. From the trenches of psychological science, I bring you good news! I will discuss two strands of work. In the first, we show that even minimal deliberation allows online groups to select away from intuitive but wrong answers (and that there are prospects for language-model based dialogue agents to support good group reasoning). More at [delibot.xyz](https://www.delibot.xyz/). In the second strand of research we show that, across polarising topics, UK partisans are surprisingly good at representing the views of the ideological opponents, and that the better people are at this the more likely they are to view people they disagree with as moral, informed and rational. More in [Brand, Brady & Stafford (2023)](https://osf.io/preprints/psyarxiv/2e9wn). 
+
+    -   [Slides](https://docs.google.com/presentation/d/1snNtURuMiiXBkrt-kg2cF3E_g0pfwn9as3e_Tz3p30I/edit?usp=sharing), [PDF](https://drive.google.com/file/d/1wDGAZkwTgy0x0JH-kB_LamFBSdyzj75c/view?usp=drive_link)
+
+## 2023
+ 
+-   7.30pm 18th of September 2023 for the [Consciousness Perspectives Forum](https://scientificandmedical.net/consciousness-perspectives-forum/) of the [Scientific and Medical Network](https://scientificandmedical.net/) [online, £]
+
+    -   "[Free thought in a world of influences](https://docs.google.com/presentation/d/1m2haWkkQJ1Gul6iuPZ_0wryob4ZfrvplIxVTxn-pl0I/edit?usp=sharing)" ([PDF](https://drive.google.com/file/d/1XGA3qfhxREMn5iXmEfikMBiKmWcjSk_R/view?usp=sharing))
+
+-   2pm, 6th Sept 2023:. [The Possibility Studies Network](https://www.possibilitystudies.net/) [online, free]
+
+    -   "[Human reason and the expanding circle](https://docs.google.com/presentation/d/1blnmTTW8Ew_6CDK0mQ30BHuZbUjVPvx3uomGxRkACdg/edit?usp=sharing)" ([PDF](https://drive.google.com/file/d/1IJTVHA_XhdTxdJEXh9jdgk1MeHAPdt-D/view?usp=drive_link))
+
+-   30 June 2023 [RoRI's Experimental Research Funder's Forum](https://docs.google.com/presentation/d/1jfJ5KFeJzCQSlx75-0tXyv0CAKGzZvQ3hulHIdRjl9A/edit?usp=sharing) at workshop on [The Funding of Science and Innovation](https://www.som.polimi.it/the-funding-of-science-and-innovation/), Milan, 29-30 June 2023 ([PDF](https://drive.google.com/file/d/1AGAeUKPJSt6tNgWZYvSIW02l_g1tJkII/view?usp=drive_link))
+
+-   6th June 2023 [Research on Research: Introducing Metascience](https://docs.google.com/presentation/d/1_3nOAEb_o_6Ykk3_IUQRfLDVz_QHiDck7W8B7FxE4Vo/edit?usp=sharing) at the Scharr Research Away Day, University of Sheffield.
+
+-   24th May 2023 "[The UKRN's Open Research programme. WP1: Training](https://docs.google.com/presentation/d/13SISHdIdITEjPbIyI-RxSfp0w_pca_0RkY8SqWXZI0M/edit?usp=sharing)" at [Keele Open Research week](https://www.keele.ac.uk/openresearchweek/) conference
+
+-   5th of May 2023 Keynote at [EACL2023](https://2023.eacl.org/program/main/), [Sixth Workshop on Fact Extraction and VERification](https://fever.ai/workshop.html):
+
+    -   "[Faith in Reason: Prospects for fact checking in a world of bias](https://docs.google.com/presentation/d/1duYeukxv282OPQRI2-2OnoFnZiVCAHZ_C5696rNF0iA/edit?usp=sharing)" ([PDF](https://drive.google.com/file/d/1cCxjUNP9A_Gx5ZTGBZolqOLziWU8YCck/view?usp=share_link))
+
+-   2nd March 2023 - "[Maximizing the potential of digital games for understanding skill acquisition](https://docs.google.com/presentation/d/1Fdp7plowlCYcr42dXfZP_-mJV9idwoDcgqegD7l9QgU/edit?usp=sharing)", Invited Speaker, Center for Educational Neuroscience, UCL
+
+    -   [recording](https://www.youtube.com/watch?v=En1lBcGTpo0)
+
+-   2nd Feb 2023 - talks and panel discussion [INTERFACE: Art/Technology/Collaboration](https://www.sitegallery.org/event/interface-art-technology-collaboration/)
+
+    -   [slides](https://docs.google.com/presentation/d/1m_UgWRuEbzfgG5wZg7ufvi2_iP-wAp5w1quX31b2PNw/edit?usp=sharing)
+
+    -   newsletter on this [Microarguments and macrodecisions](https://tomstafford.substack.com/p/microarguments-and-macrodecisions)
+
+## 2022
+
+-   9th December 2022 - [Wide Open?](https://docs.google.com/presentation/d/1uikndHgd6V6VJS3sGfbRDVjQOoGvL8Niil47jgjv2qU/edit?usp=sharing) Inaugural annual Open Research lecture, University of Sheffield.
+
+    -   [Tickets](https://www.eventbrite.co.uk/e/university-of-sheffield-inaugural-annual-open-research-lecture-tickets-440984976937)
+
+-   7th Dec 2022 -[ Faculty doctoral training on research professionalism & integrity ](https://docs.google.com/presentation/d/1fbkF-nd2jbOxg9akluIpwyEj6L0xaXqyiNGMT-htTSw/edit?usp=sharing)(DDP Module code: FCP611) 
+
+-   8th November 2022 - "[How arguments work: The Delibot Project](https://docs.google.com/presentation/d/1qQ9HSqnShq3cYOF-L9FrDqg_5GPSPXrlJZm7_FytBq0/edit?usp=sharing)", Department of Psychology research day
+
+    -   See also [delibot.xyz](https://www.delibot.xyz/)
+
+-   4 November 2022 - Invited Speaker, [School of Collective Intelligence](https://sci.um6p.ma/), Mohammed VI Polytechnic University, Morocco: "[How Arguments Work](https://docs.google.com/presentation/d/1SqZRKwwju2tK47tQrvLQsgBQjmfR4P0LiDjy2vpRH64/edit?usp=sharing)"
+
+-   2 September 2022 - Plenary Lecture, How the research on Research Institute (RoRI) is aiming to improve how research is funded, practiced, communicated, and evaluated. Meeting of the [NeuroLeman Network and Doctoral Schools (NLN)](https://www.neuroleman.ch/) 2022, Les Diablerets, Switzerland
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1KiAqZXl5LBzA6O0Fc2nEFzlNYPD46CORc3dbyZdnPx0/edit#slide=id.g132c935b892_0_114)
+
+        -   [Presentation slides](https://drive.google.com/file/d/1S4TsFmREC5_7OH-ACKqg64XUJcImvKuk/view?usp=sharing) (PDF, 5.1MB)
+
+-   7--9 September 2022 - Keynote, [BPS Cognitive Psychology Section Conference 2022](https://www.cogsec2022.com/), University of Sussex
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/11CesdSn8oUvyGwHhOvtvDGxowy-OMwhxRl6XKEdvFS4/edit?usp=sharing)
+
+        -   [Presentation slides](https://drive.google.com/file/d/1HPAg4-nKHgR67lChLPPkgat52cAe_boS/view?usp=sharing) (PDF, 4.8MB)
+
+-   20 April 2022 - Maximizing the potential of digital games for understanding skill acquisition. Part of Digital Creativity Speaker series @ University of York.
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/19Djw0nBYGR0Yjd9jEKdBlaE8nLh1xBkZHl96T3UC9tQ/edit?usp=sharing)
+
+        -   [Presentation slides](https://drive.google.com/file/d/1DCefMe5cON3VH729gvsK9ss_AmB-KQhh/view?usp=sharing) (PDF, 3.2MB)
+
+-   6 April 2022 - Research Improvement at TUOS 
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/12BthkJitruyL_LY4cH7lvnMR2OGSQUPUbbPkRU6WG48/edit?usp=sharing) (requires University login to view)
+
+These slides form the basis for events run in the:
+
+-   -   -   Department of Urban Studies & Planning (2022-04-26)
+
+        -   Department of Economics (2022-05-04)
+
+        -   The Social Research Institutes (2022-05-13)
+
+        -   School of Architecture (2022-05-19)
+
+        -   School of Education (2022-05-25)
+
+        -   School of Clinical Dentistry (2022-05-26), Centre for Care (2022-06-07)
+
+        -   Department of Sociology and Social Care (2022-06-07)
+
+        -   Department of Politics (2022-06-07)
+
+        -   Department of Architecture (2022-06-29)
+
+        -   Department of Landscape Architecture (2022-07-06) and others.
+
+-   23 March and 14 April 2022 - Understanding the brain through the eyes\
+    What we see and how we see can be used to help us understand how the brain works. Illusions are not just visual tricks, but illustrate the deep principles which our brains use to construct reality. In this talk, with the use of many examples, I will show how the study of illusions provides important lessons for psychologists trying to understand all aspects of mind, brain and behaviour
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1F-AnQEURCFRWY1W99S75dY5mUkykBQZj_xhhSdidlGo/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1lH6tx_kE2zvolV3lQDShwyqMlw5HpUyw/view?usp=sharing) (PDF, 3.2MB)
+
+-   23 Feb 2022 - Open Research at the DDRI Network meeting
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/16_sO5H1mvbEMVu12eyT4uARw9h1BRF3i8nyGbI0nCcs/edit?usp=sharing)
+
+
+
+## 2021
+
+-   7 December 2021 - Faculty doctoral training on research professionalism and integrity (DDP Module code: FCP6101)
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1fbkF-nd2jbOxg9akluIpwyEj6L0xaXqyiNGMT-htTSw/edit?usp=sharing)
+
+-   25 November 2021 - SuperVisionaries: Open Research for Supervisors
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1cxZY-VV9n9Eq2JT7iGV4a7l2sJnQ_zpM-OC-AjaUVoI/edit?usp=sharing)
+
+-   17 November 2021 - Open Research Conversations: "Open Source Licensing", with Bob Turner
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1xtLJXckiCb7lW-syhtCTtkJsXTFDhpfe5gF8zkRoey8/edit?usp=sharing)
+
+-   27 October 2021 - Into the Multiverse, slides to support a Sheffield MetaNet discussion
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1_Hzae2fCDby02BIdsbPQpuq353R09d5pSrYKoQ0ohG8/edit?usp=sharing)
+
+-   30 June 2021 - The rise of on-line political advertising: A 'moral panic'?, with Dr Kate Dommett, a [Top Talk from the APG](https://www.apg.org.uk/).
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1nwwqbRB2-t7IjmpUBnH47jDPfeJ6t5e8Yhi4l8sJNNU/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1dBrQmCp1W0NVz-UaWeJ-blJSlcRtvpR5/view?usp=sharing) (PDF, 2MB)
+
+-   16 June 2021 - Why you should use decision models with your response time and accuracy data at [Centre for Cognition and Neuroscience](https://research.hud.ac.uk/institutes-centres/ccn/), University of Huddersfield (and online).
+
+    Decision modelling is increasingly accessible and yields highly practical benefits to experimental psychologists. This talk will explain why and how you should apply decision models to your data.
+
+    Response time and accuracy are fundamental measures of behavioural science, but discerning participants' underlying abilities can be masked by speed-accuracy trade-offs (SATOs). SATOs are often inadequately addressed in experiment analyses which focus on a single variable or which involve a suboptimal analytic correction. Models of decision making, such as the drift diffusion model (DDM), provide a principled account of the decision making process, allowing the recovery of SATO-unconfounded decision parameters from observed behavioural variables.
+
+    I will show, using simulations and worked examples from experimental data, how decision models allow potentially massive increases in statistical power at the same time as helping you avoid mistaken inferences due to variations in participants' SATOs strategies. Because the modelling community has focussed on differences between different decision models, this has disguised the fact that there is now a consensus around the core mechanisms which define the family of plausible decision models, as well as increasing agreement on tools for fitting behavioural data with these decision models.
+
+    Stafford, T., Pirrone, A., Croucher, M., and Krystalli, A. (2020). Quantifying the benefits of using decision models with response time and accuracy data. Behavioral Research Methods, 52, 2142-2155 [doi.org/10.3758/s13428-020-01372-w\
+    ](https://doi.org/10.3758/s13428-020-01372-w)See also:
+
+    -   -   the [interactive data explorer](https://sheffield-university.shinyapps.io/decision_power/):
+
+        -   [Pre-print](https://tomstafford.sites.sheffield.ac.uk/sub-sites/decision-power)
+
+        -   [Google slides](https://docs.google.com/presentation/d/1mQaDtmFk-Cj86EkVblvo7aeg4sfShrShMFhkBmcpaAk/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1fBdFHrUXQ9_DxahhWAJxh-_xZyC2pnOg/view?usp=sharing) (PDF, 1.3MB)
+
+-   14 June 2021 - A researcher's perspective on reproducibility, University of Sheffield Medical School Research Meeting
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1cpTzLxorxUqcwY6T2BtkD1wL3wBihozL9HdGTbN3xNA/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1FZorVFfdujqkcQyjYUaTngcQykaTPawD/view?usp=sharing) (PDF, 1.2MB)
+
+-   3 March 2021 - Revolutions in Reproducibility, Sheffield Metascience Network Launch
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1RMwO6jg3Y1V6L_UGIdBWhYGb1u9TDpjYDbAyCT3QwCQ/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1Jjbyuky0s3qRZbuGjTqMFndT5wiG8ZWK/view?usp=sharing) (PDF, 1.1MB)
+
+-   18 Jan 2021 - Reproducibility in Practice - [Open Research Conversations](https://www.sheffield.ac.uk/library) at University of Sheffield. With Dr Anna Krystalli
+
+-   [Google slides](https://docs.google.com/presentation/d/1qsv8IETDKxLwubWkWyD5mCDlWWfCHIRAqQpTe572fMk/edit?usp=sharing)
+
+-   [Presentation](https://drive.google.com/file/d/1yMUs_XXQir7I8XQefWe10j2U6VdyNljj/view?usp=sharing) (PDF, 673KB)
+
+-   [Talk recording](https://figshare.shef.ac.uk/articles/presentation/Open_Research_Conversation_Reproducibility_in_Practice/13516274)
+
+
+
+## 2020
+
+-   28 Jan 2020 - Bias and Blame - Department of Psychology, University of York.
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1VddXVox1RZD5qZgAOazSDSGjHoBr2F-nFZSyFDI6ZmM/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1EWi2YwLIBlzywxELnyznL-forkLK2fpn/view?usp=sharing) (PDF, 2.3MB)
+
+
+
+## 2019
+
+-   12 Nov 2019 - Unconscious Bias - at [Ministry of Justice, Digital and Technology](https://mojdigital.blog.gov.uk/), Sheffield.
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1GIqsGdtthkCG049OoJoqma_qXua-MnRyhQTrtWYvQ8s/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1YiXqUGHU656iAShcMery2yLyCMdTD3Ej/view?usp=sharing) (PDF, 2.2MB)
+
+-   21 Oct 2019 - Analysing Big Data to Understand Learning - 15 minutes for SMI606, at the [Sheffield Methods Institute](https://www.sheffield.ac.uk/smi).
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1ZI-DYc2ojDbT1BvgpSbIxe8fZLPlTB1nOUllkzh72E0/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1o9SZZmWxjQM1tAgAxz6hqkAvzAz1lBHq/view?usp=sharing) (PDF, 1.9MB)
+
+-   5 Oct 2019 - Rational Choices About Who To Trust, [Truth and Trust Online](https://truthandtrustonline.com/).
+
+    -   -   [Video](https://www.youtube.com/watch?v=3ermwFGVql4)
+
+        -   [Talk slides and transcript](https://tomstafford.sites.sheffield.ac.uk/sub-sites/truth-and-trust)
+
+        -   [Google slides](https://docs.google.com/presentation/d/1bbuO0rlX95iWQ2ndporRKpnDGfsuMBELyVeM0-3GGEc/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1c1nPWqluIR7E2av1dJh8_qvJW0BYZgj4/view?usp=sharing) (PDF, 1.6MB)
+
+-   26 Sept 2019 - Bias, Skill and Decisions, Department of Computer Science, University of Sheffield ([Natural Language Processing Group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing)).
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1jx6UEICeQXaHG7VPJzPQRtqS8k62BFPEI6jQCcr1UAI/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/10a3uoYOJMd-w7uh0iKHhTPTdMBa0fhyD/view?usp=sharing) (PDF, 812KB)
+
+-   8 April 2019 - Computation, Science and Reproducibility, [HPC at Sheffield](https://students.sheffield.ac.uk/it-services/research/hpc-facilities).
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1dKJCeV9er0zVXblTd52GHZxZszXtGGXfpeZMLH3AD6A/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1DOuFusShxS66YtU33NNDmnM1NlOTywK2/view?usp=sharing) (PDF, 1.5KMB)
+
+-   8 February 2019 - Confronting Bias,  [Disciplinary Conference](http://www.disciplinaryconference.com/).
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1JQoAHhyIFkwlliiUcQtD-KyXsQpJScEQB_oy8IjZVp0/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1yGSsmE3sviNnBbDGZO6OoP-V1wnV42Da/view?usp=sharing) (PDF, 1.9MB)
+
+        -   [Confronting Bias Project](http://confrontingbias.group.shef.ac.uk/)
+
+        -   [Resources](http://confrontingbias.group.shef.ac.uk/resources/)
+
+-   30 January 2019 - Research Blogging, A Bite Size Guide to Research in the 21st Century - Communicating Your Research.
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1Ymo7ecKRAn-Cn3OblpV5Ry-9e5PrOKmIS0c5JRzznDM/edit?usp=sharing)
+
+-   15 January 2019 - Reasons and Values, Remarks at "Re-energising the narrative: human rights in the digital age" at [Wilton Park](https://www.wiltonpark.org.uk/).
+
+    -   -   [Blog post](https://tomstafford.sites.sheffield.ac.uk/news/remarks-at-re-energising-the-narrative-human-rights-in-the-digital-age)
+
+        -   [Transcript](https://drive.google.com/file/d/1OwJUhPmPY1TTacJ_bR-_hN727FgAgqrk/view?usp=sharing) (PDF, 36KB)
+
+
+
+## 2018
+
+-   25 Sept 2018 - The Choice Engine at [Festival of the Mind](http://festivalofthemind.group.shef.ac.uk/)
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1fK_Ven7ilQSXPv6dyLW7sBph1W7mTHo0vV8mwzTb7cM/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1G8Cb9fe22tkACNWi_Sj4VWBKhD6xm9ed/view?usp=sharing) (PDF, 2.5MB)
+
+-   24 Sept 2018 - Defining Bias at [Empirically Informed Implicit Bias Training workshop](https://biasbestpractice.weebly.com/)
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/17dqAQ5GHNQBhYwLQZt1S8ECmbkmXY0SuL39_ANrQ_X0/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1DY9oinzNmciWdPIWVWOiUFW_X3V95m3z/view?usp=sharing) (PDF, 1.4MB)
+
+-   2018 - Debating Sex Differences in Cognition: We Can Do Better
+
+    -   -   [Annotated slide deck](https://tomstafford.sites.sheffield.ac.uk/sub-sites/delusions-of-gender)
+
+        -   [Presentation](https://drive.google.com/file/d/19qNMqoVgLajvw-SpREx79Gppf0kyQPkK/view?usp=sharing) (PDF, 707KB)
+
+        -   [Transcript](https://tomstafford.sites.sheffield.ac.uk/outputs/talks)
+
+
+
+## 2017
+
+-   9--12 July 2017 - Psychonomic Society Leading Edge Workshop: [Beyond the Lab: Using Big Data to Discover Principles of Cognition](https://www.psychonomic.org/page/2017workshop), Madison, Wisconsin, USA.
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1P3IctB3SRer8HQgjXZthe87IHTdmjqu4ipKXUrnCdmc/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1-qWorkf1XjJzugnJR5Oe5Fhg--lZqh09/view?usp=sharing) (PDF 4.2MB)
+
+-   16 May 2017 - Optimal Learning in Games @ Pint of Science, Sheffield
+
+    -   -   [Video](https://www.youtube.com/watch?v=4W_QVrwDvMY)
+
+        -   Screenshot from video: 
+
+![](images/pintofscience.png)
+
+-   31 January 2017 - Experiments in Learning,  [Greenwich University](https://www.gre.ac.uk/) Open Lectures in Teaching and Learning.
+
+    -   -   [Video](https://vimeo.com/album/3694974/video/202237782)
+
+        -   [Presentation](https://drive.google.com/file/d/133NE1LVl4u7Q_Chv0GDATbpE0tYCFJV3/view?usp=sharing) (PDF 1.4MB)
+
+-   19 January 2017 - Learning: new techniques for the old topic, [University of Dundee](https://www.dundee.ac.uk/), Department of Psychology.
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1SyeTx-OVzicS6p5QOrR0HT2mz0D-R6-x_khylmRzfsw/edit?usp=sharing)
+
+
+
+## 2016
+
+-   7 June 2016 - Research Bloggin, [A Bite Size Guide to Research in the 21st Century](https://www.eventbrite.co.uk/e/a-bite-size-guide-to-research-in-the-21st-century-episode-two-tickets-24480920091)
+
+    -   -   [Google slides](https://docs.google.com/presentation/d/1oE04e0y767qv97a2dag5wOnBSCjIw34Pg9jlmHOMVIE/edit?usp=sharing)
+
+        -   [Presentation](https://drive.google.com/file/d/1jNQ4O0XoMD1ExfdGgk9Rh9by7odsQNWU/view?usp=sharing) (PDF, 1.4MB)
+
+-   16 March 2016 - Factors influencing optimal skill learning: data from a simple online game, Network on Intrapersonal Research in Education (NIRE), York
+
+    -   -   [Video](https://www.youtube.com/watch?time_continue=1&v=RY7Vj_XEnqo)
+
+        -   [Presentation](https://drive.google.com/file/d/1HRiFjg1euV_jTY70xleqwX-SgypyJ7em/view?usp=sharing) (PDF, 3.1MB)
+
+
+
+## 2012
+
+-   July 2012 - A Berlin Cognitive Science Safari
+
+    -   [Report](https://mindhacks.com/2012/07/16/berlin-cognitive-science-safari-report/)
+
+    -   And I made the cover of the Wall Street Journal:
+
+![](images/wsj.png)
+
+
+
+## 2011 and earlier
+
+-   [Beyond reinforcement learning in action acquisition](https://drive.google.com/file/d/1ff_6aAqGLejXUvOjRGLJ6Hc_88ln4DD9/view?usp=sharing), (OpenOffice, 3.7MB) 9 November 2011, Department of Psychological Sciences, Birkbeck University of London.
+
+-   Inferring cognitive architectures from high-resolution behavioural data, 13 May 2011, [York Centre for Complex Systems Analysis](http://www.york.ac.uk/res/yccsa/), University of York.
+
+-   A novel task for the investigation of action learning, 7 July 2010, Experimental Psychology Society, Manchester, 7-9 July 2010
+
+-   An empirical test of some philosophies of science, 21 May 2010, Heng Seng Centre for Cognitive Studies, University of Sheffield
+
+-   How do we use computational models of cognitive processes?, Neural Computation and Psychology Workshop, 8-10 April 2010, Birkbeck, London
+
+-   [What use are computational models of cognitive processes?](https://docs.google.com/presentation/d/1GtuQOnCjySDTH6B0kUMueFq4vRD4Xr9V/edit?usp=sharing&ouid=106112927054309632662&rtpof=true&sd=true), (PowerPoint, 3.6MB) 19th of March 2010, Redwood Centre for Theoretical Neuroscience, UC Berkeley
+
+-   [Using the psychophysics of choice behaviours to infer mental structure from reaction times](https://docs.google.com/presentation/d/1Vp6VgqAmIltnz9IWJtgFNlkqqa5GOHq4/edit?usp=sharing&ouid=106112927054309632662&rtpof=true&sd=true),(PowerPoint 2MB) 15th of January 2010, Department of Psychology, National University of Ireland, Galway
+
+-   [Pieron's Law holds in conditions of response conflict](http://csjarchive.cogsci.rpi.edu/Proceedings/2009/papers/524/index.html), 1st August, presented at the 31st Annual Conference of the Cognitive Science Society. Amsterdam, The Netherlands.\
+    [Presentation](https://docs.google.com/presentation/d/1FJcdBBXwTaZXS6inZMAOjK6FxKY1DZtU/edit?usp=sharing&ouid=106112927054309632662&rtpof=true&sd=true) (PowerPoint, 1.6MB)
+
+-   The nonconscious mere exposure effect with brand logos: real but elusive, Department of Psychology, City College, Thessaloniki, 1/6/09
+
+-   Email: the technology and psychology of continuous partial attention, UFI, Sheffield, 12 November 2008
+
+-   [Things can be known : Teaching psychology through demonstrations](https://docs.google.com/presentation/d/1C6EYi_APHhpgWpidTf3cP2UQuVZxw47T/edit?usp=sharing&ouid=106112927054309632662&rtpof=true&sd=true) (PowerPoint, 7.4MB) Keynote at 26th Annual Conference of the Association for the Teaching of Psychology, University of Lincoln, 11th of July, 2008
+
+-   How to make students talk in seminars, HEA Psychology 'Postgraduates who Teach' Network, University of Birmingham, 27 May 2008
+
+-   The psychological foundations of privacy, Privacy in Law, Ethics and Genetic Data, 1st international workshop PRIVILEGED Project (EC FP6), 10 Jan 2008
+
+-   Debates in Cognitive Neuroscience, Centre for Inquiry Based Learning in the Arts and Social Sciences, University of Sheffield, 30 May 2007
+
+-   [Is there a science of advertising?](https://docs.google.com/presentation/d/1l4VwP6F2LxMsb73En7qs1g8K87wYglo9/edit?usp=sharing&ouid=106112927054309632662&rtpof=true&sd=true) (PowerPoint, 3.3MB) University of Hull, Management School, 27th of April 2007
+
+-   Residents' perception of risk on contaminated sites, Environment Agency training day, Leeds, 20th of June, 2007

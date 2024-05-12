@@ -17,6 +17,7 @@ website:
       - href: research.qmd
       - href: papers.qmd
       - href: writing.qmd
+      - href: talks.qmd
       - href: done.qmd
       - href: news.qmd
 
