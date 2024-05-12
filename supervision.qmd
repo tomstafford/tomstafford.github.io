@@ -1,0 +1,138 @@
+---
+title: "Supervision"
+---
+
+I am always enthusiastic to hear from potential PhD students. Please get in touch.
+
+A PhD with me will involve using [robust](https://www.nature.com/articles/s41562-016-0021) and [open science](https://en.wikipedia.org/wiki/Open_science) methods to address theoretical ideas in cognitive science. Plus extensive mentoring on all aspects of the scholarly life, conducted in [Sheffield's best coffee shops](https://www.ourfaveplaces.co.uk/our-guides/top-10-coffee-shops/).
+
+Specific projects I am currently seeking students for are [here](https://docs.google.com/document/d/1v9akVLjoYlR01V7SvGjYxUsDP2zCCbdvSXYB1NqoqcQ/edit?usp=sharing). Some advice about applying is [here](https://github.com/tomstafford/onboarding/).
+
+# Current PhD and postdoc supervision
+
+
+## Postdoc
+
+-   [Amber Copeland](https://scholar.google.com/citations?user=JnNAldsAAAAJ&hl=en) (2018--2025) on "Reinforcer-specific value-based decision-making in persistence of and recovery from alcohol use disorder"
+
+-   [Georgi Karadzhov](https://gkaradzhov.com/) (2024--2025) -- "DEliBots -- Deliberation Enhancing Bots" (at University of Cambridge)
+
+## PhD
+
+-   Indro Adinugroho (2021--2025) -- Investigating the Relation between Fundamentalism, Belief in Conspiracy Theories and Perceived Political Leadership toward Political Trust
+
+-   Hazel Gordon (2021--2025) "[Informing citizens? Effects of imprints on digital political advertising](https://tomstafford.sites.sheffield.ac.uk/news/phd-opportunity-informing-citizens)"
+
+-   Ioanna Spentza (2017--) -- Factors affecting Everyday Problem-Solving skills in Older Adults
+
+### Second supervisor to...
+
+-   Vesko Varbanov (2020-) ' Sensory processing in Autism Spectrum Conditions and Attention Deficit Hyperactivity Disorder'
+
+# Previous supervision and examining
+
+## As primary PhD supervisor
+
+-   [Maria Panagiotidi](https://scholar.google.co.uk/citations?user=XcFf_6EAAAAJ&hl=en&oi=ao), PhD 2017 '[The Role of the Superior Colliculus in Attention Deficit Hyperactivity Disorder](https://etheses.whiterose.ac.uk/12124/)'
+
+-   [Angelo Pirrone](https://scholar.google.co.uk/citations?user=UZzVps4AAAAJ&hl=en), PhD 2016 '[Decision modelling insights in cognition and adaptive decision making](http://etheses.whiterose.ac.uk/15841/)'
+
+-   Despina Panagiotidou (co-supervised with Ana Vivas, City College, Thessaloniki), PhD 2015, 'Distractor, Temporal, and Inhibitory Variations of the Distractor Devaluation Effect of Visual Selective Attention'
+
+-   [Tom Walton](http://www.abrg.group.shef.ac.uk/people/walton/), PhD 2012, '[The Discovery of Novel Actions](http://etheses.whiterose.ac.uk/2204/)'
+
+-   David Yates, PhD 2012, 'Using eye-movements to elucidate architectures of object recognition and selection'
+
+-   Cigir Kalfaoglu, PhD 2012, '[Errors and error-detection during skilled typing](http://etheses.whiterose.ac.uk/2924/)'
+
+## As a secondary PhD supervisor
+
+-   [Georgi Karadzhov](https://gkaradzhov.com/) (2019--2022) -- "DEliBots -- Deliberation Enhancing Bots" (at University of Cambridge)
+
+-   Ozan Vardal (2018--2022) -- [Leveraging Big Data from eSports Games to Understand Human Skill Acquisition](http://iggi.org.uk/students/2018/ozan-vardal/) (At University of York)
+
+-   [Elena Petrovskaya](https://www.elenapetrovskaya.com/) (2019--2023) -- Decision-making & e-sports (At University of York)
+
+-   [Amber Copeland](https://scholar.google.com/citations?user=JnNAldsAAAAJ&hl=en) (2018--2022)  -- 'Value-based decision-making and self-control in alcohol-related behaviour change and recovery from addiction'
+
+-   August Lindemer (2018-2022) 'Planetary Fever -- The Climate Change Communication of Health Professionals.'
+
+-   Siham Albesisi (2018 - 2023) 'emotion regulation on ADHD children'
+
+-   Stephanie Powell ' The relationship and effects of young children's use of technology'
+
+-   [Máté Gyurkovics](https://scholar.google.hu/citations?user=XGk9OnEAAAAJ&hl=hu) --  'Affective factors in cognitive control: Behavioural and neural investigations in adults and adolescents'
+
+-   Stephanie Armstrong 'Relation between the Executive Function development and the reading acquisition, from a neuropsychological view'
+
+-   Andreas Bunge (Department of Philosophy, University of Sheffield), "The mental structure of prejudice", February 2018
+
+-   Luana Nunes, "Ethological Decision Making with Non-Stationary Inputs Using MSPRT Based Mechanisms" May 2017
+
+-   Alvin Pastore (Department of Computer Science), "Neuroeconomics, Reinforcement learning and the equity premium puzzle" January 2017
+
+-   Stephanie Dunn (with Elizabeth Milne and Megan Freeth), PhD 2016 'Electrophysiological correlates of visual search in the autism spectrum'
+
+-   [Hamideh Kerdegari](http://scholar.google.co.uk/citations?user=BZdPw4MAAAAJ&hl=en) (supervised with Tony Prescott), PhD 2016 'Head-mounted Sensory Augmentation System for Navigation in Low Visibility Environments'
+
+-   Tom Bullock (supervised with Elizabeth Milne and Dick Eiser), 2012, 'Crossmodal Load and Selective Attention'
+
+## Research Associate Supervision
+
+-   Zarha Arjmandi Lari, 2022 - 2023
+
+-   Dagmar Adamcová, 2017--2018: "Quit while you're ahead: a surprising interaction between game performance and motivation" ([Blog post](https://tomstafford.sites.sheffield.ac.uk/news/quit-while-youre-ahead), [Jupyter notebook](https://github.com/dagmaradamcova/axon-drop-out/blob/master/axon_drop_out.ipynb)). Erasmus exchange
+
+## Post doctoral supervision
+
+-   [Junyan Zhu](https://www.sheffield.ac.uk/politics/people/academic-staff/junyan-zhu) (2020--2023)
+
+-   [Lotty Brand](https://lottybrand.wordpress.com/) (2020--2023)
+
+-   Mariana Leriche, 2014--2016
+
+-   Robin Scaife, 2013--2017
+
+-   Jen Lewis, 2012--2013
+
+-   Craig Bertram, 2012--2013
+
+-   [Martin Thirkettle](https://www.shu.ac.uk/about-us/our-people/staff-profiles/martin-thirkettle), 2008--2012
+
+# Examining
+
+-   **Matthew Warburton, University of Leeds, 8 March 2024**
+
+-   **Nick Simonsen, University of Nottingham, 18 October 2023**
+
+-   Danielle Beaton, University of Sheffield, 23 November, 2022
+
+-   **Emma Henderson, Kingston University London, 17 September 2021**
+
+-   Stanislava Naneva, University of Sheffield, 11 November 2020
+
+-   Andrea Caso, Birkbeck, University of London, 1 July 2019**
+
+-   **Athanasios Kokkinakis, University of York, 12 March 2019**
+
+-   Alejandro Jimenez Rodriguez, University of Sheffield, 15 February 2019
+
+-   **Jim Lumsden, University of Bristol, 19 October 2018**
+
+-   Conor Heapy, University of Sheffield, 4 May 2018
+
+-   **Joe Thompson, Simon Fraser University, Canada, 30 April 2018**
+
+-   Jonathan Glancy, University of Sheffield, 2 December 2016
+
+-   Christian Beyle Sandoval, University of Sheffield, 9 October 2015
+
+-   **Maria Dagioglou, University of Birmingham, 7 April 2014**
+
+-   Jennifer Lewis, University of Sheffield, 2012
+
+-   David Cameron, University of Sheffield, 2011
+
+-   Alexander Cope, University of Sheffield, 2011
+
+-   Mike Roberts, University of Sheffield, 21st October, 2010

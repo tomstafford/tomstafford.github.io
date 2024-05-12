@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+---
+
+# University of Sheffield
+
+I am director for the MSc programmes in Psychological Research Methods with Data Science. I am founding director for MSc in Psychological Research Methods with Data Science. I teach a MSc module in [data management and visualisation](https://tomstafford.github.io/psy6422/).
+
+In 2020 the Department of Psychology completed a redesign and overhaul of its undergraduate, based around a [programme level approach](https://staff.sheffield.ac.uk/teaching-guidance/curriculum/pla). I contributed to this as lead for one of the five core streams -- cognitive psychology.
+
+I was stream lead for cognitive psychology on the undergraduate psychology BSc. Within that, I teach level 1 and 2 students the psychology of decision making, skill and reasoning.
+
+Previously I have taught Synthetic Psychology, using [Lego robots](http://mindhacks.com/2010/06/23/the-scientific-method-lego-robots-edition/) and [Jupyter notebooks](https://github.com/tomstafford/emerge) to show how building models of behaviour can help us understand the nature of mind.
+
+I taught a graduate seminar on contentious issues in cognitive neuroscience for several years, including dual process accounts, sex differences in the brain, and the reliability crisis in cognitive neuroscience. This module was based on the principles of inquiry-based learning and uses unresolved questions in the cognitive neurosciences to teach critical analysis of research literature and how to build a novel and interesting scientific arguments. I have published a paper and a short report on the design of the course:
+
+-   Stafford, T. (2008), [A fire to be lighted: a case-study in enquiry-based learning](http://www.pestlhe.org.uk/index.php/pestlhe/article/view/39/160), Practice and Evidence of Scholarship of Teaching and Learning in Higher Education, Vol. 3, No. 1, April 2008, pp.20-42.
+
+-   Stafford, T. (2008). [Teaching questions rather than answers: inquiry-based learning on an MSc course](https://drive.google.com/file/d/1ygxtidGmBfM-i0DJwBcqRf_GNL6yH32M/view?usp=sharing) (PDF, 58KB). HEA Psychology Network Newsletter, Issue 46, January 2008.
+
+When I was module organiser for PSY241/3 Cognitive Psychology. I designed the course around the use of a [wiki](https://idiolect.org.uk/docs/wiki243/) -- an user editable webpage which allows writing practice, collaboration and encourages a critical approach to sources. Students who used the wiki more during the course scores higher on the exam:
+
+-   Stafford, T., Elgueta, H., and Cameron, H. (2014). [Students' engagement with a collaborative wiki tool predicts enhanced written exam performance](https://journal.alt.ac.uk/index.php/rlt/article/view/1491). Research in Learning Technology, 22.
+
+# Elsewhere
+
+I am external examiner at the University of Manchester (2023 -  ) for their [MSc MSc Computational and Corpus Linguistics.](https://www.manchester.ac.uk/study/masters/courses/list/21198/msc-computational-and-corpus-linguistics/course-details/)
+
+I am external examiner at the University of Glasgow (2022-2025) for their microcredential course in [Applied data skills for processing and presenting data](https://www.gla.ac.uk/coursecatalogue/course/?code=PSYCH2016).
+
+I was invite to give a keynote at the University of Greenwich on how Cognitive Science inspires my teaching, in January 2017.
+
+You may also enjoy this short list of [Cheap tricks for starting discussions in lectures](https://medium.com/@tomstafford/cheap-tricks-for-starting-discussions-in-lectures-c6baecd4a6c8).
+
+# Disclaimer
+
+
+
+This list is not comprehensive. I have teaching roles not mentioned here.

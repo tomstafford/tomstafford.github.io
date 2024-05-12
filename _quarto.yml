@@ -18,6 +18,8 @@ website:
       - href: papers.qmd
       - href: writing.qmd
       - href: talks.qmd
+      - href: teaching.qmd
+      - href: supervision.qmd
       - href: done.qmd
       - href: news.qmd
 
