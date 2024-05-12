@@ -261,3 +261,79 @@ title: "Publications"
 -   Stafford, T. and Gurney, K. N. (2004), [The role of response mechanisms in determining reaction time performance: Pieron's Law revisited](https://drive.google.com/file/d/1173WABpGb9jbDOwU-i99X9zrU5szzlmL/view?usp=sharing). (PDF, 231KB)  Psychonomic Bulletin & Review, 11, 975--987.
 
 -   Eiser, J. R., Fazio, R. H., Stafford, T. and Prescott, T. J. (2003), [Connectionist simulation of attitude learning: Asymmetries in the acquisition of positive and negative evaluations](https://drive.google.com/file/d/1bULXLeeUMv3wgq7g47JgLAZYfD_0ailg/view?usp=sharing). (PDF, 505KB)  Personality and Social Psychology Bulletin, 29, 1221--1235.
+
+
+# Conference papers and posters
+
+-   **Ambient rubbish: examining the attitudinal impact of incidental exposure to brand litter.** Grimes A, Stafford T and Roper S (2016), Academy of Marketing's 11th Global Brand Conference, Bradford University, UK
+
+-   [**Linking total movement history to action learning**](http://www.google.com/url?q=http%3A%2F%2Ffigshare.com%2Farticles%2FLinking_total_movement_history_to_action_learning%2F892378&sa=D&sntz=1&usg=AOvVaw3ExoQVhh4BcI8upQL-gmdc). Stafford and Thirkettle. Poster presented at Reinforcement Learning and Decision Making 2013, 24--26 October, Princeton, USA
+
+-   [**Testing theories of skill learning using a very large sample of online game players**](http://www.google.com/url?q=http%3A%2F%2Fmindmodeling.org%2Fcogsci2013%2F&sa=D&sntz=1&usg=AOvVaw25DG89Sfh2NZ8l9IK1qroA). Stafford & Dewar. Talk at the 35th Annual Meeting of the Cognitive Science Society, Berlin, Germany, 31 July 31 --3 August 2013
+
+-   **The effect of acquisition of an internal forward model on an exploration task**. M. Dagioglou, J. M.Bugella, T. Walton, T. Stafford, P. Redgrave, R.C. Miall. Poster presented at the 22nd Annual Meeting of the Society for the Neural Control of Movement, 23--29 April 2012, Venice, Italy
+
+-   [**Typing errors lead to increase in power and synchronization of theta oscillations**](https://drive.google.com/file/d/1Wu2oCkV5wyFZd_RjB33leGZI4R7drPMg/view?usp=sharing). (PNG, 923KB) Cigir Kalfaoglu, Tom Stafford and Elizabeth Milne. Poster presentation (by Kalfaoglu) in the British Association of Cognitive Neuroscience in Newcastle, UK on Wednesday the 11 April, 2012.
+
+-   **Instruction to relax enhances visual search performance by altering eye movements.** David Yates and Tom Stafford. Oral Presentation (by Yates) at 34th European Conference on Visual Perception which will be held in Toulouse, France from Sunday 28th August to Thursday 1st September, 2011.
+
+-   [**Visual search performance can be enhanced by instructions that alter eye movements**](https://drive.google.com/file/d/1dT4pXbJT-C1sBv5ORKyH623_ip-oqygg/view?usp=sharing).(PDF, 962KB)  David Yates and Tom Stafford. Poster Presentation (by Yates) at 16th European Conference on Eye Movements which will be held in Marseille, France from 21 --25 August 2011.
+
+-   **Learning the long way round: action learning based on visual signals unavailable to the superior colliculus is impaired.** Martin Thirkettle, Tom Walton, Kevin Gurney, Peter Redgrave and Tom Stafford. Oral presentation (by Thirkettle) at 34th European Conference on Visual Perception which will be held in Toulouse, France from Sunday 28th August to Thursday 1st September 2011.
+
+-   **What mistakes reveal about skilled performance: a study of touch-typing**. Cigir Kalfaoglu, Tom Stafford and Elizabeth Milne. Poster presentation (by Kalfaoglu) in the Experimental Psychologists Society Meeting in Oxford, UK from Wednesday the 13th to Friday the 15th of April, 2011.
+
+-   [**Integrating** ](https://drive.google.com/file/d/1gakIKmUFR3HqYLjn2FnVGKkHJVcbYzzA/view?usp=sharing)[**a**](https://drive.google.com/file/d/1gakIKmUFR3HqYLjn2FnVGKkHJVcbYzzA/view?usp=sharing)[**ugmented** ](https://drive.google.com/file/d/1gakIKmUFR3HqYLjn2FnVGKkHJVcbYzzA/view?usp=sharing)[**s**](https://drive.google.com/file/d/1gakIKmUFR3HqYLjn2FnVGKkHJVcbYzzA/view?usp=sharing)[**enses into active perception: a framework**](https://drive.google.com/file/d/1gakIKmUFR3HqYLjn2FnVGKkHJVcbYzzA/view?usp=sharing)**.**  Stafford, T., Javaid, M, Mitchinson, B., Galloway, A.M.J., Prescott, T.J. (2011). Poster presented at Royal Society meeting on Active Touch Sensing at the Kavli Royal Society International Centre, 31 January -- 02 February, 2011
+
+-   **Tracking the learning of actions:** **a****n evaluation of the frontal P3a component**. J.G. Bednark, E.A. Franz, T. Stafford, P. Redgrave, J.N.J. Reynolds. Society for Neuroscience Annual Meeting, 17-21 October 2009, Chicago.
+
+-   [**Saccadic latency versus eccentricity for targets scaled by an estimate of the cortical magnification factor**](https://drive.google.com/file/d/1wipQkEDOefWmKfhq7_jIM-_ZRa49DRUt/view?usp=sharing). (PNG, 1.8MB)  Yates, D.J.; Stafford, T. 15th European Conference on Eye Movements, Southampton, 23--27 August, 2009.
+
+-   [**The** ](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**n**](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**onconscious mere** ](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**e**](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**xposure effect with brand** ](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**l**](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**ogos: real but** ](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**e**](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing)[**lusive**](https://drive.google.com/file/d/1mYVVhmBOA2PhNn4fJcaAsRlClDRy1lhj/view?usp=sharing). (PDF, 2.6MB) Stafford, T; Grimes, A., Perkins, C. The 21st Annual Convention of the Association for Psychological Science, 22-24 May 2009, San Francisco, CA.
+
+-   **What use are computational models of cognitive processes?**  Stafford, T. 11th Neural Computation and Psychology Workshop, Oxford, 16-18 July, 2008.
+
+-   [**Self-organisation explains discontinuities in the somatosensory map**](https://drive.google.com/file/d/1LioNtU36rUpLpIXWa6P0ik02h6droGpw/view?usp=sharing). (PDF, 1MB)  Stafford, T. and Wilson, S.P. Fifteenth Annual Computational Neuroscience Meeting CNS. 2006, 16--20 July 2006.
+
+-   [**The neural circuitry necessary for decision making by evidence accumulation**](https://drive.google.com/file/d/1MSAuCBqVtHuqE-kJdtEjLfqDLgud5AAM/view?usp=sharing).  Tom Stafford, Mark D. Humphries, Jonathan M. Chambers. Poster presented at the Computational Cognitive Neuroscience conference in Washington, DC, 11 October 2005.
+
+-   **The basal ganglia as the selection mechanism in a cognitive task**. Stafford, T. and Gurney, K. (2005). In J. J. Bryson, T. J. Prescott and A. Seth (Eds.) Modelling natural action selection (pp. 77-83). AISB Press.
+
+-   [**The basal ganglia as the selection mechanism in a cognitive task**](https://drive.google.com/file/d/11mUBgognVLh-1cS8XIoXYQLwWRwsCv5t/view?usp=sharing). (PNG, 1.4MB) Stafford, T. and Gurney, K. (2005). Poster presented at Modelling Natural Action Selection workshop in Edinburgh, July 2005.
+
+-   **Learning under uncertainty: Manipulating and simulating the role of expectations.**  Eiser, Richard, Stafford, Tom, Shook, Natalie and Fazio, Russell. Paper presented at the 14th General Meeting of the European Association fo Experimental Social Psychology, Wurzburg, 19-23 July 2005.
+
+-   **Acid tar lagoons: risks and sustainable remediation in an urban context.**  Catney, P., Lawson, N., Palaseanu-Lovejoy, M., Shaw, S., Smith, C., Stafford, T., Talbot, S., Hao, X. (2005, 1st of March 2005). Paper presented at the SUBR:IM conference, Natural History Museum, London.
+
+-   **The Basal Ganglia provides an appropriate model for response selection in the Stroop task.**  Stafford, T. and Gurney, K.N. Poster presented at the Annual Conference of the BPS Cognitive Psychology Section at Essex, September 6th-8th, 2000.
+
+[Back to top](https://tomstafford.sites.sheffield.ac.uk/outputs/conference-papers)
+
+# Other publications
+
+-   Yates, D., and Stafford, T. (2017, October 1). [**'Cognitive strategy' in visual search: how it works and when it generalises**](https://www.google.com/url?q=https%3A%2F%2Fpsyarxiv.com%2F5dup8%2F&sa=D&sntz=1&usg=AOvVaw11ViqM96Lr3hnLbFR4Ppb3). https://doi.org/10.31234/osf.io/5dup8.
+
+-   Stafford, T. (2009). [**Lessons from the campaign against Elsevier: "We won, but how did we win?"**](https://drive.google.com/file/d/1TK60znv37xBB0r-5LJhxY0IUeGKCHT6e/view?usp=sharing)[.](https://drive.google.com/file/d/1TK60znv37xBB0r-5LJhxY0IUeGKCHT6e/view?usp=sharing) (PDF, 168KB) *ACME: An International E-Journal for Critical Geographies*, 8(3), 494--504.
+
+-   Stafford, T. (2008). [**Teaching questions rather than answers: inquiry-based learning on an MSc course**](https://drive.google.com/file/d/1ygxtidGmBfM-i0DJwBcqRf_GNL6yH32M/view?usp=sharing)**.** (PDF, 58KB) *HEA Psychology Network Newsletter*, Issue 46, January 2008. Available at: [http://www.psychology.heacademy.ac.uk/html/newsletter.asp](http://www.google.com/url?q=http%3A%2F%2Fwww.psychology.heacademy.ac.uk%2Fhtml%2Fnewsletter.asp&sa=D&sntz=1&usg=AOvVaw3ucom4XsicuL9yKSHQnXa6)
+
+-   Stafford, T. and Martin, C.J. (2007). [**How to do a neuroscience lab class with 120 students**](https://drive.google.com/file/d/1N88oBScVw4zTZIx9xneIjCnHL0xRY0Ua/view?usp=sharing). (PDF, 62KB) *HEA Psychology Network Newsletter*, Issue 45, November 2007. Available at: [http://www.psychology.heacademy.ac.uk/html/newsletter.asp](http://www.google.com/url?q=http%3A%2F%2Fwww.psychology.heacademy.ac.uk%2Fhtml%2Fnewsletter.asp&sa=D&sntz=1&usg=AOvVaw3ucom4XsicuL9yKSHQnXa6)
+
+-   Stafford, T. (2007). [Isn't it all just obvious?](http://www.google.com/url?q=http%3A%2F%2Fwww.bps.org.uk%2Fpublications%2Fthepsychologist%2Fsearch-the-psychologist-online.cfm%3Ffuseaction%3Dinc_psychologistdet%26ID%3D1145%26Publication_ID%3D1&sa=D&sntz=1&usg=AOvVaw2x3vJi_32e8EIdPmGIQeRW) *The Psychologist*, 20, 2, 94--95.
+
+-   **The neural circuitry necessary for decision making by evidence accumulation**\
+    Mark D. Humphries, Tom Stafford, Jonathan M. Chambers and Kevin N. Gurney\
+    ABRG Technical Report number 5, May 2006. Department of Psychology, University of Sheffield, UK
+
+-   Stafford, T. and Webb, M. (2006) **'What Is a Wiki (and How to Use One for Your Projects)'**. O'Reilly Network, 7 July 2006. Available at [http://www.oreillynet.com/pub/a/network/2006/07/07/what-is-a-wiki.html](http://www.google.com/url?q=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fa%2Fnetwork%2F2006%2F07%2F07%2Fwhat-is-a-wiki.html&sa=D&sntz=1&usg=AOvVaw3Ra8vUj8t-t_0eMjG381sr)
+
+-   Stafford, T. and Gurney, K. (2005). **The basal ganglia as the selection mechanism in a cognitive task**. In *J. J. Bryson, T. J. Prescott and A. Seth (Eds.) Modeling Natural Action Selection* (pp. 77--83). AISB Press.
+
+-   Webb, M. and Stafford, T.(2004) **'Paying Attention (or Not) to the Flickr Daily Zeitgeist'.** O'Reilly Network, 6 December 2004. Available at [http://www.oreillynet.com/pub/a/network/2004/12/06/mndhcks_1.html](http://www.google.com/url?q=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fa%2Fnetwork%2F2004%2F12%2F06%2Fmndhcks_1.html&sa=D&sntz=1&usg=AOvVaw0lsrLHn5iUCFWTFi8RMust)
+
+-   Stafford, T. (2003). [**Integrating psychological and neuroscientific constraints in models of Stroop processing and action selection**](https://drive.google.com/file/d/1bPGdOXC6453IkNEJOhvwigpintO_c9eG/view?usp=sharing)**.** (PDF, 1MB) PhD Thesis, University of Sheffield.\
+    [Abstract and contents only](https://drive.google.com/file/d/1CCKBfx3MqMcat2gUKaxL4At58-l_h3_S/view?usp=sharing) (PDF, 169KB)
+
+-   Stafford, T. (2003). [**Psychology in the coffee shop**](http://www.google.com/url?q=http%3A%2F%2Fwww.idiolect.org.uk%2Fdocs%2Fjan04%2Fcoffee.pdf&sa=D&sntz=1&usg=AOvVaw31tI9HJmF3R-nIRUVcsaX2)**.** *The Psychologist*, 16(7), 358--359.
+
+-   Stafford, T. (2000). [**Stroop interference: methodological problems and contrary data**](http://www.google.com/url?q=http%3A%2F%2Fpsycprints.ecs.soton.ac.uk%2Farchive%2F00000110%2F&sa=D&sntz=1&usg=AOvVaw25AMB1sxZcqBDAARA21Zu1)**,** *Psycoloquy*, 11, #110.
