@@ -6,7 +6,7 @@ image: /tom_2020.jpg
 ---
 ::: {.column-page-inset}
 
-![](images/tom_2020.jpg){width="25%"}
+![](images/tom_2020.jpg){width="50%"}
 
 As Professor of Cognitive Science, I teach and research in the [School of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield. My work applies insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
 
