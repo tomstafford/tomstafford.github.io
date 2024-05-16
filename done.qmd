@@ -7,9 +7,7 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2024
 
-2024 onwards: member of University of Sheffield Research Culture Steering Board, which provides leadership and coordination for the development of institutional research culture.
 
-2021 to 2024: member of University of Sheffield Research Excellence Working group, which developed, consulted on and agreed a common definition and understanding of ‘excellence’ for use alongside the institutional research strategy.
 
 
 ## 2023
@@ -32,7 +30,7 @@ Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www
 
 <img src="https://tomstafford.github.io/editors/figs/gpa_vs_eds.png" height = 400>
 
-
+2023 onwards: member of University of Sheffield Research Culture Steering Board, which provides leadership and coordination for the development of institutional research culture.
 
 2023-05-18 Chaired UKRN/RoRI panel on [The Future of Peer Review](https://www.ukrn.org/event/future-of-peer-review-may2023/). ([Recording](https://youtu.be/BMeSh6esehE), [Slides](https://osf.io/ce3ts/))
 
@@ -67,6 +65,7 @@ Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www
 2021 onwards: member, University of Sheffield Open Research Advsory Group, "providing strategic leadership in the ongoing development, promotion and implementation of the policies and practices supporting the University’s
 commitment to Open Research"
 
+2021 to 2024: member of University of Sheffield Research Excellence Working group, which developed, consulted on and agreed a common definition and understanding of ‘excellence’ for use alongside the institutional research strategy.
 
 2021: [The Experiment Design Checklist](https://tomstafford.github.io/psy-checklist/)
 
