@@ -4,6 +4,7 @@ title: "Talks"
 
 # Coming up
 
+- 22nd May 2024 [AFIRE Project, Research on Research Institute](https://docs.google.com/presentation/d/17Pod_cJ2b2xB1i5PCK2mi1LMpE0egH7O/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true) at [Seminar: Interventions for Funding Application Assessments](https://edicaucus.ac.uk/edica-seminar-series/) for [EDI Caucus](https://edicaucus.ac.uk/)
 
 # Past talks
 
