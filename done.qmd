@@ -8,7 +8,7 @@ Recording things i've done which don't go under  [Papers](papers.html),
 ## 2024
 
 
-
+2024-01-03: BBC Future article [Tetris: How a US teenager achieved the 'impossible' and what his feat tells us about human capabilities](https://www.bbc.co.uk/future/article/20240103-tetris-how-a-us-teenager-achieved-the-impossible)
 
 ## 2023
 
@@ -69,9 +69,11 @@ commitment to Open Research"
 
 2021: [The Experiment Design Checklist](https://tomstafford.github.io/psy-checklist/)
 
+Led development and adoption of the [University of Sheffield statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+
 # 2020
 
-Led development and adoption of the [University of Sheffield statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+
 
 2020: [The Letters of Pope Gregory VII - pilot project](https://figshare.com/articles/dataset/The_Letters_of_Pope_Gregory_VII_-_pilot_project/12781049) (with Charles West and George Litchfield)
 
