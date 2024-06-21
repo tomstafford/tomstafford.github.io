@@ -13,6 +13,8 @@ Specific projects I am currently seeking students for are [here](https://docs.go
 
 ## Postdoc
 
+- [Adam Partridge](https://orcid.org/0000-0002-0133-4155) (2022 -), as Open Research Training Lead for the University of Sheffield and part of the [UKRN Open Research Programme](https://www.ukrn.org/open-research-programme/)
+
 -   [Amber Copeland](https://scholar.google.com/citations?user=JnNAldsAAAAJ&hl=en) (2018--2025) on "Reinforcer-specific value-based decision-making in persistence of and recovery from alcohol use disorder"
 
 -   [Georgi Karadzhov](https://gkaradzhov.com/) (2024--2025) -- "DEliBots -- Deliberation Enhancing Bots" (at University of Cambridge)

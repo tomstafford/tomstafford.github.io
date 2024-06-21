@@ -7,6 +7,15 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2024
 
+2024-06-21: Research Matters magazine (with Shaun Leamon): [Experiments in research funding to reduce research](https://the-sra.org.uk/common/Uploaded%20files/Research%20Matters%20Magazine/sra-research-matters-june-2024-edition.pdf) bureaucracy
+
+2024-06-18: Early results from our project with Volkswagen Foundation: [Researchers optimistic about Distributed Peer Review](https://researchonresearch.org/dpr-volkswagen-foundation-first-results/)
+
+2024-06-17: Hosted [AI replication game](https://sites.google.com/sheffield.ac.uk/orwg/research-practice) at University of Sheffield with the [Institute for Replication](https://i4replication.org/)
+
+2024-05-23: Organised networking event for [University of Sheffield editors](https://sites.google.com/sheffield.ac.uk/orwg/research-practice)
+
+2024-06-21: [2024 Showcase for Data Analysis and Visualisation MSc Students](https://tomstafford.github.io/psy6422/class-of-2024.html)
 
 2024-01-03: BBC Future article [Tetris: How a US teenager achieved the 'impossible' and what his feat tells us about human capabilities](https://www.bbc.co.uk/future/article/20240103-tetris-how-a-us-teenager-achieved-the-impossible)
 
