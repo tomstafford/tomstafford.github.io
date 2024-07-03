@@ -18,4 +18,4 @@ editor: source
 ## Updates from <mastodon.online/@tomstafford>
 
 <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.online%2Fusers%2Ftomstafford&theme=light&size=100&header=false&replies=false&boosts=false"></iframe>
-Colophon
+

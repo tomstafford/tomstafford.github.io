@@ -49,6 +49,7 @@ title: "Papers"
 
 ## In press, and under review
 
+- Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). https://doi.org/10.31234/osf.io/snqgp
 
 -   Adinugroho, I., Stafford, T., & Bentall, R. (2023, November 1). [The correlation between conspiracy mentality and vaccine intentions is moderated by social events: Evidence from longitudinal data during COVID-19 pandemic in the UK](https://osf.io/preprints/psyarxiv/5wcnz/). Retrieved from osf.io/preprints/psyarxiv/5wcnz
 
