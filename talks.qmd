@@ -4,11 +4,15 @@ title: "Talks"
 
 # Coming up
 
-- 22nd May 2024 [AFIRE Project, Research on Research Institute](https://docs.google.com/presentation/d/17Pod_cJ2b2xB1i5PCK2mi1LMpE0egH7O/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true) at [Seminar: Interventions for Funding Application Assessments](https://edicaucus.ac.uk/edica-seminar-series/) for [EDI Caucus](https://edicaucus.ac.uk/)
+- 8th September: "Research Culture in the UK". Keynote at [Pujiang Innovation Forum 2024](https://en.pujiangforum.cn/en/en_news_show.aspx?channel_id=20&cateid=175&id=119), Shanghai, China.
+
+- 9th September: "Research on Research". [Shanghai Institute for Science of Science](https://www.siss.sh.cn/eng/).
 
 # Past talks
 
 ## 2024
+
+- 22nd May 2024 [AFIRE Project, Research on Research Institute](https://docs.google.com/presentation/d/17Pod_cJ2b2xB1i5PCK2mi1LMpE0egH7O/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true) at [Seminar: Interventions for Funding Application Assessments](https://edicaucus.ac.uk/edica-seminar-series/) for [EDI Caucus](https://edicaucus.ac.uk/)
 
 -   17th April 2024, [Improving The Research Funding Lottery](https://docs.google.com/presentation/d/1W1RmcaYGKjsRHFLZ-zC0S0PN_UWV_oCto78z62I1bc8/edit?usp=sharing) at School of Architecture, University of Sheffield.
 
