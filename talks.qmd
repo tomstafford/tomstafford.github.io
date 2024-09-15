@@ -7,11 +7,13 @@ title: "Talks"
 - 8th September: "Research Culture in the UK". Keynote at [Pujiang Innovation Forum 2024](https://en.pujiangforum.cn/en/en_news_show.aspx?channel_id=20&cateid=175&id=119), Shanghai, China.
 
   - Britain has a rich industrial and scientific heritage, with an established and diverse research culture anchored within a world-leading University sector. Successfully sustaining and building on the reputation of British research means addressing the challenges and criticisms of how research culture has developed in the 21st century. I will review some of these challenges - hypercompetition and excessive workload, employment precarity, perverse metrics, unfortunate publishing practices, lack of transparency, irreproducibility of findings and threats to international collaboration - and suggest ways forward.
+  - Slides: [PDF](shanghai2024-09-09-1.pdf)
 
 - 9th September: "Experiments with the funding of research". [Shanghai Institute for Science of Science](https://www.siss.sh.cn/eng/).
 
   - Research funders share some common concerns: how do they know if they are allocating funding in the way that is most effective, fair and best balances risks versus possible rewards? Although a large variety of different funding systems exist, rigorous evidence on how funding can be designed to promote the best outcomes is not common. I will speak about the Research on Research Institute, and the programme on formal experiments that I lead there: AFIRE <https://researchonresearch.org/project/a-f-i-r-e> I will showcase good examples of strong evidence on aspects of funding systems, and talk about how funders might better use and generate evidence in the future
-
+  - Slides: [PDF]<>, [transcript]<>
+  
 # Past talks
 
 ## 2024
