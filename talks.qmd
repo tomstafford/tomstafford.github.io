@@ -18,7 +18,7 @@ title: "Talks"
 - 9th September: "Experiments with the funding of research". [Shanghai Institute for Science of Science](https://www.siss.sh.cn/eng/).
 
   - Research funders share some common concerns: how do they know if they are allocating funding in the way that is most effective, fair and best balances risks versus possible rewards? Although a large variety of different funding systems exist, rigorous evidence on how funding can be designed to promote the best outcomes is not common. I will speak about the Research on Research Institute, and the programme on formal experiments that I lead there: AFIRE <https://researchonresearch.org/project/a-f-i-r-e> I will showcase good examples of strong evidence on aspects of funding systems, and talk about how funders might better use and generate evidence in the future
-  - Slides: [PPT](<https://docs.google.com/presentation/d/1vAzGbA68_M8uQHZ5rNJ5cVh-G5547Gat/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true), [PDF](pujiang2024-09-08.pdf), [transcript](shanghai_transcript2024-09-08.pdf)<>
+  - Slides: [PPT](https://docs.google.com/presentation/d/1vAzGbA68_M8uQHZ5rNJ5cVh-G5547Gat/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true), [PDF](pujiang2024-09-08.pdf), [transcript](shanghai_transcript2024-09-08.pdf)<>
 
 - 22nd May 2024 [AFIRE Project, Research on Research Institute](https://docs.google.com/presentation/d/17Pod_cJ2b2xB1i5PCK2mi1LMpE0egH7O/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true) at [Seminar: Interventions for Funding Application Assessments](https://edicaucus.ac.uk/edica-seminar-series/) for [EDI Caucus](https://edicaucus.ac.uk/)
 
