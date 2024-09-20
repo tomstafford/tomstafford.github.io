@@ -10,15 +10,15 @@ title: "Papers"
 
 ## Data intensive psychology: 
 
--   Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2023). [The three-dimensional community structure of ADHD traits captured by the ASRS scale: An Exploratory Graph Analysis](http://doi.org/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research.  http://doi.org/10.1002/mpr.1997
+-    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> - [[preprint](https://psyarxiv.com/sakn9)]
 
 -   Stafford, T., and Vaci, N. (2022). [Maximizing the potential of digital games for understanding skill acquisition](https://doi.org/10.1177/09637214211057841). Current Directions in Psychological Science, 31(1), 49-55.  <https://doi.org/10.1177/09637214211057841> [[web/mobile version](https://journals.sagepub.com/doi/full/10.1177/09637214211057841)]
 
--   Bannard, C., Leriche, M., Bandmann, O., Brown, C., Ferracane, E., Sánchez-Ferro, A., Obeso, J., Redgrave, P. and Stafford, T. (2019). [Reduced habit-driven errors in Parkinson's Disease](https://www.nature.com/articles/s41598-019-39294-z). Nature Scientific Reports 9(1), 3423. ([pre-print](https://psyarxiv.com/b25tf/))
+-   Bannard, C., Leriche, M., Bandmann, O., Brown, C., Ferracane, E., Sánchez-Ferro, A., Obeso, J., Redgrave, P. and Stafford, T. (2019). [Reduced habit-driven errors in Parkinson's Disease](https://www.nature.com/articles/s41598-019-39294-z). Nature Scientific Reports 9(1), 3423. [[pre-print](https://psyarxiv.com/b25tf/)]
 
 ## Metaresearch
 
--   Jones, A., Stafford, T., & Petrovskaya, E. (under review). [Exploring the multiverse of analysis options for the Addiction Stroop](https://psyarxiv.com/prfu2/).
+-   Jones, A., Petrovskaya, E., & Stafford, T. (2024). [Exploring the multiverse of analysis options for the alcohol Stroop](https://link.springer.com/article/10.3758/s13428-024-02377-5). Behavior Research Methods, 56(4), 3578-3588. [[preprint](https://psyarxiv.com/prfu2/)]
 
 -   Stafford T, Rombach I, Hind D et al. Where next for partial randomisation of research funding? The feasibility of RCTs and alternatives [version 2; peer review: 3 approved]. Wellcome Open Res 2024, 8:309 (<https://doi.org/10.12688/wellcomeopenres.19565.2>)
 
@@ -49,31 +49,32 @@ title: "Papers"
 
 ## In press, and under review
 
-- Stafford, T., Gordon, H., Zhu, J., Dommett, K. (in press) Online Political Adverts: the effect of disclosures and opportunities for clandestine campaigning. *Political Psychology*
+- Karadzhov, G., Vlachos, A., & Stafford, T. (2024). The effect of diversity on group decision-making. arXiv preprint [arXiv:2402.01427](https://arxiv.org/abs/2402.01427).
 
-- Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). https://doi.org/10.31234/osf.io/snqgp
-
--   Adinugroho, I., Stafford, T., & Bentall, R. (2023, November 1). [The correlation between conspiracy mentality and vaccine intentions is moderated by social events: Evidence from longitudinal data during COVID-19 pandemic in the UK](https://osf.io/preprints/psyarxiv/5wcnz/). Retrieved from osf.io/preprints/psyarxiv/5wcnz
+- Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). 
 
 -   Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A. and Wade, A. (2023) [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2). bioRxiv 2023.09.08.556817; doi: https://doi.org/10.1101/2023.09.08.556817 
-
--   Copeland, A., Stafford, T., & Field, M. (2023, August 23). [Value-based decision-making in regular alcohol consumers following experimental manipulation of alcohol value](https://osf.io/wcks6/). https://doi.org/10.31219/osf.io/wcks6
-
--   Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2023, July 14). [The three-dimensional community structure of ADHD traits captured by the ASRS scale: An Exploratory Graph Analysis](https://psyarxiv.com/sakn9). Retrieved from psyarxiv.com/sakn9
 
 -   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). https://doi.org/10.31234/osf.io/2e9wn
 
 -   Zhu, J., Dommett, K., & Stafford, T. (2023). [What makes online political ads unacceptable? Interrogating public attitudes to inform regulatory responses](https://preprints.apsanet.org/engage/apsa/article-details/6462be37f2112b41e99fe9bf). APSA Preprints. doi:10.33774/apsa-2023-rxw1q This content is a preprint and has not been peer-reviewed.
 
--   Jones, A., Stafford, T., & Petrovskaya, E. (2022). [Exploring the multiverse of analysis options for the Addiction Stroop](https://psyarxiv.com/prfu2/).
-
--   Panagiotidi, M., Stafford, T., and Overton, P. (submitted). The relationship between cognitive control and task switching and problematic phone use. [Email for document]
-
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://www.delibot.xyz/publications/). arXiv preprint [arXiv:2207.12035](https://arxiv.org/abs/2207.12035)
 
     -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
--   de Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia](https://arxiv.org/abs/2212.08353). arXiv preprint arXiv:2212.08353.
+
+## 2024
+
+-   Jones, A., Petrovskaya, E., & Stafford, T. (2024). [Exploring the multiverse of analysis options for the alcohol Stroop](https://link.springer.com/article/10.3758/s13428-024-02377-5). Behavior Research Methods, 56(4), 3578-3588. [[preprint](https://psyarxiv.com/prfu2/)]
+
+-  Stafford, T., Gordon, H., Zhu, J., & Dommett, K. (2024). [Online political adverts: The effect of disclosures and opportunities for clandestine campaigning](https://onlinelibrary.wiley.com/doi/10.1111/pops.13034). Political Psychology, 00, 1–27. <https://doi.org/10.1111/pops.13034> 
+
+-    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> [[preprint](https://psyarxiv.com/sakn9)]
+
+-   Adinugroho, I., Stafford, T., & Bentall, R. (2024). [The correlation between conspiracy mentality and vaccine intentions is moderated by social events: Evidence from longitudinal data during COVID-19 pandemic in the UK](https://www.sciencedirect.com/science/article/pii/S0264410X24005103). Vaccine, 42(16), 3607-3614. <https://doi.org/10.1016/j.vaccine.2024.04.071>  [[preprint](https://osf.io/preprints/psyarxiv/5wcnz/)]
+
+-   Copeland, A., Stafford, T., & Field, M. (2024). [Value-based decision-making in regular alcohol consumers following experimental manipulation of alcohol value](https://www.sciencedirect.com/science/article/pii/S0306460324001187). Addictive Behaviors, 156, 108069. <https://doi.org/10.1016/j.addbeh.2024.108069> [[preprint](https://osf.io/wcks6/)]
 
 ## 2023
 
