@@ -10,7 +10,7 @@ title: "Papers"
 
 ## Data intensive psychology: 
 
--    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> - [[preprint](https://psyarxiv.com/sakn9)]
+-    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> [[preprint](https://psyarxiv.com/sakn9)]
 
 -   Stafford, T., and Vaci, N. (2022). [Maximizing the potential of digital games for understanding skill acquisition](https://doi.org/10.1177/09637214211057841). Current Directions in Psychological Science, 31(1), 49-55.  <https://doi.org/10.1177/09637214211057841> [[web/mobile version](https://journals.sagepub.com/doi/full/10.1177/09637214211057841)]
 
@@ -36,7 +36,7 @@ title: "Papers"
 
 -   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). https://doi.org/10.31234/osf.io/2e9wn
 
--   Karadzhov, G., Stafford, T., and Vlachos, A. (2023). [DeliData: A dataset for deliberation in multi-party problem solving](https://dl.acm.org/doi/10.1145/3610056). Proceedings of the ACM on Human-Computer Interaction, CSCW. https://doi.org/10.1145/3610056 [[arXiv](https://arxiv.org/abs/2108.05271)]
+-   Karadzhov, G., Stafford, T., and Vlachos, A. (2023). [DeliData: A dataset for deliberation in multi-party problem solving](https://dl.acm.org/doi/10.1145/3610056). Proceedings of the ACM on Human-Computer Interaction, CSCW. <https://doi.org/10.1145/3610056> [[arXiv](https://arxiv.org/abs/2108.05271)]
 
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://www.delibot.xyz/publications/). arXiv preprint [arXiv:2207.12035](https://arxiv.org/abs/2207.12035)
 
