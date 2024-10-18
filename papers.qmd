@@ -66,6 +66,8 @@ title: "Papers"
 
 ## 2024
 
+-   Dommett, K., Mensah, S. A., Zhu, J., & Stafford, T. (2024). [Understanding the communicative strategies used in online political advertising and how the public views them](https://doi.org/10.1177/13691481241287177). The British Journal of Politics and International Relations, 0(0). https://doi.org/10.1177/13691481241287177
+
 -   Jones, A., Petrovskaya, E., & Stafford, T. (2024). [Exploring the multiverse of analysis options for the alcohol Stroop](https://link.springer.com/article/10.3758/s13428-024-02377-5). Behavior Research Methods, 56(4), 3578-3588. [[preprint](https://psyarxiv.com/prfu2/)]
 
 -  Stafford, T., Gordon, H., Zhu, J., & Dommett, K. (2024). [Online political adverts: The effect of disclosures and opportunities for clandestine campaigning](https://onlinelibrary.wiley.com/doi/10.1111/pops.13034). Political Psychology, 00, 1–27. <https://doi.org/10.1111/pops.13034> 
