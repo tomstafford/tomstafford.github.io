@@ -49,6 +49,8 @@ title: "Papers"
 
 ## In press, and under review
 
+- Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2024). Conformity in Large Language Models. arXiv preprint [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
+
 - Karadzhov, G., Vlachos, A., & Stafford, T. (2024). The effect of diversity on group decision-making. arXiv preprint [arXiv:2402.01427](https://arxiv.org/abs/2402.01427).
 
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). 
@@ -147,10 +149,6 @@ title: "Papers"
 
 -   Bannard, C., Leriche, M., Bandmann, O., Brown, C., Ferracane, E., Sánchez-Ferro, A., Obeso, J., Redgrave, P. and Stafford, T. (2019). [Reduced habit-driven errors in Parkinson's Disease](https://www.nature.com/articles/s41598-019-39294-z). Nature Scientific Reports 9(1), 3423. ([pre-print](https://psyarxiv.com/b25tf/))
 
--   Holroyd, J., Scaife, R., Stafford, T. (in press). [What is implicit bias](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12437/full)? Philosophy Compass, 12(10), e12437.
-
--   Holroyd, J., Scaife, R., Stafford, T. (in press). [Responsibility for Implicit Bias](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12410/abstract). Philosophy Compass, 12(3), e12410.
-
 -   Thirkettle, M., Thyoka, M., Fernandes, N., Gopalan, P., Stafford, T. Offiah, A.C. (2019). [Internet-based measurement of visual assessment skill of trainee radiologists: developing a sensitive tool](https://www.birpublications.org/doi/abs/10.1259/bjr.20180958). British Journal of Radiology, 92(1097), 20180958.
 
 ## 2018
@@ -186,6 +184,10 @@ title: "Papers"
 -   Stafford, T. and Haasnoot, E. (2017). [Testing sleep consolidation in skill learning: a field study using an online game](http://onlinelibrary.wiley.com/wol1/doi/10.1111/tops.12232/abstract). Topics in Cognitive Science. 9(2), 485--496. ([data + code](https://osf.io/fckq8/))
 
 -   Panagiotidi, M., Overton, P.G., Stafford, T. (2017). [Attention Deficit Hyperactivity Disorder-like traits and distractibility in the visual periphery](http://pec.sagepub.com/content/early/2016/11/28/0301006616681313.abstract). Perception, 46 (6), 665--678.
+
+-   Holroyd, J., Scaife, R., Stafford, T. (2017). [What is implicit bias](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12437/full)? Philosophy Compass, 12(10), e12437.
+
+-   Holroyd, J., Scaife, R., Stafford, T. (2017). [Responsibility for Implicit Bias](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12410/abstract). Philosophy Compass, 12(3), e12410.
 
 ## 2016
 
