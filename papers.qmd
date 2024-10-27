@@ -51,8 +51,6 @@ title: "Papers"
 
 - Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2024). Conformity in Large Language Models. arXiv preprint [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
 
-- Karadzhov, G., Vlachos, A., & Stafford, T. (2024). The effect of diversity on group decision-making. arXiv preprint [arXiv:2402.01427](https://arxiv.org/abs/2402.01427).
-
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). 
 
 -   Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A. and Wade, A. (2023) [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2). bioRxiv 2023.09.08.556817; doi: https://doi.org/10.1101/2023.09.08.556817 
@@ -67,6 +65,8 @@ title: "Papers"
 
 
 ## 2024
+
+- Karadzhov, G. M., Vlachos, A., & Stafford, T. (2024). The effect of diversity on group decision-making. Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/6685n22z. arXiv preprint [arXiv:2402.01427](https://arxiv.org/abs/2402.01427).
 
 -   Dommett, K., Mensah, S. A., Zhu, J., & Stafford, T. (2024). [Understanding the communicative strategies used in online political advertising and how the public views them](https://doi.org/10.1177/13691481241287177). The British Journal of Politics and International Relations, 0(0). https://doi.org/10.1177/13691481241287177
 
@@ -86,7 +86,7 @@ title: "Papers"
 
 -   Stafford T, Rombach I, Hind D et al. (2023) [Where next for partial randomisation of research funding? The feasibility of RCTs and alternatives](https://wellcomeopenresearch.org/articles/8-309/v1) Wellcome Open Res 2023, 8:309 (https://doi.org/10.12688/wellcomeopenres.19565.1)
 
--   Farag, Y., Brand, C. O., Amidei, J., Piwek, P., Stafford, T., Stoyanchev, S., & Vlachos, A. (2023). Opening up Minds with Argumentative Dialogues. SiCON 2023 (co-located with ACL 2023) [[preprint]](https://arxiv.org/abs/2301.06400)
+-   Farag, Y., Brand, C., Amidei, J., Piwek, P., Stafford, T., Stoyanchev, S., & Vlachos, A. (2022). Opening up Minds with Argumentative Dialogues. In Y. Goldberg, Z. Kozareva, & Y. Zhang (Eds.), Findings of the Association for Computational Linguistics: EMNLP 2022 (pp. 4569–4582). Association for Computational Linguistics. https://doi.org/10.18653/v1/2022.findings-emnlp.335
 
 -   Dommett, K., Mensah, S. A., Zhu, J., Stafford, T., & Aletras, N. (2023). [Is There a Permanent Campaign for Online Political Advertising? Investigating Partisan and Non-Party Campaign Activity in the UK between 2018--2021](https://www.tandfonline.com/doi/full/10.1080/15377857.2023.2175102). Journal of Political Marketing, 1-19.
 
