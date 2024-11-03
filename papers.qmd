@@ -42,8 +42,7 @@ title: "Papers"
 
     -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
--   de Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia](https://arxiv.org/abs/2212.08353). arXiv preprint arXiv:2212.08353.
-
+-   De Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia](https://arxiv.org/abs/2212.08353). In Y. Goldberg, Z. Kozareva, & Y. Zhang (Eds.), Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 3824–3837). Association for Computational Linguistics. https://doi.org/10.18653/v1/2022.emnlp-main.252
 
 # Chronological
 
