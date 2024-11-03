@@ -361,4 +361,4 @@ title: "Papers"
 
 -   Stafford, T. and Gurney, K.N. (2006). Computational Models of Cognition. In An Introduction to Cognitive Psychology: Processes and Disorders. Second Edition. Ed. David Groome. Hove, UK: Psychology Press.
 
-Stafford, T. and Webb, M. (2004). [Mind Hacks: Tips and Tricks for using your brain](http://www.mindhacks.com/). Sebastapol, CA: O'Reilly.
+-   Stafford, T. and Webb, M. (2004). [Mind Hacks: Tips and Tricks for using your brain](http://www.mindhacks.com/). Sebastapol, CA: O'Reilly.
