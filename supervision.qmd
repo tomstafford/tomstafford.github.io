@@ -13,11 +13,7 @@ I am not currently accepting applications for PhD places. My old advice page abo
 
 ## Postdoc
 
-- [Adam Partridge](https://orcid.org/0000-0002-0133-4155) (2022 -), as Open Research Training Lead for the University of Sheffield and part of the [UKRN Open Research Programme](https://www.ukrn.org/open-research-programme/)
-
 -   [Amber Copeland](https://scholar.google.com/citations?user=JnNAldsAAAAJ&hl=en) (2018--2025) on "Reinforcer-specific value-based decision-making in persistence of and recovery from alcohol use disorder"
-
--   [Georgi Karadzhov](https://gkaradzhov.com/) (2024--2025) -- "DEliBots -- Deliberation Enhancing Bots" (at University of Cambridge)
 
 ## PhD
 
@@ -33,7 +29,7 @@ I am not currently accepting applications for PhD places. My old advice page abo
 
 -   Vesko Varbanov (2020-) 'Sensory processing in Autism Spectrum Conditions and Attention Deficit Hyperactivity Disorder'
 
-# Previous supervision and examining
+# Alumni! (Previous supervision and examining)
 
 ## As primary PhD supervisor
 
@@ -88,6 +84,10 @@ I am not currently accepting applications for PhD places. My old advice page abo
 -   Dagmar Adamcová, 2017--2018: "Quit while you're ahead: a surprising interaction between game performance and motivation" ([Blog post](https://tomstafford.sites.sheffield.ac.uk/news/quit-while-youre-ahead), [Jupyter notebook](https://github.com/dagmaradamcova/axon-drop-out/blob/master/axon_drop_out.ipynb)). Erasmus exchange
 
 ## Post doctoral supervision
+
+- [Adam Partridge](https://orcid.org/0000-0002-0133-4155) (2022 -), as Open Research Training Lead for the University of Sheffield and part of the [UKRN Open Research Programme](https://www.ukrn.org/open-research-programme/)
+
+-   [Georgi Karadzhov](https://gkaradzhov.com/) (2024--2025) -- "DEliBots -- Deliberation Enhancing Bots" (at University of Cambridge)
 
 -   [Junyan Zhu](https://www.sheffield.ac.uk/politics/people/academic-staff/junyan-zhu) (2020--2023)
 

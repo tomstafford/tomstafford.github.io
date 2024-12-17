@@ -4,8 +4,6 @@ title: "Talks"
 
 # Coming up
 
-- 16 December: "History of partial randomisation in research". At "Using partial randomisation to award research funding – a day of discussion", hosted by the British Academy, London. [Slides](https://docs.google.com/presentation/d/115XGeezR0bSeVcZQBVMo5mzvLZ7_QLBj/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
-
 - 18 December: (chair) AFIRE Funder's Forum - promoting experiments by research funders :  [slides](https://docs.google.com/presentation/d/1C_O_V7tzreRB_ws5tmMR-N4e2gxJ4G_U/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
 
 
@@ -13,6 +11,8 @@ title: "Talks"
 # Past talks
 
 ## 2024
+
+- 16 December: "History of partial randomisation in research". At "Using partial randomisation to award research funding – a day of discussion", hosted by the British Academy, London. [Slides](https://docs.google.com/presentation/d/115XGeezR0bSeVcZQBVMo5mzvLZ7_QLBj/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
 
 - 20 November: (chair) AFIRE Funder's Forum - promoting experiments by research funders :  [slides](https://docs.google.com/presentation/d/1yuXXm398di67hA3NwgJf5pRZ39LVPWHg/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
 
