@@ -1,5 +1,17 @@
 ---
-title: "tester"
+title: "2012-06-04"
 ---
 
-Text here
+# New paper: A novel task for the investigation of action acquisition
+
+*Originally published 2012-06-04*. \
+
+Our new paper, [A novel task for the investigation of action acquisition](http://dx.plos.org/10.1371/journal.pone.0037749), has been published in PLoS One today. The paper describes a new paradigm we’ve been using to investigate how actions are learnt.
+
+It’s a curious fact that although psychologists have thoroughly investigated how actions are valued (ie how you figure out how good or bad a thing is to do), and how actions are trained (ie shaped and refined over time), the same effort has not gone into investigating how a behaviour is first identified and stored as a part of our repertoire. We hope this task provides a useful tool for opening up this area for investigation.
+
+As well as the basic description of the task, the paper also contains a section outlining how the form of learning the the task makes available for inspection is different from the forms of learning made available by other ‘action learning’ tasks (for example, operant conditioning tasks).
+
+In addition to serving an under-investigated area of learning research, the task also has a number of practical benefits. It is scalable in difficulty, suitable for repeated measures designs (meaning you can do it again and again – it isn’t something you learn once and then can’t be tested on any more) as well being adaptable for different species (meaning you can test humans and non-human animals on the task).
+
+The paper is based on work done as part of the EU robotics project I’m on ([‘I’M-CLeVeR‘](http://www.im-clever.eu/)) and on Tom Walton’s PhD thesis, [The Discovery of Novel Actions](http://etheses.whiterose.ac.uk/2204/).
