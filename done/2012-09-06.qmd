@@ -9,4 +9,4 @@ editor: visual
 
 The ‘Cognitive Science Safari‘ I did in Berlin for the BMW Guggenheim lab got onto the cover of the Wall Street Journal – see it large here (I’m at the bottom). On the website there’s a video of what we got up to.
 
-<a href="images/wsj_6sept2012_web.png"><img src="images/wsj.jpg" height = 400></a>
+<a href="../images/wsj_6sept2012_web.png"><img src="../images/wsj.jpg" height = 400></a>
