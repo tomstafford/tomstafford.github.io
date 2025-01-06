@@ -14,7 +14,7 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 2024-12-19: Kate took this picture in [Elm](https://www.elmsheffield.co.uk/)
 
-<img src="images/tom_2024-12-19.jpg" height = 400>
+<a href="images/tom_2024-12-19.jpg"><img src="images/tom_2024-12-19small.jpg" height = 400></a>
 
 
 2024-11-28/29: Represented [UKRN](https://www.ukrn.org/) at the [Swiss National Science Foundation](https://www.snf.ch/en)'s Research on Research Conference, Bern. 
