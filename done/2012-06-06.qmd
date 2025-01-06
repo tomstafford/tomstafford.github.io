@@ -34,7 +34,7 @@ I calculated an average performance score for the first 50% and second 50% of at
 
 Normally we would expect people who perform best in the first half of a test to perform best in the second half (depressingly people who start out ahead usually stay there!). But this analysis showed up something interesting: a strong correlation between variability in the first half and performance in the second half. You can see this in the graph:
 
-![](https://lh7-rt.googleusercontent.com/u/0/docs/AHkbwyKXyazJAed-8vKiBtFmh0zHAiHWmD3Z8Kz6zKkjJVgAiNrr84hz56SILsK7ZoQ5KSRz7_t7QILjHK3cLd8ohSkOWogjedRVBps9ziU4POHZdm0zy45VJ2Vg2rC3tKnd9sTtF_C6-w4HKRfpI0NlGlxeN7xT9khANvaUk5mLbWoBgTE15lWH5ZnujeQXhktiSnx6Xb5mol9NAcXJamZM0rmgDb2l41hTo1G5uxLH_FSBxOUwl5N9yFqHH-LhS0GzEyGhnBHwqCfwDlKnJLOw6H5stHLuZPTbkKvWQIJ9zRdXulvGx1KuPswYbJ9PUAVHDvMMd0K4u2yZS3BW7jAufJpTJYge56BISSfI-5lMJqwy0r46aHY-ToPyv__p7kmDC-7eqeIvyCCVXEF4plXNGJVdSRDtwkTxtklPIbKp9CQe684KATRjBs0FjjFW_EjdiLdOAhzgjRK3LAU_lFKbWcSvTbhk5X83-XEdtCgsjO4s_4qLtoDbTHjvZaklrMt2b05k4lNF9n1PUKzofRVOqP5Voi_Rz4XlgCGH4ZLp3YFwVI1MG6HTAQOpUD_k092WaZFTnKcNv6ZX0chtnUP7WVRJHr_sVIVu1vWD8C3Zwu36KOLZuV8bKsNhg4bjG3LpT0GrYsMoicxTn4EeFMJ1P1S7ltScHf5NhhReoXxVaXrEVTxBzywK9Rypt_JJEkG3pmw-LaLlTe2sbtNv8gPKiRpyHHRFjhq_nhp0RBgStI6yX8Nk3vubSMOkUzugcu76w3JiF5G21vmO0uHOhFLLQfAGSwk-zTT8_Tgmo-CknceRtFi0_XsWT_i2Vo5SLXvY4FYRim2b-Az1xKhEiiNzZ0TTGLq_Im4A9CUlCLUqxR2-Uy-8N7avVKmmaDaDy5fr3emqOaOrMo9y85WnHFkJgqHNhOsk0_k)
+![](../images/2012-06-06.png)
 
 This shows that people who are most inconsistent when they start to learn perform best towards the end of learning. Usually inconsistency is a bad sign, so it is somewhat surprising that it predicts better performance later on. The obvious interpretation is in terms of the exploration-exploitation trade-off.
 
