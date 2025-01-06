@@ -7,6 +7,21 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2024
 
+2024-12-23: Made a webscraping bot on mastodon: [https://mastodon.social/@PAXscraper](https://mastodon.social/@PAXscraper), which reports stats from PsyArXiv:
+
+<img src="images/PAXdec2024.png" height = 400>
+
+
+2024-11-28/29: Represented [UKRN](https://www.ukrn.org/) at the [Swiss National Science Foundation](https://www.snf.ch/en)'s Research on Research Conference, Bern. 
+
+2024-10-23: Inaugural event of the [AFIRE Funder Forum](https://researchonresearch.org/afire-funders-forum/)
+
+2024-10-07: Nature editorial on our project with VolkswagenStiftung: [New peer-review trial lets grant applicants evaluate each other’s proposals](https://www.nature.com/articles/d41586-024-03106-w)
+
+2024-09: Trip to China. News story on this: [Navigating Research Culture and Funding Practices: Highlights from Shanghai](https://researchonresearch.org/shanghai-forum-tom-stafford-afire/)
+
+2024-08-30: Article in New Scientist with Kate Dommett: [Is digital technology really swaying voters and undermining democracy?](https://www.newscientist.com/article/mg26335062-800-is-digital-technology-really-swaying-voters-and-undermining-democracy/). My [newsletter on this](https://tomstafford.substack.com/p/the-truth-about-digital-propaganda)
+
 2024-06-21: Research Matters magazine (with Shaun Leamon): [Experiments in research funding to reduce research](https://the-sra.org.uk/common/Uploaded%20files/Research%20Matters%20Magazine/sra-research-matters-june-2024-edition.pdf) bureaucracy
 
 2024-06-18: Early results from our project with Volkswagen Foundation: [Researchers optimistic about Distributed Peer Review](https://researchonresearch.org/dpr-volkswagen-foundation-first-results/)
