@@ -132,7 +132,9 @@ Led development and adoption of the [University of Sheffield statement on Open R
 
 2012-09 I wrote some of the code in LongArm, [a robot which draws labrynthine patterns](https://www.youtube.com/watch?v=lSuvSsDrEAw), by Matthias Jones
 
-2012-06-12: [New paper: A novel task for the investigation of action acquisition](done/2012-06-12.html)
+2012-06-06: [Fundamentals of learning: the exploration-exploitation trade-off](done/2012-06-12.html)
+
+2012-06-04: [New paper: A novel task for the investigation of action acquisition](done/2012-06-12.html)
 
 2012: [The Cognitive Science Safari](https://sites.google.com/d/1nQb4g6jqk7M0gwaD4Bvw7QKtBg0nkQRV/p/1Q0M0b1kRUveC9w0Li7Je0A1f1E8PzzYB/edit) was a street-tour of classic social psychology experiments, in Berlin as part of the BMW Guggenheim Lab.
 
