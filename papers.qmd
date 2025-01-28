@@ -79,6 +79,8 @@ title: "Papers"
 
 -   Copeland, A., Stafford, T., & Field, M. (2024). [Value-based decision-making in regular alcohol consumers following experimental manipulation of alcohol value](https://www.sciencedirect.com/science/article/pii/S0306460324001187). Addictive Behaviors, 156, 108069. <https://doi.org/10.1016/j.addbeh.2024.108069> [[preprint](https://osf.io/wcks6/)]
 
+- Stafford, T., Zhu, J., & Dommett, K. (2024, December 31). [Quantifying belief in the rationality of others: the Faith in Reason scale](https://doi.org/10.31234/osf.io/umwxj). Working paper. <https://doi.org/10.31234/osf.io/umwxj>
+
 ## 2023
 
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2023). [DeliData: A dataset for deliberation in multi-party problem solving](https://dl.acm.org/doi/10.1145/3610056). Proceedings of the ACM on Human-Computer Interaction, CSCW. https://doi.org/10.1145/3610056 [[arXiv](https://arxiv.org/abs/2108.05271)]
