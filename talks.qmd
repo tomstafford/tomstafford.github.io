@@ -4,11 +4,15 @@ title: "Talks"
 
 # Coming up
 
-- 4 February: "Do we truly understand those we disagree with, and how could we test this?
-The Ideological Turing test", Psychopathology Lab meeting, University of Sheffield (host: Richard Bentall) : [slides](https://docs.google.com/presentation/d/1cEsWXBo4uZFZ8TKJj_NuNGendjLpiC04Wd6DbgmaQP8/edit?usp=sharing)
+- 19 February: (chair) AFIRE Funder's Forum - promoting experiments by research funders :  [slides](https://docs.google.com/presentation/d/1E_A9yS-zeZNSJ7M41t8g2l9U_5ObDcc3/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
 
 
 # Past talks
+
+## 2025
+
+- 4 February: "Do we truly understand those we disagree with, and how could we test this?
+The Ideological Turing test", Psychopathology Lab meeting, University of Sheffield (host: Richard Bentall) : [slides](https://docs.google.com/presentation/d/1cEsWXBo4uZFZ8TKJj_NuNGendjLpiC04Wd6DbgmaQP8/edit?usp=sharing)
 
 ## 2024
 
