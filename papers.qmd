@@ -48,6 +48,8 @@ title: "Papers"
 
 ## In press, and under review
 
+- Lee, J., Zhu, X., Karadzhov, G., Stafford, T., Vlachos, A., & Lee, D. (2025). [Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems](https://arxiv.org/abs/2503.04945). arXiv preprint arXiv:2503.04945.
+
 - Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2024). Conformity in Large Language Models. arXiv preprint [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
 
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). 
