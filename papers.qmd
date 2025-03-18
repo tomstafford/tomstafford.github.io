@@ -65,6 +65,12 @@ title: "Papers"
     -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
 
+## 2025
+
+- Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A., & Wade, A. (2025). [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://doi.org/10.1016/j.neuroimage.2025.121134). NeuroImage, 310, 121134. https://doi.org/10.1016/j.neuroimage.2025.121134
+[preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2.abstract)
+
+
 ## 2024
 
 - Karadzhov, G. M., Vlachos, A., & Stafford, T. (2024). The effect of diversity on group decision-making. Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/6685n22z. arXiv preprint [arXiv:2402.01427](https://arxiv.org/abs/2402.01427).
