@@ -68,7 +68,7 @@ title: "Papers"
 ## 2025
 
 - Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A., & Wade, A. (2025). [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://doi.org/10.1016/j.neuroimage.2025.121134). NeuroImage, 310, 121134. https://doi.org/10.1016/j.neuroimage.2025.121134
-[preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2.abstract)
+[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2.abstract)]
 
 
 ## 2024
