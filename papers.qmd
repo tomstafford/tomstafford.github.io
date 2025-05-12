@@ -16,6 +16,9 @@ title: "Papers"
 
 -   Bannard, C., Leriche, M., Bandmann, O., Brown, C., Ferracane, E., Sánchez-Ferro, A., Obeso, J., Redgrave, P. and Stafford, T. (2019). [Reduced habit-driven errors in Parkinson's Disease](https://www.nature.com/articles/s41598-019-39294-z). Nature Scientific Reports 9(1), 3423. [[pre-print](https://psyarxiv.com/b25tf/)]
 
+- Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A., & Wade, A. (2025). [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://doi.org/10.1016/j.neuroimage.2025.121134). NeuroImage, 310, 121134. https://doi.org/10.1016/j.neuroimage.2025.121134
+[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2.abstract)]
+
 ## Metaresearch
 
 -   Jones, A., Petrovskaya, E., & Stafford, T. (2024). [Exploring the multiverse of analysis options for the alcohol Stroop](https://link.springer.com/article/10.3758/s13428-024-02377-5). Behavior Research Methods, 56(4), 3578-3588. [[preprint](https://psyarxiv.com/prfu2/)]
@@ -33,6 +36,8 @@ title: "Papers"
 ## Decision making & reasoning
 
 -   Stafford, T., Pirrone, A., Croucher, M., and Krystalli, A. (2020). [Quantifying the benefits of using decision models with response time and accuracy data](https://link.springer.com/article/10.3758/s13428-020-01372-w). Behaviour Research Methods, 52, 2142--2155. [doi.org/10.3758/s13428-020-01372-w](https://doi.org/10.3758/s13428-020-01372-w) (pre-print, [web/mobile version](https://idiolect.org.uk/papers/stafford2020/))
+
+- - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). 
 
 -   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). https://doi.org/10.31234/osf.io/2e9wn
 
@@ -55,8 +60,6 @@ title: "Papers"
 - Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2024). Conformity in Large Language Models. arXiv preprint [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
 
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., … Forstmann, B. (2024, July 2). [An expert guide to planning experimental tasks for evidence accumulation modelling](https://osf.io/preprints/psyarxiv/snqgp). 
-
--   Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A. and Wade, A. (2023) [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2). bioRxiv 2023.09.08.556817; doi: https://doi.org/10.1101/2023.09.08.556817 
 
 -   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). https://doi.org/10.31234/osf.io/2e9wn
 

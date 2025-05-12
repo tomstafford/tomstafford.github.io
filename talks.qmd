@@ -4,13 +4,22 @@ title: "Talks"
 
 # Coming up
 
-- 25 March: The Accelerator For Innovation & Research Funding Experimentation - AFIRE @ The National Research Foundation
-and Research on Research Institute Partnership Meeting: [slides](https://docs.google.com/presentation/d/1UkmQxS7nlKJA784B95NuNO_UoH6PlDl6/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
+- June 4. Evolution and Social Cognition lab,	Institut Jean Nicod, Paris.
+
+- Panel on Distributed Peer Review, International Conference on the Science of Science ([ICSSI](https://icssi.org/)), June 16 - 18, Copenhagen.
+
+- Evaluating Distributed Peer Review at the Volkswagen Foundation. Metascience 2025, June 30 - 2 July, London. 
+
+- Can AI be used for better matching of proposals to reviewers? Feasibility and formal evaluation with the Metascience 2025 conference. Metascience 2025, June 30 - 2 July, London. 
+
+
 
 
 # Past talks
 
 ## 2025
+
+- 25 March: The Accelerator For Innovation & Research Funding Experimentation - AFIRE @ The National Research Foundation, South Africa; and Research on Research Institute Partnership Meeting: [slides](https://docs.google.com/presentation/d/1UkmQxS7nlKJA784B95NuNO_UoH6PlDl6/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
 
 - 19 February: (chair) AFIRE Funder's Forum - promoting experiments by research funders :  [slides](https://docs.google.com/presentation/d/1E_A9yS-zeZNSJ7M41t8g2l9U_5ObDcc3/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true)
 
