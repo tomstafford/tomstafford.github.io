@@ -4,7 +4,8 @@ title: "Talks"
 
 # Coming up
 
-- June 4. Evolution and Social Cognition lab,	Institut Jean Nicod, Paris.
+- June 4. ["Do we truly understand those we disagree with, and how could we test this?
+The Ideological Turing test"](https://docs.google.com/presentation/d/19QBDb20G9QWzebz7sgbxi80xDxisy_LDCaQGvHIcQxU/edit?usp=sharing), Evolution and Social Cognition lab,	Institut Jean Nicod, Paris.
 
 - Panel on Distributed Peer Review, International Conference on the Science of Science ([ICSSI](https://icssi.org/)), June 16 - 18, Copenhagen.
 
