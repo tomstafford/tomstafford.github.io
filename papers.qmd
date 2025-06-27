@@ -63,14 +63,14 @@ title: "Papers"
 
 -   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). https://doi.org/10.31234/osf.io/2e9wn
 
--   Zhu, J., Dommett, K., & Stafford, T. (2023). [What makes online political ads unacceptable? Interrogating public attitudes to inform regulatory responses](https://preprints.apsanet.org/engage/apsa/article-details/6462be37f2112b41e99fe9bf). APSA Preprints. doi:10.33774/apsa-2023-rxw1q This content is a preprint and has not been peer-reviewed.
-
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://www.delibot.xyz/publications/). arXiv preprint [arXiv:2207.12035](https://arxiv.org/abs/2207.12035)
 
     -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
 
 ## 2025
+
+-   Zhu, J., Dommett, K., & Stafford, T. (2025). [What makes online political ads unacceptable? Interrogating public attitudes to inform regulatory responses](https://doi.org/10.1057/s41599-025-05114-1 ). Humanities and Social Sciences Communications, 12, 806. https://doi.org/10.1057/s41599-025-05114-1 
 
 - Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A., & Wade, A. (2025). [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://doi.org/10.1016/j.neuroimage.2025.121134). NeuroImage, 310, 121134. https://doi.org/10.1016/j.neuroimage.2025.121134
 [[preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556817v2.abstract)]

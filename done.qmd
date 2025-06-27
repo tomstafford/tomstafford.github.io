@@ -5,6 +5,16 @@ title: "Done"
 Recording things i've done which don't go under  [Papers](papers.html), 
 [Talks](https://tomstafford.sites.sheffield.ac.uk/outputs/talks) or Newsletter: <https://tomstafford.substack.com/>. For current preoccupations, see [here](news.html).
 
+## 2025
+
+
+June 16-18th: Panel DPR on DPR at International Conference on the Science of Science and Innovation ([ICSSI](https://icssi.org/)), Copenhagen
+
+June: Stafford, T., Pinfield, S., Butters, A., & Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review (Version 1). Research on Research Institute. <https://doi.org/10.6084/m9.figshare.29270534.v1>
+
+May - June: Sprint on AI in grantmaking
+
+
 ## 2024
 
 2024-12-23: Made a webscraping bot on mastodon: [https://mastodon.social/@PAXscraper](https://mastodon.social/@PAXscraper), which reports stats from PsyArXiv:
