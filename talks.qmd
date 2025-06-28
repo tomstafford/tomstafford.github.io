@@ -11,7 +11,7 @@ The Ideological Turing test"](https://docs.google.com/presentation/d/19QBDb20G9Q
 
 - Evaluating Distributed Peer Review at the Volkswagen Foundation. Metascience 2025, June 30 - 2 July, London. 
 
-- Can AI be used for better matching of proposals to reviewers? Feasibility and formal evaluation with the Metascience 2025 conference. Metascience 2025, June 30 - 2 July, London. 
+- [Can AI be used for better matching of proposals to reviewers? Feasibility and formal evaluation with the Metascience 2025 conference](https://docs.google.com/presentation/d/12LqFL4JlioIgYgUxUCOiDUvTwERgT5Y3/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true). Metascience 2025, June 30 - 2 July, London. 
 
 
 
