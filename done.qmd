@@ -7,14 +7,25 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2025
 
-June 29th: Helped organise and run ECR Metascientst Happy Hour, a networking event before Metascience 2025 hosted the UKRN.
+2025-07-01 Science runs a story on our work on Distributed Peer Review: [Should grant applicants judge competitors’ proposals? Unorthodox approach gets two real-world tests](https://www.science.org/content/article/should-grant-applicants-judge-competitors-proposals-unorthodox-approach-gets-two-real) doi: 10.1126/science.zap69fh
+
+2025-07-01 Quoted in Nature for this story on Distributed Peer Review: [How to speed up peer review: make applicants mark one another](https://www.nature.com/articles/d41586-025-02090-z). Nature 643, 313-314 (2025) doi: https://doi.org/10.1038/d41586-025-02090-z
+
+June 29th: Helped organise and run ECR Metascientst Happy Hour, a networking event before Metascience 2025 hosted by the UKRN. Report: [How to make a career in Metascience: Advice from Experts](https://www.ukrn.org/2025/07/04/ecr-metascientist-happy-hour/)
 
 June 16-18th: Panel DPR on DPR at International Conference on the Science of Science and Innovation ([ICSSI](https://icssi.org/)), Copenhagen
 
 June: Stafford, T., Pinfield, S., Butters, A., & Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review (Version 1). Research on Research Institute. <https://doi.org/10.6084/m9.figshare.29270534.v1>
 
-May - June: Sprint on AI in grantmaking
+May : external advisor and auditor for UKRI's first trial of Distributed Peer Review (read about this in their report [A Year in Metascience](https://www.gov.uk/government/publications/a-year-in-metascience-2025), published 2025-06-30)
 
+May - June: [AFIRE Sprint on AI in grantmaking](https://researchonresearch.org/afire-ai-in-funding-sprint/)
+
+2025-03-04: Chaired the [UKRN](https://www.ukrn.org/) Institutional Leads retreat in Cardiff. Here we are:
+
+<img src="images/2025-03-04ukrn_ils.jpeg" height = 400>
+
+2025-01-14: republished on the LSE Impact Blog [Do Community Notes work?](https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/)
 
 ## 2024
 
@@ -38,7 +49,7 @@ May - June: Sprint on AI in grantmaking
 
 2024-08-30: Article in New Scientist with Kate Dommett: [Is digital technology really swaying voters and undermining democracy?](https://www.newscientist.com/article/mg26335062-800-is-digital-technology-really-swaying-voters-and-undermining-democracy/). My [newsletter on this](https://tomstafford.substack.com/p/the-truth-about-digital-propaganda)
 
-2024-06-21: Research Matters magazine (with Shaun Leamon): [Experiments in research funding to reduce research](https://the-sra.org.uk/common/Uploaded%20files/Research%20Matters%20Magazine/sra-research-matters-june-2024-edition.pdf) bureaucracy
+2024-06-21: Research Matters magazine (with Shaun Leamon): [Experiments in research funding to reduce research bureaucracy](https://the-sra.org.uk/common/Uploaded%20files/Research%20Matters%20Magazine/sra-research-matters-june-2024-edition.pdf) 
 
 2024-06-18: Early results from our project with Volkswagen Foundation: [Researchers optimistic about Distributed Peer Review](https://researchonresearch.org/dpr-volkswagen-foundation-first-results/)
 
