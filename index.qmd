@@ -10,13 +10,17 @@ image: /tom_2020.jpg
 
 As Professor of Cognitive Science, I teach and research in the [School of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield. My work applies insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
 
-I direct the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. I teach a module on [Data Management and Visualisation](https://tomstafford.github.io/psy6422/).
-
-At the University I hold the position of Research Practice Lead, an institution-wide role with a remit to encourage practices which support robust and trusted research. As Research Practice Lead, I represent the University of Sheffield on the [UK Reproducibility Network](https://www.ukrn.org/), for which I chair the national [UKRN Institutional Leads group](https://www.ukrn.org/institutional-leads/).
+::: {.callout-tip title="News!"}
+From 1st September 2025 - 31st August 2026 I am on leave from the University of Sheffield. During this time I will be on secondment to the [Research on Research Institute](https://researchonresearch.org/), as well as pursing writing projects. Subscribe for updates on [tomstafford.substack.com/](https://tomstafford.substack.com/).
+:::
 
 As Senior Fellow at the [Research on Research Institute](https://researchonresearch.org/), I lead the programme [AFIRE: Accelerator For Innovation &amp; Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/). We seek to catalyse the generation and use of high quality evidence on research processes ("Metaresearch").
 
 I am on the [PsyArXiv](https://osf.io/preprints/psyarxiv) Scientific Advisory Board as chair of the Public Engagement Subcommittee. 
+
+Previously, I was Director for the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. You can read more about the flagshiop module I designed and taught here: [PSY6422 Data Analysis and Visualisation](https://tomstafford.github.io/psy6422/).
+
+From 2020 to 2025 I held the Research Practice Lead for the University of Sheffield, an institution-wide role with a remit to encourage practices which support robust and trusted research. As Research Practice Lead, I represented the University of Sheffield in the [UK Reproducibility Network](https://www.ukrn.org/), for which I chaired the national [UKRN Institutional Leads group](https://www.ukrn.org/institutional-leads/) 2023 - 2025.
 
 For non-specialist audiences, I have written a [best-selling book](https://mindhacks.com/book/), an [award winning blog](https://mindhacks.com/) and columns for venues including BBC, New Scientist, The Guardian and The Conversation. I have also written some mediocre selling books, some widely ignored blogs and tweeted jokes which I thought were hilarious at the time but which received precisely zero likes and zero retweets.
 
