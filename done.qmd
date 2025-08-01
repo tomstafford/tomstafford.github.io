@@ -7,19 +7,29 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2025
 
+2025-07-31 Published (late!) the [showcase for this year's class of PSY6422 Data Analysis and Visualisation](https://tomstafford.github.io/psy6422/class-of-2025.html) (check out previous year's showcases on [the course pages](https://tomstafford.github.io/psy6422))
+
 2025-07-01 Science runs a story on our work on Distributed Peer Review: [Should grant applicants judge competitors’ proposals? Unorthodox approach gets two real-world tests](https://www.science.org/content/article/should-grant-applicants-judge-competitors-proposals-unorthodox-approach-gets-two-real) doi: 10.1126/science.zap69fh
 
 2025-07-01 Quoted in Nature for this story on Distributed Peer Review: [How to speed up peer review: make applicants mark one another](https://www.nature.com/articles/d41586-025-02090-z). Nature 643, 313-314 (2025) doi: https://doi.org/10.1038/d41586-025-02090-z
 
 June 29th: Helped organise and run ECR Metascientst Happy Hour, a networking event before Metascience 2025 hosted by the UKRN. Report: [How to make a career in Metascience: Advice from Experts](https://www.ukrn.org/2025/07/04/ecr-metascientist-happy-hour/)
 
-June 16-18th: Panel DPR on DPR at International Conference on the Science of Science and Innovation ([ICSSI](https://icssi.org/)), Copenhagen
+June 16-18th: Panel DPR on DPR at International Conference on the Science of Science and Innovation ([ICSSI](https://icssi.org/)), Copenhagen. Here's me and Anders Smith from Villum Fonden
+
+<img src="images/icssi2025.jpg" height = 400>
 
 June: Stafford, T., Pinfield, S., Butters, A., & Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review (Version 1). Research on Research Institute. <https://doi.org/10.6084/m9.figshare.29270534.v1>
 
 May : external advisor and auditor for UKRI's first trial of Distributed Peer Review (read about this in their report [A Year in Metascience](https://www.gov.uk/government/publications/a-year-in-metascience-2025), published 2025-06-30)
 
 May - June: [AFIRE Sprint on AI in grantmaking](https://researchonresearch.org/afire-ai-in-funding-sprint/)
+
+May 2025: Launch of the [Editors and Publishers Network](https://sheffield.ac.uk/openresearch/home/editors-and-publishers-network) at the University of Sheffield, following the event I convened in 2024.
+
+2025-05-21 Final of our 2024-25 [AFIRE Funder Forum](https://researchonresearch.org/afire-funders-forum/) series; showcasing experiments by research funders. Talk recordings are on the website, as well as the [RoRI YouTube channel](https://www.youtube.com/@researchonresearchinstitut6175).
+
+April 2025: Attended [Fostering Accountability for the Integrity of Research Studies (FAIRS)](https://www.sjcfairsmeeting.com/), St John's College, Oxford
 
 2025-03-04: Chaired the [UKRN](https://www.ukrn.org/) Institutional Leads retreat in Cardiff. Here we are:
 
@@ -114,6 +124,15 @@ Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www
 2023-01-05 [Christmas message 2022](https://tomstafford.sites.sheffield.ac.uk/news/christmas-message-2022)
 
 2023-01-01 [Archive of tweets 2008-2022](https://idiolect.org.uk/tweets/)
+
+# 2022
+
+Probably I did other things this year, but the only thing I can find a note of is
+
+2022-03-09 Released code for making your own ['hybrid images'](https://github.com/tomstafford/hybridimages). They look different from different distances (vision science people: it is about putting different image information into different spatial frequencies)
+
+<img src="images/2022-03-29hybrid.jpg" height = 400>
+
 
 # 2021
 
