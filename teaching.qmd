@@ -4,7 +4,7 @@ title: "Teaching"
 
 # University of Sheffield
 
-I am director for the MSc programmes in Psychological Research Methods with Data Science. I am founding director for MSc in Psychological Research Methods with Data Science. I teach a MSc module in [data management and visualisation](https://tomstafford.github.io/psy6422/).
+To 2025 I was Director for the MSc programmes in Psychological Research Methods with Data Science. I was founding director for MSc in Psychological Research Methods with Data Science. I designed and led an MSc module in [data management and visualisation](https://tomstafford.github.io/psy6422/).
 
 In 2020 the Department of Psychology completed a redesign and overhaul of its undergraduate, based around a [programme level approach](https://staff.sheffield.ac.uk/teaching-guidance/curriculum/pla). I contributed to this as lead for one of the five core streams -- cognitive psychology.
 
