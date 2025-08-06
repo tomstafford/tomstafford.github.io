@@ -72,6 +72,8 @@ title: "Papers"
 
 ## 2025
 
+- Myers, J. A., Stafford, T., Koychev, I., Perneczky, R., Bandmann, O., & Vaci, N. (2025). [Loneliness, social isolation, and effects on cognitive decline in patients with dementia: A retrospective cohort study using natural language processing](https://doi.org/10.1002/dad2.70149). Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 17(3), e70149. <https://doi.org/10.1002/dad2.70149>
+
 -   Zhu, J., Dommett, K., & Stafford, T. (2025). [What makes online political ads unacceptable? Interrogating public attitudes to inform regulatory responses](https://doi.org/10.1057/s41599-025-05114-1 ). Humanities and Social Sciences Communications, 12, 806. https://doi.org/10.1057/s41599-025-05114-1 
 
 - Vardal, O., Karapanagiotidis, T., Stafford, T., Drachen, A., & Wade, A. (2025). [Unsupervised identification of internal perceptual states influencing psychomotor performance](https://doi.org/10.1016/j.neuroimage.2025.121134). NeuroImage, 310, 121134. https://doi.org/10.1016/j.neuroimage.2025.121134
