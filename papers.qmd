@@ -114,7 +114,7 @@ title: "Papers"
 
 -   Vardal, O., Bonometti, V., Drachen, A., Wade, A., & Stafford, T. (2022). [Mind the gap: Distributed practice enhances performance in a MOBA game](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275843). Plos one, 17(10), e0275843.
 
--   Brand, C. O., & Stafford, T. (2022). [Using dialogues to increase positive attitudes towards COVID-19 vaccines in a vaccine-hesitant UK population](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220366). Royal Society Open Science, 9(10), 220366.
+-   Brand, C. O., & Stafford, T. (2022). [Using dialogues to increase positive attitudes towards COVID-19 vaccines in a vaccine-hesitant UK population](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220366). Royal Society Open Science, 9(10), 220366. <https://doi.org/10.1098/rsos.220366>
 
 -   Copeland, A., Stafford, T., Acuff, S.F., Murphy, J.G. and Field, M. (in press). [Behavioral economic and value-based decision-making constructs that discriminate current heavy drinkers versus people who reduced their drinking without treatment](https://psyarxiv.com/5jhdg/). Psychology of Addictive Behaviors.
 
