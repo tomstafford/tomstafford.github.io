@@ -41,7 +41,7 @@ title: "Papers"
 
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., ... & Forstmann, B. U. (2025). [An expert guide to planning experimental tasks for evidence-accumulation modeling](https://doi.org/10.1177/25152459251336127). Advances in Methods and Practices in Psychological Science, 8(2), 25152459251336127. <https://doi.org/10.1177/25152459251336127>
 
--   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). https://doi.org/10.31234/osf.io/2e9wn
+-   Brand, C. O., Brady, D., & Stafford, T. (2023, June 27). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). *Cognitive Science*. https://doi.org/10.31234/osf.io/2e9wn
 
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2023). [DeliData: A dataset for deliberation in multi-party problem solving](https://dl.acm.org/doi/10.1145/3610056). Proceedings of the ACM on Human-Computer Interaction, CSCW. <https://doi.org/10.1145/3610056> [[arXiv](https://arxiv.org/abs/2108.05271)]
 
