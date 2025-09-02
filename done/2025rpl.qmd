@@ -1,0 +1,19 @@
+---
+title: "2020 - 2025 Univerisy Research Practice Lead"
+format: html
+---
+
+From 2020-2025 I held the role of Research Practice Lead at the University of Sheffield. This was a University level, cross-faculty, leadership role. The mission was to raise the quality of our research, by supporing researcher engagement with those practices, processes and platforms which make research more reliable, more scalable and more transparent. A large part of this was understanding and advocating for open research practices, as they manifested across different disciplines - from medicine to history.
+
+In this work I was the University representative on the [UK Reproducibility Network](https://www.ukrn.org/)./ As 'Institutional Lead' I worked on the UKRN's [Open Research Training Programme](https://www.ukrn.org/open-research-programme/), which used a train-the-trainer model to reach thousands of researchers and train them in skills to use Open Research Practices. This was a huge multi-discipline, multi-institution, multi-year project and I learnt a lot being involved from application to the completion of the last trainings.
+
+At the University I was supported by the the Open Research Working Group and the various committees I sat on which discussed University policy, such as the Vice President for Research's Research Strategy Group, the Research Culture Steering Board, and the Open Research Advisory Group, which both included the Faculty Directors of Research and representatives for the Library and IT Services. All of which is to say that I spent a lot of time learning about University management and policy, and appreciating how much colleagues across the departments and services of the University contributed to it running as it did. I particularly recommend all academics to speak to their librarians more.
+
+Activities I initiated or led on during my time as Research Practice Lead
+- Led development and adoption of the [University of Sheffield statement on Open Research](https://www.sheffield.ac.uk/openresearch/university-statement-open-research)
+- Initiated the [Editors and Publishers Network](https://sheffield.ac.uk/openresearch/home/editors-and-publishers-network)
+- Submitted evidence to the Science, Innovation and Technology Committee report on [Reproducibility and research integrity](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). Written evidence:[Commercial involvement in academic publishing is key to research reliability and should face greater public scrutiny](https://osf.io/preprints/metaarxiv/rjmvh)
+- Organised networking events, journal clubs, drop-in sessions and workshops on open research, reproducibility and metascience
+- Toured Departments from archaeology to civil engineering to speak on 'research improvement' and Open Research practices and policy
+- Helped develop and became co-chair of the new University Office for [Open Research and Scholarship](https://www.sheffield.ac.uk/openresearch/home/office-open-research-and-scholarship)
+ 
