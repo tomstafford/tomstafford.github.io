@@ -4,11 +4,7 @@ title: "Talks"
 
 # Coming up
 
-- Evaluating Distributed Peer Review at the Volkswagen Foundation. Metascience 2025, June 30 - 2 July, London. 
-
-- [The Metascience Lab](https://docs.google.com/presentation/d/1hcrkLVRyFl2zAhXffWldhXhNFYqkRLJj/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true), days 1, 2 & 3 at Metascience 2025, June 30 - 2 July, London. 
-
-- [Can AI be used for better matching of proposals to reviewers? Feasibility and formal evaluation with the Metascience 2025 conference](https://docs.google.com/presentation/d/12LqFL4JlioIgYgUxUCOiDUvTwERgT5Y3/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true). Metascience 2025, June 30 - 2 July, London. 
+- 6th October: [ARMA Research Evaluation SIG Drop-In Session: Randomisation in funding allocation](https://arma.ac.uk/product/arma-research-evaluation-sig-drop-in-session-randomisation-in-funding-allocation/)
 
 
 
@@ -17,6 +13,11 @@ title: "Talks"
 
 ## 2025
 
+- Evaluating Distributed Peer Review at the Volkswagen Foundation. Metascience 2025, June 30 - 2 July, London. 
+
+- [The Metascience Lab](https://docs.google.com/presentation/d/1hcrkLVRyFl2zAhXffWldhXhNFYqkRLJj/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true), days 1, 2 & 3 at Metascience 2025, June 30 - 2 July, London. 
+
+- [Can AI be used for better matching of proposals to reviewers? Feasibility and formal evaluation with the Metascience 2025 conference](https://docs.google.com/presentation/d/12LqFL4JlioIgYgUxUCOiDUvTwERgT5Y3/edit?usp=sharing&ouid=109750001665912327637&rtpof=true&sd=true). Metascience 2025, June 30 - 2 July, London. 
 
 - Panel on Distributed Peer Review, International Conference on the Science of Science ([ICSSI](https://icssi.org/)), June 16 - 18, Copenhagen.
 
