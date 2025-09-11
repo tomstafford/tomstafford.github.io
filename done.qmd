@@ -21,7 +21,7 @@ June 16-18th: Panel DPR on DPR at International Conference on the Science of Sci
 
 <img src="images/icssi2025.jpg" height = 400>
 
-June: Stafford, T., Pinfield, S., Butters, A., & Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review (Version 1). Research on Research Institute. <https://doi.org/10.6084/m9.figshare.29270534.v1>
+June: Stafford, T., Pinfield, S., Butters, A., & Benson Marshall, M. (2025). RoRI Insights: Applicants as reviewers - a Guide to Distributed Peer Review (Version 1). Research on Research Institute. <https://doi.org/10.6084/m9.figshare.29270534.v2>
 
 May : external advisor and auditor for UKRI's first trial of Distributed Peer Review (read about this in their report [A Year in Metascience](https://www.gov.uk/government/publications/a-year-in-metascience-2025), published 2025-06-30)
 
