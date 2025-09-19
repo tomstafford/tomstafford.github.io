@@ -7,6 +7,8 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2025
 
+September 2025: [Our working paper on Distributed Peer Review published](https://doi.org/10.6084/m9.figshare.29994841). Media: [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/18/distributed-peer-review-how-the-wisdom-of-the-crowd-can-allocate-grant-funding/), [Science|Business](https://sciencebusiness.net/news/r-d-funding/assessment/distributed-peer-review-cuts-funding-decision-time-trials-show-there-are-risks), [Research Professional News](https://www.researchprofessionalnews.com/rr-news-europe-universities-2025-8-radical-method-cuts-time-on-peer-review-by-60-trial-finds/), [LaborJournal](https://www.laborjournal.de/editorials/3323.php), [Table](https://table.media/research/analyse/distributed-peer-review-welche-probleme-das-verfahren-loest) and [my newsletter](https://tomstafford.substack.com/p/distributed-peer-review)
+
 2020 - 2025 I was [Research Practice Lead](done/2025rpl.html) for the University of Sheffield
 
 2025-07-31 Published (late!) the [showcase for this year's class of PSY6422 Data Analysis and Visualisation](https://tomstafford.github.io/psy6422/class-of-2025.html) (check out previous year's showcases on [the course pages](https://tomstafford.github.io/psy6422))
