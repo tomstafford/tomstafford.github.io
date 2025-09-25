@@ -177,7 +177,7 @@ title: "Papers"
 
     -   See also: [Judiciary.uk: Biases in decision making](https://www.judiciary.uk/wp-content/uploads/2018/02/stafford-biases-in-decision-making-winter-2017.pdf).
 
--   Stafford, T. (2018). [Female chess players outperform expectations when playing men](http://journals.sagepub.com/doi/10.1177/0956797617736887). Psychological Science, 29(3), 429-436. (Preprint).
+-   Stafford, T. (2018). [Female chess players outperform expectations when playing men](http://journals.sagepub.com/doi/10.1177/0956797617736887). Psychological Science, 29(3), 429-436. [Preprint](https://osf.io/preprints/psyarxiv/bpy3t), [Code/Data](https://osf.io/aeksv).
 
 -   Pirrone, A., Azab, H., Hayden, B. Y., Stafford, T., and Marshall, J. A. R. (2018). [Evidence for the speed--value trade-off: Human and monkey decision making is magnitude sensitive](http://eprints.whiterose.ac.uk/109297/). Decision, 5(2), 129-142.
 
