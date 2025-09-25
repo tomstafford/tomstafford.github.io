@@ -8,7 +8,7 @@ title: "Papers"
 
 --------------------
 
-## Data intensive psychology: 
+## Data intensive psychology:
 
 -    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> [[preprint](https://psyarxiv.com/sakn9), [Data/code](https://osf.io/sd6f5/)]
 
