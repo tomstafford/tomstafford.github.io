@@ -10,9 +10,9 @@ title: "Papers"
 
 ## Data intensive psychology: 
 
--    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> [[preprint](https://psyarxiv.com/sakn9)]
+-    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> [[preprint](https://psyarxiv.com/sakn9), [Data/code](https://osf.io/sd6f5/)]
 
--   Stafford, T., and Vaci, N. (2022). [Maximizing the potential of digital games for understanding skill acquisition](https://doi.org/10.1177/09637214211057841). Current Directions in Psychological Science, 31(1), 49-55.  <https://doi.org/10.1177/09637214211057841> [[web/mobile version](https://journals.sagepub.com/doi/full/10.1177/09637214211057841)]
+-   Stafford, T., and Vaci, N. (2022). [Maximizing the potential of digital games for understanding skill acquisition](https://doi.org/10.1177/09637214211057841). Current Directions in Psychological Science, 31(1), 49-55.  <https://doi.org/10.1177/09637214211057841> [[web/mobile version](https://journals.sagepub.com/doi/full/10.1177/09637214211057841), [Code](https://osf.io/fvm8s/files/osfstorage)]
 
 -   Bannard, C., Leriche, M., Bandmann, O., Brown, C., Ferracane, E., Sánchez-Ferro, A., Obeso, J., Redgrave, P. and Stafford, T. (2019). [Reduced habit-driven errors in Parkinson's Disease](https://www.nature.com/articles/s41598-019-39294-z). Nature Scientific Reports 9(1), 3423. [[pre-print](https://psyarxiv.com/b25tf/)]
 
@@ -43,7 +43,7 @@ title: "Papers"
 
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., ... & Forstmann, B. U. (2025). [An expert guide to planning experimental tasks for evidence-accumulation modeling](https://doi.org/10.1177/25152459251336127). Advances in Methods and Practices in Psychological Science, 8(2), 25152459251336127. <https://doi.org/10.1177/25152459251336127>
 
--   Brand, C. O., Brady, D., & Stafford, T. (in press). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). *Cognitive Science*. https://doi.org/10.31234/osf.io/2e9wn
+-   Brand, C. O., Brady, D., & Stafford, T. (in press). [The Ideological Turing Test: a behavioural measure of open-mindedness and perspective-taking](https://psyarxiv.com/2e9wn). *Cognitive Science*. [Preprint](https://doi.org/10.31234/osf.io/2e9wn), [Data/Code](https://doi.org/10.5281/zenodo.16872578).
 
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2023). [DeliData: A dataset for deliberation in multi-party problem solving](https://dl.acm.org/doi/10.1145/3610056). Proceedings of the ACM on Human-Computer Interaction, CSCW. <https://doi.org/10.1145/3610056> [[arXiv](https://arxiv.org/abs/2108.05271)]
 
@@ -177,7 +177,7 @@ title: "Papers"
 
     -   See also: [Judiciary.uk: Biases in decision making](https://www.judiciary.uk/wp-content/uploads/2018/02/stafford-biases-in-decision-making-winter-2017.pdf).
 
--   Stafford, T. (2018). [Female chess players outperform expectations when playing men](http://journals.sagepub.com/doi/10.1177/0956797617736887). Psychological Science, 29(3), 429-436. [Preprint](https://osf.io/preprints/psyarxiv/bpy3t), [Code/Data](https://osf.io/aeksv).
+-   Stafford, T. (2018). [Female chess players outperform expectations when playing men](http://journals.sagepub.com/doi/10.1177/0956797617736887). Psychological Science, 29(3), 429-436. https://doi.org/10.1177/095679761773688 [Preprint](https://osf.io/preprints/psyarxiv/bpy3t), [Code/Data](https://osf.io/aeksv).
 
 -   Pirrone, A., Azab, H., Hayden, B. Y., Stafford, T., and Marshall, J. A. R. (2018). [Evidence for the speed--value trade-off: Human and monkey decision making is magnitude sensitive](http://eprints.whiterose.ac.uk/109297/). Decision, 5(2), 129-142.
 
