@@ -4,7 +4,7 @@ title: "Talks"
 
 # Coming up
 
-- 6th October: [ARMA Research Evaluation SIG Drop-In Session: Randomisation in funding allocation](https://arma.ac.uk/product/arma-research-evaluation-sig-drop-in-session-randomisation-in-funding-allocation/)
+- 6th October: [ARMA Research Evaluation SIG Drop-In Session: Randomisation in funding allocation](https://arma.ac.uk/product/arma-research-evaluation-sig-drop-in-session-randomisation-in-funding-allocation/) - [my slides](https://docs.google.com/presentation/d/1nCiQ4NKBKfN1mz4yv_E4TBDEwM4hz_ob/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), as [PDF](docs/ARMA2025-10-06_TomStafford.pdf)
 
 
 
