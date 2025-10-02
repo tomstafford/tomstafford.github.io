@@ -57,6 +57,8 @@ title: "Papers"
 
 ## In press, and under review
 
+- Arjmandi-Lari, Z., Mantzarlis, A., Stafford, T. (2025). [Threats to the sustainability of Community Notes on X](https://arxiv.org/abs/2510.00650). arXiv preprint arXiv:2510.00650
+
 - Copeland, A., Dora, J., King, K., Stafford, T., & Field, M. (in press). Value-based decision-making in daily tobacco smokers following experimental manipulation of mood. *Experimental and Clinical Psychopharmacology* [preprint](https://osf.io/preprints/psyarxiv/5w4ap_v1)
 
 - Lee, J., Zhu, X., Karadzhov, G., Stafford, T., Vlachos, A., & Lee, D. (2025). [Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems](https://arxiv.org/abs/2503.04945). arXiv preprint arXiv:2503.04945.
