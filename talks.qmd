@@ -4,14 +4,16 @@ title: "Talks"
 
 # Coming up
 
-- 6th October: [ARMA Research Evaluation SIG Drop-In Session: Randomisation in funding allocation](https://arma.ac.uk/product/arma-research-evaluation-sig-drop-in-session-randomisation-in-funding-allocation/) - [my slides](https://docs.google.com/presentation/d/1nCiQ4NKBKfN1mz4yv_E4TBDEwM4hz_ob/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), as [PDF](docs/ARMA2025-10-06_TomStafford.pdf)
 
+- 16th October [Distributed Peer Review] for SSHRC seminar on funding experiments [slides](https://docs.google.com/presentation/d/1xtzvkFIc7KEm6JyQU5tyc7p2l0iS6DtV/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), [as PDF](docs/sshrc2025-10-16.pdf)
 
 
 
 # Past talks
 
 ## 2025
+
+- 6th October: [ARMA Research Evaluation SIG Drop-In Session: Randomisation in funding allocation](https://arma.ac.uk/product/arma-research-evaluation-sig-drop-in-session-randomisation-in-funding-allocation/) - [my slides](https://docs.google.com/presentation/d/1nCiQ4NKBKfN1mz4yv_E4TBDEwM4hz_ob/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), as [PDF](docs/ARMA2025-10-06_TomStafford.pdf)
 
 - Evaluating Distributed Peer Review at the Volkswagen Foundation. Metascience 2025, June 30 - 2 July, London. 
 
