@@ -5,13 +5,24 @@ title: "Talks"
 # Coming up
 
 
-- 16th October [Distributed Peer Review] for SSHRC seminar on funding experiments [slides](https://docs.google.com/presentation/d/1xtzvkFIc7KEm6JyQU5tyc7p2l0iS6DtV/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), [as PDF](docs/sshrc2025-10-16.pdf)
+- 22nd January: **Funder experimentation with AI**, [Ensuring Value in Research EViR](https://evir.org/)
+
+  - Topic: There are many opportunities in research funding to use AI, such as improving applicant experience, reviewer selection, evaluation processes and feedback. In this talk I will introduce the Research on Research Institute's work on AI, covering our project on responsible use of AI by research funders (GRAIL) and our workshops on how to develop evaluation experiments on the use of AI in research funding (AFIRE). I will share experiences of research funders with evaluating AI use, and suggest principles for making progress in this area. <https://researchonresearch.org/project/a-f-i-r-e/>
 
 
+- 30th January: **The metacience of peer review**, as part of "[Does AI threaten research integrity?](https://www.ticketsource.co.uk/whats-on/room-2-62/eleanor-rathbone-building/does-ai-threaten-research-integrity/e-jopdkk)" at University of Liverpool
+
+  - Abstract:  Peer review is central to the lives of researchers - it determines if our papers get accented and if our funding proposals are successful. Metascience - also known as the science of science, or research on research - takes peer review as an object of study in its own right, and asks what we have learnt about how peer review works and how it might be improved. I'll discuss how we worked with a research funder to evaluate a trial of Distributed Peer Review  (a system where applicants for a funding call review each others' applications), and talk about the topics in the psychology of expertise, judgement and decision making can be given new relevance in the study of peer review.
+   
+
+- 12 February: **Understanding the reasons for vaccine hesitancy** at [NHS England digital Prevention Services](https://www.digital-prevention-services.nhs.uk), Thoughtful Thursday, 1pm, Canary Wharf
+ 
 
 # Past talks
 
 ## 2025
+
+- 16th October [Distributed Peer Review] for SSHRC seminar on funding experiments [slides](https://docs.google.com/presentation/d/1xtzvkFIc7KEm6JyQU5tyc7p2l0iS6DtV/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), [as PDF](docs/sshrc2025-10-16.pdf)
 
 - 6th October: [ARMA Research Evaluation SIG Drop-In Session: Randomisation in funding allocation](https://arma.ac.uk/product/arma-research-evaluation-sig-drop-in-session-randomisation-in-funding-allocation/) - [my slides](https://docs.google.com/presentation/d/1nCiQ4NKBKfN1mz4yv_E4TBDEwM4hz_ob/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), as [PDF](docs/ARMA2025-10-06_TomStafford.pdf)
 
