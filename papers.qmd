@@ -228,7 +228,7 @@ title: "Papers"
 
 ## 2014
 
--   Stafford, T. and Dewar, M. (2014). [Tracing the trajectory of skill learning with a very large sample of online game players](http://pss.sagepub.com/content/25/2/511). Psychological Science, 25(2) 511--518. See also: [Data and analysis code](https://github.com/tomstafford/axongame).
+-   Stafford, T. and Dewar, M. (2014). [Tracing the trajectory of skill learning with a very large sample of online game players](https://doi.org/10.1177/0956797613511466). Psychological Science, 25(2) 511--518. <https://doi.org/10.1177/0956797613511466> See also: [Data and analysis code](https://github.com/tomstafford/axongame).
 
 -   Baldassarre, G., Stafford, T., Mirolli, M., Redgrave, P., Ryan, R. M., and Barto, A. (2014). [Intrinsic motivations and open-ended development in animals, humans, and robots: an overview](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00985/full). Frontiers in Psychology, 5(985). doi: 10.3389/fpsyg.2014.00985 (introduction to Special Topic we edited).
 
