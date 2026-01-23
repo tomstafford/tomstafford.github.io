@@ -5,7 +5,18 @@ title: "Done"
 Recording things i've done which don't go under  [Papers](papers.html), 
 [Talks](https://tomstafford.sites.sheffield.ac.uk/outputs/talks) or Newsletter: <https://tomstafford.substack.com/>. For current preoccupations, see [here](news.html).
 
+## 2026
+
+2026-01-28: Chaired workshop on Demand Management at Wellcome Trust
+
+2026-01-02: Published [The 1,000 neuron challenge](https://www.thetransmitter.org/computational-neuroscience/the-1000-neuron-challenge/) at The Transmitter. 'A competition to design small, efficient neural models might provide new insight into real brains—and perhaps unite disparate modeling efforts.'
+]
+
 ## 2025
+
+2025-12-18: Published [A new model moves research in a more democratic direction – it could be faster and fairer too](https://wonkhe.com/blogs/a-new-model-moves-research-in-a-more-democratic-direction-it-could-be-faster-and-fairer-too/) at WonkHE, with Anna Butters.
+
+2025-10-25: Participated in the [ARRC](https://www.arrc.group.cam.ac.uk/) policy studio on ECR precarity, at the University of Cambridge, UK. 
 
 September 2025: [Our working paper on Distributed Peer Review published](https://doi.org/10.6084/m9.figshare.29994841). Media: [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/18/distributed-peer-review-how-the-wisdom-of-the-crowd-can-allocate-grant-funding/), [Science|Business](https://sciencebusiness.net/news/r-d-funding/assessment/distributed-peer-review-cuts-funding-decision-time-trials-show-there-are-risks), [Research Professional News](https://www.researchprofessionalnews.com/rr-news-europe-universities-2025-8-radical-method-cuts-time-on-peer-review-by-60-trial-finds/), [LaborJournal](https://www.laborjournal.de/editorials/3323.php), [Table](https://table.media/research/analyse/distributed-peer-review-welche-probleme-das-verfahren-loest) and [my newsletter](https://tomstafford.substack.com/p/distributed-peer-review)
 
