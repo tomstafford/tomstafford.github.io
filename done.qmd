@@ -10,7 +10,6 @@ Recording things i've done which don't go under  [Papers](papers.html),
 2026-01-28: Chaired workshop on Demand Management at Wellcome Trust
 
 2026-01-02: Published [The 1,000 neuron challenge](https://www.thetransmitter.org/computational-neuroscience/the-1000-neuron-challenge/) at The Transmitter. 'A competition to design small, efficient neural models might provide new insight into real brains—and perhaps unite disparate modeling efforts.'
-]
 
 ## 2025
 
