@@ -8,6 +8,7 @@ title: "Talks"
 
   - Abstract:  Peer review is central to the lives of researchers - it determines if our papers get accented and if our funding proposals are successful. Metascience - also known as the science of science, or research on research - takes peer review as an object of study in its own right, and asks what we have learnt about how peer review works and how it might be improved. I'll discuss how we worked with a research funder to evaluate a trial of Distributed Peer Review  (a system where applicants for a funding call review each others' applications), and talk about the topics in the psychology of expertise, judgement and decision making can be given new relevance in the study of peer review.
   - Join online: <https://www.ticketsource.co.uk/ukrn-liverpool/t-yzqrxyr>
+  - [slides](https://docs.google.com/presentation/d/1VRqOtiKUqTyR_5HObpLdFIrFeBoxHh5OpSiCCYsAIlw/edit?usp=sharing) 
   
 - 6 February: **My career in Metascience: Three things that worked for me, and three things I'd do differently**. Metascience Fellows’ Meet, DSIT/UKRI Metascience Unit. 
 
