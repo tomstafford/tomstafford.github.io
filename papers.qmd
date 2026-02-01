@@ -54,7 +54,7 @@ title: "Papers"
 
     -   See also : '[Science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/)' and the [interactive visualisation by Mat Evans which allowed us to find an important confound in the source data](https://github.com/mathewzilla/redcard/blob/master/Crowdstorming_visualisation.ipynb).
 
-    -   Ploner, S., & Stafford, T. (2021). [How analysis strategy affects analysis results: Assessing results space and structure of Silberzahn et al. (2018) through model specification](https://osf.io/preprints/psyarxiv/nzskm). Retrieved from osf.io/preprints/psyarxiv/b2hm7
+    -   Ploner, S., & Stafford, T. (2021). [How analysis strategy affects analysis results: Assessing results space and structure of Silberzahn et al. (2018) through model specification](https://osf.io/preprints/psyarxiv/b2hm7_v1). Retrieved from osf.io/preprints/psyarxiv/b2hm7
 
 # Chronological
 
