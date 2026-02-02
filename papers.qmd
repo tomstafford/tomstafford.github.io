@@ -60,6 +60,8 @@ title: "Papers"
 
 ## In press, and under review
 
+- Zhu, X., Zhang, C., Chi, Y., Stafford, T., Collier, N., & Vlachos, A. (2026). [Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://arxiv.org/abs/2601.19921)_. arXiv preprint arXiv:2601.19921.
+
 - Arjmandi-Lari, Z., Mantzarlis, A., Stafford, T. (2025). [Threats to the sustainability of Community Notes on X](https://arxiv.org/abs/2510.00650). arXiv preprint arXiv:2510.00650
 
   - see also [Community fact-checking on X survived Elon Musk. It may not survive AI](https://indicator.media/p/community-fact-checking-on-x-survived-elon-musk-it-may-not-survive-ai)
