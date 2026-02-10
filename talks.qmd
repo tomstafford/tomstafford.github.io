@@ -5,14 +5,17 @@ title: "Talks"
 # Coming up
 
   
-- 6 February: **My career in Metascience: Three things that worked for me, and three things I'd do differently**. Metascience Fellows’ Meet, DSIT/UKRI Metascience Unit. 
+
 
 - 12 February: **Understanding the reasons for vaccine hesitancy** at [NHS England digital Prevention Services](https://www.digital-prevention-services.nhs.uk), Thoughtful Thursday, 1pm, Canary Wharf
+  - [slides](https://docs.google.com/presentation/d/1C-HniI7FV6dEIQpYANi_pgU7o3YMA3H24IddYn3r7YY/edit?usp=sharing), [pdf](docs/nhs2026-02-12.pdf)
  
 
 # Past talks
 
 ## 2026
+
+- 6 February: **My career in Metascience: Three things that worked for me, and three things I'd do differently**. Metascience Fellows’ Meet, DSIT/UKRI Metascience Unit. 
 
 - 30th January: **The metacience of peer review**, as part of "[Does AI threaten research integrity?](https://www.ticketsource.co.uk/whats-on/room-2-62/eleanor-rathbone-building/does-ai-threaten-research-integrity/e-jopdkk)" at University of Liverpool
 
