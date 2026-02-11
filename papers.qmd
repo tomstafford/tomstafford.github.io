@@ -42,7 +42,9 @@ title: "Papers"
 
 ## Metaresearch
 
-- Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2025). [Applicants as Reviewers: Evaluating the Risks, Benefits, and Potential of Distributed Peer Review for Grant Funding Allocations](https://doi.org/10.6084/m9.figshare.29994841) (RoRI Working Paper No. 17). https://doi.org/10.6084/m9.figshare.29994841
+- Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2026, February 3). [Applicants as reviewers: A mixed methods evaluation of the risks, benefits, and potential of distributed peer review for grant funding allocations](https://doi.org/10.31222/osf.io/t2p56_v2). <https://doi.org/10.31222/osf.io/t2p56_v2>
+
+  - Working paper (longer) : Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2025). [Applicants as Reviewers: Evaluating the Risks, Benefits, and Potential of Distributed Peer Review for Grant Funding Allocations](https://doi.org/10.6084/m9.figshare.29994841) (RoRI Working Paper No. 17). https://doi.org/10.6084/m9.figshare.29994841
 
 -   Jones, A., Petrovskaya, E., & Stafford, T. (2024). [Exploring the multiverse of analysis options for the alcohol Stroop](https://link.springer.com/article/10.3758/s13428-024-02377-5). Behavior Research Methods, 56(4), 3578-3588. [[preprint](https://psyarxiv.com/prfu2/)],[code/data](https://osf.io/utnx2/files/osfstorage)]
 
