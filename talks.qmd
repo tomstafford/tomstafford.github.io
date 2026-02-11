@@ -4,9 +4,6 @@ title: "Talks"
 
 # Coming up
 
-  
-
-
 - 12 February: **Understanding the reasons for vaccine hesitancy** at [NHS England digital Prevention Services](https://www.digital-prevention-services.nhs.uk), Thoughtful Thursday, 1pm, Canary Wharf
   - [slides](https://docs.google.com/presentation/d/1C-HniI7FV6dEIQpYANi_pgU7o3YMA3H24IddYn3r7YY/edit?usp=sharing), [pdf](docs/nhs2026-02-12.pdf)
  
