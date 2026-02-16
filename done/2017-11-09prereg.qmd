@@ -1,0 +1,64 @@
+---
+title: "Pre-registration"
+author: "Tom Stafford"
+date: "2017-11-09"
+categories: [News, Open Science]
+format: html
+---
+
+## Open science essentials in two minutes, part one
+
+### The problem
+As a scholarly community we allowed ourselves to forget the distinction between exploratory vs confirmatory research, presenting exploratory results as confirmatory, presenting post-hoc rationales as predictions. As well as being dishonest, this makes for unreliable science.
+
+Flexibility in how you analyse your data (“[researcher degrees of freedom](https://doi.org/10.1177/095679761141763)”) can invalidate statistical inferences.
+
+Importantly, you can employ questionable research practices like this (“[p-hacking](https://fivethirtyeight.com/features/science-isnt-broken/#part1)”) without knowing you are doing it. Decide to stop an analysis because the results are significant? Measure three dependent variables and use the one that “works”? Exclude participants who don't respond to your manipulation?
+
+All justified in exploratory research, but mean you are exploring a [garden of forking paths](https://sites.stat.columbia.edu/gelman/research/unpublished/p_hacking.pdf) in the space of possible analysis - when you arrive at a significant result, you won't be sure you got there because of the data, or your choices.
+
+### The solution
+There is a solution - **pre-registration**. Declare in advance the details of your method and your analysis: sample size, exclusion conditions, dependent variables, directional predictions.
+
+#### You can do this
+Pre-registration is easy. There is no single, universally accepted, way to do it.
+
+* You could write your data collection and analysis plan down and post it on your blog.
+* You can use the [Open Science Framework](https://osf.io) to timestamp and archive a pre-registration, so you can prove you made a prediction ahead of time.
+* You can visit [aspredicted.org](https://aspredicted.org) which provides a form to complete. This will help you structure your pre-registration, making sure you include all relevant information.
+* **[Registered Reports](https://www.cos.io/initiatives/registered-reports)**: More and more journals are committing to published pre-registered studies. They review the method and analysis plan before data collection and agree to publish once the results are in (however they turn out).
+
+#### You should do this
+Why do this?
+
+1.  **Credibility** - other researchers and journals will know you predicted the results before you got them.
+2.  You can still do exploratory analysis, it just makes it clear which is which.
+3.  Forces you to think about the analysis before collecting the data (a great benefit).
+4.  More confidence in your results.
+
+### Further reading
+* [A pre-registration primer by Tom Hardwicke](https://osf.io/ugd7q/files/8uz2g) - see also for background references on the state of psychology and p-hacking.
+* Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., du Sert, N. P., ... and Ioannidis, J. P. (2017) [A manifesto for reproducible science](https://doi.org/10.1038/s41562-016-0021), *Nature Human Behaviour*, 1, 0021.
+* Psychology's '[registration revolution](https://www.theguardian.com/science/head-quarters/2014/may/20/psychology-registration-revolution)', Chris Chambers in *The Guardian*.
+
+---
+
+### Addendum: 14 November 2017
+As luck would have it, I stumbled across a bunch of useful extra resources in the days after publishing this post.
+
+* Another [template for pre-registration](https://drive.google.com/file/d/1e48AGjlj_pKz3l9kgJQXjGVFNLaz3aCG/view), via [@openstatslab](https://x.com/openstatslab).
+* [A pre-registration coaching network](https://www.cos.io/blog/preregistration-coaching-network) from the [Center for Open Science](https://www.cos.io/).
+* [How to properly pre-register a study](https://datacolada.org/64) from the people who brought you [aspredicted.org](https://aspredicted.org/)
+* **Two examples of pre-registration:**
+    1.  (by us) via [OSF](https://osf.io/94pur/overview)
+    2.  via [Sheffield ORDA](https://figshare.com/articles/dataset/Review_of_diversity_and_inclusion_literature_and_an_evaluation_of_methodologies_and_metrics_relating_to_health_research_systematic_mapping_protocol/3483140?file=5503172)
+* [Slides from SfN talk on pre-registration](https://osf.io/5awp4/files/uxstq) from COS's David Mellor.
+* A consortium pre-registration for undergraduate projects:
+    * [Letter in *The Psychologist*](https://www.bps.org.uk/psychologist/instilling-scientific-rigour-grassroots)
+    * [Slides from Kate Button at Oxford Reproducibility Lectures](http://neuroanatody.com/2017/11/oxford-reproducibility-lectures-kate-button/)
+
+*Notes to support lighting talk as part of Open Science seminar in the Department of Psychology, University of Sheffield on 14/11/17.*
+
+### See also
+
+The Open Science Framework

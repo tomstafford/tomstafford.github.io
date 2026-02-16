@@ -174,11 +174,17 @@ Led development and adoption of the [University of Sheffield statement on Open R
 
 2018: [@ChoiceEngine - an interactive essay about the psychology of free will](https://github.com/tomstafford/choice-engine-text)
 
-# Earlier
+# 2017
+
+2017-11-09: Open science essentials in two minutes [pre-registration](done/2017-11-09prereg.html)
+
 
 2017 to 2021: member, University of Sheffield Open Access Advisory Group, representing Faculty of Science, providing strategic overview of scholarly communication
 
 2017 Organised [Mind Matters](https://tomstafford.sites.sheffield.ac.uk/sub-sites/mind-matters) 'a series of events based on various psychological research to bring knowledge to the general public and showcase Sheffield as a hub for psychology!'
+
+
+# Earlier
 
 2015 Data Scientist in Residence at [folksy.com](folksy.com). See [Folksy data analysis: buyer decision time](http://blog.folksy.com/2015/03/09/folksy-data-analysis-buyer-decision-time)
 
