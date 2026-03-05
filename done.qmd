@@ -7,7 +7,7 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2026
 
-2026-02-02 to 2028-01-18 Visiting Professor, Department of Computer Science and Technology, University of Cambridge
+2026-02-02 to 2028-01-18 **Visiting Professor, Department of Computer Science and Technology, University of Cambridge**
 
 2026-02-19: Letter published in Nature: [The funding system needs fixing — but it’s not a ‘waste of time and money’](https://doi.org/10.1038/d41586-026-00498-9)
   - see also [The point of no return?](https://researchonresearchinstitute.substack.com/p/the-point-of-no-return)
@@ -24,7 +24,7 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 September 2025: [Our working paper on Distributed Peer Review published](https://doi.org/10.6084/m9.figshare.29994841). Media: [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/18/distributed-peer-review-how-the-wisdom-of-the-crowd-can-allocate-grant-funding/), [Science|Business](https://sciencebusiness.net/news/r-d-funding/assessment/distributed-peer-review-cuts-funding-decision-time-trials-show-there-are-risks), [Research Professional News](https://www.researchprofessionalnews.com/rr-news-europe-universities-2025-8-radical-method-cuts-time-on-peer-review-by-60-trial-finds/), [LaborJournal](https://www.laborjournal.de/editorials/3323.php), [Table](https://table.media/research/analyse/distributed-peer-review-welche-probleme-das-verfahren-loest) and [my newsletter](https://tomstafford.substack.com/p/distributed-peer-review)
 
-2020 - 2025 I was [Research Practice Lead](done/2025rpl.html) for the University of Sheffield
+2020 - 2025 I was **[Research Practice Lead](done/2025rpl.html)** for the University of Sheffield
 
 2025-07-31 Published (late!) the [showcase for this year's class of PSY6422 Data Analysis and Visualisation](https://tomstafford.github.io/psy6422/class-of-2025.html) (check out previous year's showcases on [the course pages](https://tomstafford.github.io/psy6422))
 
@@ -100,7 +100,7 @@ December 2023 : joined the PsyArXiv Scientific Advisory Board and approved as ch
 
 2023-11-10; Worked with Lingyu-Meng on a novel visualisation of how group discussion shifts people's opinions : <a href="Dynamics of group discussion in agreement-error space">https://lingyu-meng.github.io/convergence-valence_space/</a>
 
-2023-11-07-: elected Chair of UKRN Institutional Leads group
+2023-11-07-: elected **Chair of UKRN Institutional Leads group**
 
 Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www.ukrn.org/open-research-programme/), [workstream 1: training](https://www.ukrn.org/ws1-training/)
 
@@ -139,8 +139,6 @@ Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www
 2023-01-09 Graduation for Psychological Research Method with Data Science MSc [class of 2021](https://mastodon.online/@tomstafford/109659193946308768)
 
 2023-01-06 Updated: Experiment Design Checklist <https://tomstafford.github.io/psy-checklist/>
-
-2023-01-05 [Christmas message 2022](https://tomstafford.sites.sheffield.ac.uk/news/christmas-message-2022)
 
 2023-01-01 [Archive of tweets 2008-2022](https://idiolect.org.uk/tweets/)
 
@@ -305,28 +303,27 @@ Led development and adoption of the [University of Sheffield statement on Open R
 
 ## 2012
 
+2012-12-21 News: [Three PhD studentships in decision making](done/2012-12-21_news_three-phd-studentships-in-decision-making.qmd)
+
+2012-12-03 News: [New paper: Memory enhances the mere exposure effect](done/2012-12-03_news_new-paper-memory-enhances-the-mere-exposure-effect.qmd)
+
+2012-11-27 News: [Frontiers special issue on intrinsic motivation and open-ended development](done/2012-11-27_news_frontiers-special-issue-on-intrinsic-motivation-and-open-ended-development.qmd)
+
+2012-10-30 News: [Brain network: Social media and the cognitive scientist](done/2012-10-30_news_brain-network-social-media-and-the-cognitive-scientist.qmd)
+
+2012-10-24 News: [Project LongArm: Drawing Machines](done/2012-10-24_news_project-longarm-drawing-machines.qmd)
+
+2012-09 I wrote some of the code in LongArm, [a robot which draws labrynthine patterns](https://www.youtube.com/watch?v=lSuvSsDrEAw), by Matthias Jones
+
+2012-09-06 [Wall Street Journal cover](done/2012-09-06_news_wall-street-journal-cover.qmd). The Cognitive Science Safari] was a street-tour of classic social psychology experiments, in Berlin as part of the BMW Guggenheim Lab. I was on the cover of the Wall Street Journal.
+
+<img src="images/wsj.jpg" height = 400>
+
+https://tomstafford.github.io/images/
 2012-06-04 News: [New paper: A novel task for the investigation of action acquisition](done/2012-06-04_news_new-paper-a-novel-task-for-the-investigation-of-action-acquisition.qmd)
 
 2012-06-06 News: [Fundamentals of learning: the exploration-exploitation trade-off](done/2012-06-06_news_fundamentals-of-learning-the-exploration-exploitation-trade-off.qmd)
 
-2012-09-06 News: [Wall Street Journal cover](done/2012-09-06_news_wall-street-journal-cover.qmd)
-
-2012-10-24 News: [Project LongArm: Drawing Machines](done/2012-10-24_news_project-longarm-drawing-machines.qmd)
-
-2012-10-30 News: [Brain network: Social media and the cognitive scientist](done/2012-10-30_news_brain-network-social-media-and-the-cognitive-scientist.qmd)
-
-2012-11-27 News: [Frontiers special issue on intrinsic motivation and open-ended development](done/2012-11-27_news_frontiers-special-issue-on-intrinsic-motivation-and-open-ended-development.qmd)
-
-2012-12-03 News: [New paper: Memory enhances the mere exposure effect](done/2012-12-03_news_new-paper-memory-enhances-the-mere-exposure-effect.qmd)
-
-2012-12-21 News: [Three PhD studentships in decision making](done/2012-12-21_news_three-phd-studentships-in-decision-making.qmd)
-
-2012-09 I wrote some of the code in LongArm, [a robot which draws labrynthine patterns](https://www.youtube.com/watch?v=lSuvSsDrEAw), by Matthias Jones
-
-2012 September: [The Cognitive Science Safari](done/2012-09-06.html) was a street-tour of classic social psychology experiments, in Berlin as part of the BMW Guggenheim Lab. I was on the cover of the Wall Street Journal.
-
-2012-06-06: [Fundamentals of learning: the exploration-exploitation trade-off](done/2012-06-06.html)
-
-2012-06-04: [New paper: A novel task for the investigation of action acquisition](done/2012-06-04.html)
+## 2011
 
 2011: [The Tea Taste Test](https://sites.google.com/d/1nQb4g6jqk7M0gwaD4Bvw7QKtBg0nkQRV/p/1O7uZnZPiKBL7C6JiR0DLSgGCqVw86uYX/edit) -- explaining why statistics are important to psychology, using a controversy of how to make a cup of tea.
