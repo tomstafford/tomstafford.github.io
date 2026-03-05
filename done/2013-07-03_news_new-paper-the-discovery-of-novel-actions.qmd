@@ -1,0 +1,31 @@
+---
+title: "Tom Stafford - New paper: The discovery of novel actions"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/new-paper-the-discovery-of-novel-actions"
+date: "2013-07-03"
+---
+
+# New paper: The discovery of novel actions is affected by very brief reinforcement delays and reinforcement modality 
+
+[Back to News](/news)
+
+3 July 2013
+
+In this paper, [in press at the](http://www.tandfonline.com/doi/full/10.1080/00222895.2013.806108) [*Journal of Motor Behaviour*](http://www.tandfonline.com/doi/full/10.1080/00222895.2013.806108), we build on our previous work which developed [a novel task for investigating how we learn actions](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0037749). Our interest is in how the motor system connects what we've been doing with what happens. When something you do causes a change in the world you want to identify what exactly it was that you did that had the effect.
+
+Our hypothesis is that the machinery of the subcortical [basal ganglia](http://www.scholarpedia.org/article/Basal_ganglia) does this job for us - in the domain of motor learning. One key feature of the basal ganglia architecture is the speed with which dopamine signalling responds to external events.
+
+[Professors Redgrave and Gurney have argued](http://www.nature.com/nrn/journal/v7/n12/full/nrn2022.html) that this rapidity is because even millisecond delays in event signalling lead to a disproportionate increase in the difficulty of connecting the correct part of what you've done with the event. In other words, with delay you easily lose track of what it was that you did that caused a surprising outcome.
+
+This is the context for the experiments reported in the new paper. These experiments show that our task has a very high sensitivity to delay - of the order of 100ms. This fits with the Redgrave-Gurney theory of dopamine signalling, and is considerably briefer than previous work looking at the effects of delay on motor learning. This is because, we argue, previous work uses response frequency (of an already learnt action) as the dependent variable, whereas our task is better designed to look at the emergence of new actions as they are in the process of being learn.
+
+Abstract:
+
+The authors investigated the ability of human participants to discover novel actions under conditions of delayed reinforcement. Participants used a joystick to search for a target indicated by visual or auditory reinforcement.
+
+Reinforcement delays of 75-150ms were found to significantly impair action acquisition. They also found an effect of modality, with acquisition superior with auditory feedback.
+
+The duration at which delay was found to impede action discovery is, to the authors' knowledge, shorter than that previously reported from work with operant and causal learning paradigms.
+
+The sensitivity to delay reported, and the difference between modalities, is consistent with accounts of action discovery that emphasise the importance of a time stamp in the motor record for solving the credit assignment problem.
+
+Citation: Walton, T., Thirkettle, M., Redgrave, P., Gurney, K. N., and Stafford, T. (2013). [The discovery of novel actions is affected by very brief reinforcement delays and reinforcement modality](http://www.tandfonline.com/doi/full/10.1080/00222895.2013.806108). *Journal of Motor Behavior*, 45(4), 351-360.

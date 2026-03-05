@@ -1,0 +1,37 @@
+---
+title: "Tom Stafford - Crowdsourcing analysis, an alternative approach to scientific research"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/crowdsourcing-analysis-an-alternative-approach-to-scientific-research"
+date: "2015-12-02"
+---
+
+# Crowdsourcing analysis, an alternative approach to scientific research 
+
+[Back to News](/news)
+
+2 December 2015
+
+## Many hands make tight work 
+
+Guest lecture by Raphael Silberzahn, IESE Business School, University of Navarra
+
+11.00am to 12.00pm, 9 December 2015
+
+Lecture Theatre 6, The Diamond, 32 Leavygreave Road, Sheffield S3 7RD
+
+Is soccer players' skin colour associated with how often they are shown a red card?
+
+The answer depends on how the data is analysed. With access to a dataset capturing the player-referee interactions of premiership players from the 2012-13 season in the English, German, French and Spanish leagues we organised a crowdsourced research project involving 29 different research teams and 61 individual researchers.
+
+Teams initially exchanged analytical approaches - but not results - and incorporated feedback from other teams into their analyses. Despite this, the teams came to a broad range of conclusions. The overall group consensus (that a correlation exists) was much more tentative than would be expected from a single-team analysis.
+
+Raphael Silberzahn will provide insights from his perspective as one of the project coordinators and Tom Stafford will speak about his experience as a participant in this project. We will discuss how also smaller research projects can benefit from bringing together teams of skilled researchers to work simultaneously on the same data and thereby balance discussions and provide scientific findings with greater validity.
+
+Links to coverage of this research in:
+
+-   *Nature*: [Crowdsourced research: Many hands make tight work](http://www.nature.com/news/crowdsourced-research-many-hands-make-tight-work-1.18508?WT.mc_id=TWT_NatureNews)
+
+-   *FiveThirtyEight*: [Science isn't broken: It's just a hell of a lot harder than we give it credit for](http://fivethirtyeight.com/features/science-isnt-broken/)
+
+Our group's analysis was supported by some great data exploration and visualisation work led by [Mat Evans](http://mathewzilla.github.io/).
+
+[See an interactive notebook of this work](http://mybinder.org/repo/mathewzilla/redcard)

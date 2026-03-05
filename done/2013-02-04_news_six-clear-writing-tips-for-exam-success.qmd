@@ -1,0 +1,109 @@
+---
+title: "Tom Stafford - Six clear writing tips for exam success"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/six-clear-writing-tips-for-exam-success"
+date: "2013-02-04"
+---
+
+# Six clear writing tips for exam success 
+
+[Back to News](/news)
+
+4 February 2013
+
+I just sent something like this to the people who took my module, PSY241 Cognitive Psychology, last semester. In case you wonder, this is the [Tim Minchin video](http://www.youtube.com/watch?v=oOSHRiaU7NA) I mention.
+
+Dear PSY241 students from last semester,
+
+Having just marked your exam scripts, I thought that many of you could improve your grades with some simple advice about the use of written English. Remember, in university everything you write will be read by someone who is trying their hardest to understand exactly what you mean, but who also cares deeply about the way ideas are expressed in writing.
+
+When you leave university what you write may or may not be read by people who care so deeply about the exact use of words, but it is also likely that they won't be trying so hard to understand you. So for university work, and after, it is very important that you say what you mean in the clearest possible way.
+
+Below are examples of improvements you should check you make to what you write, from the exams I've just marked.
+
+## 1. Be specific 
+
+Bad:
+
+-   "a study shows"
+
+-   "the timing must be right"
+
+-   "Pavlov's work is relevant"
+
+Whose study shows? How must the timing be right? How is Pavlov's work relevant? We want to give you marks for showing off that you understand exactly what is known and how. If you can't remember it is okay to write 'one study shows', but it is much more impressive if you can say which study.
+
+Improve by saying, for example:
+
+-   "Shanks' study shows"
+
+-   "The timing must be as close to zero delay as possible, but no less"
+
+-   "Pavlov's theory is relevant because it shows how cause and effect relations can be learned"
+
+## 2. Know the difference between explain, cause, and illustrate 
+
+These are important words with specific meanings. Misusing them makes a marker think you don't understand what you're saying. In my lecture on causation I showed a Tim Minchin video - this video doesn't explain the perception of causation, it illustrates some important principles about the perception of causation.
+
+Improve by getting clear on the definitions of these words, and avoiding saying things like "the theory causes". Theories never cause, they explain things.
+
+## 3. Avoid sweeping statements 
+
+Most things in psychology are not 100%, so don't use words like 'never' or 'impossible' unless you are sure you mean them.
+
+Bad:
+
+-   "It is impossible to infer causation if the delay between cause and effect is more than two seconds"
+
+-   "People choose their response based on the framing of the question"
+
+Improved:
+
+-   "Delays between cause and effect of more than two seconds reduce the ease with which causation is inferred"
+
+-   "The framing of the question has a powerful influence of people's responses"
+
+## 4. Understand what is important for psychological science 
+
+Answer: making claims about ideas using evidence.
+
+In my lecture on causation I started by quoting David Hume and showed a Tim Minchin video. Hume is a great philosopher and Minchin is a very funny guy, but both were in the lecture merely to illustrate:
+
+-   An important idea, specifically that causation is a thing you have to infer, it isn't something you can directly know.
+
+-   Important findings from Michotte's paradigm, specifically that control of timing and proportionality can create a powerful perception of causation.
+
+Bad: discussing Tim Minchin's research findings, quoting David Hume at length without demonstrating that you understand the meaning of what he said.
+
+Improve by: discussing experiments, theories and, specifically, how experiments inform theories.
+
+## 5. Get to the point 
+
+You don't have long in an exam, you can get marks quickly by showing off what you know in as few words as possible. Don't be tempted to describe studies, use them as part of your argument.
+
+Bad: empty words at the beginning of essays, for example "causality is seen as a difficult area to research", "heuristics and biases are one of the most important topics in psychology". Not only do these words not add much, they are likely to be wrong. Are you really so confident about what most psychologists think, or what the most important topics in psychology are?
+
+Improve by: saying why the topic is important, or offering a definition. For example, "For an animal to survive and thrive, it is important that it is able to work out why things happen". "Heuristics are cognitive strategies, 'rules of thumb' which provide efficient solutions to common challenges".
+
+## 6. Always argue first, avoid too much description 
+
+Experimental studies are only interesting because of what they show. The details of how they are conducted are important to know, so you understand their strengths and limitations, but you don't need to include all details about a study to make a point.
+
+The reader of anything you are writing wants to know why they are reading what you write. Make this easy, by presenting an argument with a purpose, rather than a long description.
+
+Bad: a long description of Michotte's 'launching paradigm' including necessary and unnecessary details together. For example, "Michotte was a Belgian psychologist who described his famous 'launching paradigm' in the book *The perception of causality* (1945).
+
+The launching paradigm involved showing participants animations in which two balls, A and B, moved across the scene in different ways. Alterations of the motions allowed Michotte to deduce important principles used by the perceptual system to infer physical causality".
+
+Improve by putting details of the experiment into an argument. For example, "Michotte's launching paradigm demonstrates the key principles used by the perceptual system to infer physical causality. The most important is 'priority', meaning that for an event to seem caused it must occur after a 'causing' event.
+
+The vital contrast in Michotte paradigm is between a scenario (1) in which a ball, A, travels left to right, touching a second ball, B, which then travels on left to right - priority is observed and causation perceived - and a scenario (2) in which the same motions occur in the same locations but ball B moves before ball A - priority is violated, and causation is not perceived."
+
+I hope this feedback is helpful to you.
+
+As always, you are encouraged to discuss essay and writing technique with your tutors, or with the [English Language Writing Advisory Service](https://students.sheffield.ac.uk/eltc/was) (free to all students).
+
+Yours,
+
+Tom
+
+as PSY241 MO

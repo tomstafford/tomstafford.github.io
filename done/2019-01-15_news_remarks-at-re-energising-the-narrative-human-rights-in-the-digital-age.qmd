@@ -1,0 +1,83 @@
+---
+title: "Tom Stafford - Remarks at ‘Re-energising the narrative: Human rights in the digital age’"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/remarks-at-re-energising-the-narrative-human-rights-in-the-digital-age"
+date: "2019-01-15"
+---
+
+# Remarks at 'Re-energising the narrative: Human rights in the digital age' 
+
+[Back to News](/news)
+
+15 January 2019
+
+Notes on my talk at Wilton Park's '[Re-energising the narrative: human rights in the digital age (WP1655)](https://www.wiltonpark.org.uk/event/wp1655/)'. Wilton Park is an agency of the Foreign and Commonwealth Office which organises discussion events focussed on international security, prosperity and justice.
+
+From the event outline:
+
+"The event will consider the specific threats presented by abuse via social media platforms, the 'echo chamber' effect on critical thinking and policy making, and the deliberate exploitation of divisions in societies, eg computational propaganda/'fake news', amplification by algorithms and systematised trolling."
+
+What does a psychologist have to offer here? I think the first thing is an apology, on behalf of my profession.
+
+In our individualistic, narcissistic age, psychology is a growth area. Psychologists have been making hay from promoting the idea that people are irrational, that our thinking is riddled with systematic errors and delusions.
+
+The title of popular science books are an excellent lens on this. Go to the psychology section and you'll find books with titles like [*You are not so smart*](https://youarenotsosmart.com/the-book/) by David McRaney, like [*Predictably irrational*](https://en.wikipedia.org/wiki/Predictably_Irrational) by Dan Ariely. Both good books, but you see the theme.
+
+Perhaps the most celebrated psychologist of recent years, Daniel Kahneman, whose work is foundational to behavioural economics, which led directly to the idea of [nudge](https://en.wikipedia.org/wiki/Nudge_theory), wrote [*Thinking fast and slow*](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), a book which describes our minds as divided, and often dominated by a fast, stupid, system which, in the words of one commentator portrays humans as basically "spending all their time failing".
+
+Who benefits from this? Well, obviously we, the psychologists do. If human reasoning was straightforward then we'd be out of work. But the emphasis psychologists have put on studies of reasoning is profoundly limited.
+
+So as well as an apology, I want to offer you some advice about the limitations of this work. To do this, let's pick an example from the experimental study of communication, a [study from Stanford by Paul Thibodeau and Lera Bordidsky](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016782).
+
+These two ran a study on perception of crime and crime control policy, where they asked participants to read a newspaper story about crime in a US small town.
+
+Half the participants saw a version of the story where crime was described as a beast stalking the citizens, half saw a version where crime was described as a virus infecting the city.
+
+Two versions, two metaphors for crime. All participants were then asked which policies they would support to deal with crime and their responses were recorded.
+
+This is how experimental psychology works - measurement (of people's policy support) and comparison (which metaphor people read about in the newspaper). Now the result isn't so important but I'm sure you'll want to know, and probably won't be surprised by, the finding that people exposed to the beast metaphor offered more support for policies aimed at capture, enforcement and punishment: more police on the streets, longer prison sentences.
+
+Those exposed to the virus metaphor offered more support for policies aimed a diagnosis, treatment and inoculation - more education, fix the economy, resources to get kids out of gangs and so on.
+
+But this study contains its own biases, and they are illustrative of the limitations of many such experiments.
+
+First, because it works by comparing two conditions, it highlights the effect of the manipulation - the metaphor used, in this case - but at the cost of downplaying every other factor which influences people's judgements.
+
+The experiment allows you to see the difference the metaphor makes to people's judgements, but renders the other reasons for invisible. This is common. Psychologists love experiments in which superficial changes creates differences between groups, but often we don't put the size of those differences into context.
+
+In this way, experiments on biases in perception and decision making - which psychologists love to run - tell a very dangerous half truth about human reasoning. They tell the story of how our judgements can be swayed by superficial or distracting factors - all true - but neglect the story of how we come to arrive at our beliefs in the first place, at the profound role reasoning and reflection play.
+
+The second bias in many experiments on communication is that they almost invariably look at immediate effects. We ask people to take part in our experiment, and this typically involves the manipulation and the measure at the same time point. Almost nobody gets participants back to see how their beliefs have changed a week later, or a month, or a year. That's too difficult.
+
+So this creates another blind spot in our experimentally informed view of the world - we see things which have an immediate effect, which push our views and beliefs around: emotion, images, etc. But we're blind to stuff which works its effects longer term. This matters, I argue, because one thing which has profound long-term effects are good reasons and moral values.
+
+The current fashion for a psychology preoccupied with our biases and limitations underestimates the common inheritance we all have as reasoning and moral beings. Worse, by promoting a view of human nature as irrational, it panders to the view that the only way to persuade people is through cheap tricks which trigger biases. By acting as if this is true we risk making it so.
+
+If we believe that there's no point arguing with some people - that they are irredeemably biased and irrational, beyond persuasion - we may abandon any attempt at persuasion by reasoned argument.
+
+I've an optimistic faith in human rationality. We're not perfect, but we can connect with people who disagree.
+
+So the challenge is to communicate effectively, without giving into the very partial view of human nature that psychology can seem to promote.
+
+There is better and worse communication, yes; there is messaging which evokes our biases and so is more likely to be rejected, and messaging which works with the grain of the way we reason.
+
+George Lakoff is a psychologist who is well known for his [work on metaphors and frames](https://www.goodreads.com/book/show/13455.Don_t_Think_of_an_Elephant_Know_Your_Values_and_Frame_the_Debate). Frames are the background ideas - metaphors - which determine the context for people's reasoning. His claim is that frames can be used to control the contours of a political debate, most notably in determining what people try and refute, and that each refutation reinforces the frame of the idea.
+
+So, for example, there is tax relief, the term for tax cuts promoted by US Republicans, which smuggles in the metaphor of tax as burden. So, Lakoff says, whether you are arguing for or against any particular case of tax relief you have conceded the general idea that tax is a burden. We all know that, ultimately, burdens should be lifted.
+
+[A criticism of Lakoff](http://idiolect.org.uk/notes/?p=604) is it opens the door to a sort of arms race where everyone tries to weaponise their language for maximum advantage. And maybe that would be true if we thought of framing as a cheap trick, a surface property which we could add to any messaging after we had already determined what we wanted to say. I'd argue a better understanding of Lakoff's framing is that it gives a way to connect our message to our common values, to share those values in way that connects with understandings that our audience already have.
+
+An important part of [Lakoff's book about political framing](https://www.goodreads.com/book/show/13455.Don_t_Think_of_an_Elephant_Know_Your_Values_and_Frame_the_Debate) is the recognition that American conservatives have long recognised the importance of ideas, and funded institutions - from think tanks to talk radio - which seed the frames in minds of voters which political messages later target and exploit. Framing, in this view, is no surface property, but a way of quickly connecting to a deep history of ideas, values and community building.
+
+To finish, I'd like to end on a positive example of framing from the city where I live and work. [City of Sanctuary](https://cityofsanctuary.org/about/) is a network of local organisations, which started in Sheffield. It has the aim of creating a culture of hospitality for those fleeing violence and persecution.
+
+Notice the framing, and how it differs from the dominant metaphors surrounding asylum and immigration in the UK. That debate is so toxic that the phrase asylum seeker seems to come with a silent 'bogus' at the front, and immigrant with a silent 'illegal'.
+
+You could try and counter this with myth busting - show the statistics that most immigration is legal, explain the legitimate reasons for seeking asylum, but you'd be playing into the trap Lakoff outlines of reinforcing the frame of migration as illegitimate and suspect in general, even as you try and rebut it in the particulars.
+
+City of Sanctuary sidesteps that and harks to a fundamental idea that we all recognise - of the sacredness of sanctuary, of protection for those who need it. It asks us to think about the duties of hosts, of those fortunate to have shelter, to share it with those in need. It's a brilliant bit of framing, and not superficial trick. It allows, in a few sentences, the fundamental values of an organisation to be summed up and communicated.
+
+In conclusion, remember that the evidence on the psychology of communication often disguises as much as it reveals, that it has a bias toward showing the immediate influence of surface changes, rather than the enduring power of reasons, arguments and values. There are ways to connect our deep principles with persuasive messages, and I'm looking forward to discussing the details of that with you over the next few days.
+
+This is more or less what I said at Wilton Park, 14 January 2019. For more on the counter-literature in psychology which shows the power of reasoned argument, see my book [*For argument's sake: Evidence that reason can change minds*](https://www.amazon.co.uk/arguments-sake-evidence-reason-change-ebook/dp/B010O1Z018).
+
+For a profound recent account of the psychology of human reasoning see [*The enigma of reason: A new theory of human understanding*](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason), by Hugo Mercier and Dan Sperber. [Read my review of this book](https://www.timeshighereducation.com/books/review-the-enigma-of-reason-hugo-mercier-and-dan-sperber-allen-lane).

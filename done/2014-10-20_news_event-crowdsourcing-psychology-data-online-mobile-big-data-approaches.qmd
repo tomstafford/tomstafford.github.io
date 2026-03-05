@@ -1,0 +1,37 @@
+---
+title: "Tom Stafford - Event: Crowdsourcing psychology data - online, mobile, big data approaches"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/event-crowdsourcing-psychology-data-online-mobile-big-data-approaches"
+date: "2014-10-20"
+---
+
+# Event: Crowdsourcing psychology data - online, mobile and big data approaches 
+
+[Back to News](/news)
+
+20 October 2014
+
+Smart phones, social media and networked sensors in everything from trains to toasters - The spread of digital technology creates new opportunities for cognitive scientists. Collecting and analysing the resulting 'big data' also poses its own special challenges. This afternoon of talks and discussion is suitable for anyone curious about novel data collection and analysis strategies and how they can be deployed in psychological and behavioural research.
+
+Time: 1pm to 5pm, 11 November 2014.
+
+Venue: Department of Psychology, University of Sheffield.
+
+We have four speakers followed by a panel discussion.
+
+## Martin Thirkettle Taking cognitive psychology to the small screen: Making a research focussed mobile app 
+
+Developing a mobile app involves balancing a number of parties - researchers, funders, ethics committees, app developers, not to mention the end users. As the Open University's Brainwave app, our first research-focussed cognitive psychology app, nears launch, I will discuss some of the challenges we've faced during the development process.
+
+## Caspar Addyman Measuring drug use with smartphones: Some misadventures 
+
+Everyday drug use and its effects are not easily captured by lab or survey-based research. I developed the Boozerlyzer, an app that lets people log their alcohol intake, their mood and play simple games that measured their cognitive and emotional responses. Although this had its flaws it led to a NHS funded collaboration to develop a simple smartphone tracker for Parkinson's patients. Which was also problematic.
+
+## Robb Rutledge Crowdsourcing the cognitive science of decision making and wellbeing 
+
+Some cognitive science questions can be particularly difficult to address in the lab. I will discuss results from The Great Brain Experiment, an app that allowed us to develop computational models for how decision making changes across the lifespan, and also how rewards and expectations relate to subjective wellbeing.
+
+## Andy Woods \[C\]lick your screen: Probing the senses online 
+
+We are at the cusp of some far-reaching technological advances that will be of tremendous benefit to research. Within a few short years we will be able to test thousands of people from any demographic with 'connected' technology every bit as good as we use in our labs today - indeed perhaps more so. Here I discuss on-web versus in-lab, predicted technological advances and issues with online research.
+
+![Graph: Average gap between first and last plays/hours](images/20cce8a7.png)

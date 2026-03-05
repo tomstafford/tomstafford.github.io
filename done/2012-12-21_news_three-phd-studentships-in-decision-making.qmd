@@ -1,0 +1,107 @@
+---
+title: "Tom Stafford - Three PhD studentships in decision making"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/three-phd-studentships-in-decision-making"
+date: "2012-12-21"
+---
+
+# Three PhD studentships in decision making 
+
+[Back to News](/news)
+
+21 December 2012
+
+The cross-disciplinary neuroeconomics network at the University of Sheffield is seeking applications for PhD studentships as part of the project:
+
+**"Decision making under uncertainty: Brains, swarms and markets"**
+
+-   Tutition fees at UK/EU rate, annual maintenance at the standard RCUK rate (£13,726 for 2013-14) and a contribution towards research and travel expenses of £1,000 p.a.
+
+-   World-leading research environment.
+
+## Project overview 
+
+How do we make decisions in uncertain situations? And what is the right thing to learn from the outcome of such decisions? Most of our decisions involve insufficient knowledge and a certain degree of risk. To study such decisions comprehensively is the goal of 'neuroeconomics', which brings to bear the insights of computational theory, neuroscientific evidence and behavioural experiment.
+
+We have assembled a local team of internationally renowned experts in a diversity of disciplines: computer science, automatic control and systems engineering, psychology and management. Together we will combine theoretical insights with tests in practical domains to advance the field.
+
+Strategically, the study of brain systems in decision making has potential benefits in engineering and the digital economy in particular. The network therefore presents a unique opportunity for multi-disciplinary postgraduate training in a topic of increasing interest with multiple applications inside and outside academia.
+
+The common thread to all three projects is understanding decision making using computational models of information processing. Our methodology will involve the validation of three specific hypothesis, by:
+
+1.  Translating psychophysical experiments to computational models.
+
+2.  Using computational models to interpret financial data.
+
+3.  Further testing decision making hypotheses in embodied (robotic) systems.
+
+This work extends to a number of different areas, ie psychophysics experiments, high level modelling, finance and robotics, offering a unique possibility for synchronised interaction of all these leading experts in a topic whose timeliness requires fast results.
+
+This is a chance to receive postgraduate training in an exciting and important field. You will interact with academics from multiple fields and be required to integrate insights from different literatures, as well as develop the research skills appropriate for your project.
+
+Applicants should have, or expect to achieve, a First or upper second class UK honours degree or equivalent qualifications gained outside the UK in an appropriate area of study.
+
+Awards are open to UK, EU and international applicants. International applicants will be required to prove that they have sufficient funds to cover the difference between the UK/EU and Overseas tuition fees. For exceptional international candidates there may be opportunities for additional fee waivers (these will be subject to the policies of the individual departments involved in each project).
+
+## Project one: Experimental validation of a new computational theory of adaptive decision making. 
+
+Principle Supervisor: [Tom Stafford](https://www.sheffield.ac.uk/psychology/people/academic/tom-stafford), Department of Psychology
+
+Co-supervisor: [James Marshall](https://www.sheffield.ac.uk/dcs/people/academic/james-marshall), Department of Computer Science
+
+All behaviour involves selecting one option over others, or over the option of doing nothing. It is therefore of fundamental interest how this selection process operates in our own brains.
+
+Tightly controlled experimental investigations can look at measures such as how fast decisions are made, or how often the decision is incorrect, to constrain theories of the underlying processes which generate these decisions.
+
+Additional evidence is available from neuroscientists who can investigate the brain structures and connections that might support decision making, and make recordings of brain cell activity during decision making.
+
+A powerful alternative perspective on decision making is from computational theory, which can refine our understanding of how decisions should be made, separately from how decisions actually are made. This proposed studentship focuses on using behavioural experiments to test a new theory of how decision making should be made.
+
+Recent work on the computational theory of decisions has focussed on an algorithm called the Sequential Probability Ration Test (SPRT). This algorithm is provably optimal, in the sense of allowing the ideal combination of incoming evidence concerning a decision to make the fastest and least likely to be wrong decision.
+
+There are circumstances, however, where this 'information optimal' decision making may not be the best strategy. An important example is when the available options are closely matched and both acceptable. In such circumstances all time spent trying to resolve the difference between the options is time lost to enjoying one of them.
+
+Our computational theory suggests that an evolutionary optimal decision maker, such as we suppose the human brain to be, should be able to switch between modes of decision making depending on circumstance. This studentship will develop experiments that generate and define these circumstances.
+
+By doing this we will advance the general theory of decision making, as well as reveal new facts about the operation of decision making in the human brain. The work will also make an important scientific contribution with potential high impact, because it will support a major reconceptualisation of a dominant theory of human decision making.
+
+## Project two: 'Herding cats': Visually guided decision making with target swarms 
+
+Principle Supervisor: Kevin Gurney, Department of Psychology
+
+Co-supervisor: [Roderich Gross](https://www.sheffield.ac.uk/acse/department/people/academic/roderich-gross), Automatic and Control Systems Engineering
+
+How do we decide 'what to do next'? We are constantly bombarded by a plethora of sensory information and have to decide, moment-to-moment, how to act in order to achieve our goals.
+
+One key aspect of this process is that we must have access to the relevant sensory information; if we were approaching traffic lights and were completely colour blind it would be harder to make the right driving decision.
+
+Another key aspect of decision making is that we must be able to map sensory information onto the right actions. Thus, if we could see the traffic light colours perfectly well, but had not learned the code (ie red is stop) then we could not make correct decision at all.
+
+In this project we aim to investigate both aspects of decision making in a naturalistic setting based on shepherding-flock relationships using artificial (robotic) agents. Multiple moving agents form a 'crowd' or 'swarm' that must be 'shepherded' by a single agent that is trying to coax them to safety. The swarm will be in constant motion and provide a visual sensory 'flow field' to the shepherding agent.
+
+This is of particular interest because there are specific areas of the brain devoted to the analysis of such optic flow. We will investigate the perceptual 'bonus' for decision making supplied by having optic flow detection. We will also see if there is advantage in having special purpose optic flow detectors 'tuned' to the swarm's motion, rather than some set of standard, 'off the shelf' detectors.
+
+Our decision making mechanisms will mimic those in the brain which are based on a set of structures lying underneath the cortex called the basal ganglia. We will use our existing models of basal ganglia to see if the shepherding agent can learn to use the visual motion information to decide which action, out of a range of possible 'shepherding actions', it should deploy in each situation.
+
+This project will make specific contributions to application areas requiring monitoring and action with dynamic flows of people and animals, including: evacuation scenarios and large-scale public events, and large scale animal husbandry, This work will contribute to our understanding of decision making in the brain and the way we use our senses to help make decisions.
+
+## Project three: Reinforcement learning and the equity premium puzzle 
+
+Principle Supervisor: Jane Binner, Accounting and Financial Management
+
+Co-supervisor: [Eleni Vasilaki](https://www.sheffield.ac.uk/dcs/people/academic/eleni-vasilaki), Department of Computer Science
+
+Humans often make decisions based on their desire to maximise profit or reward. Such decisions take place within changing environments, where optimal choices in the past may differ from those in the present. For example, choosing a tracker-rate mortgage might have been at some time in the past a better option than a fixed-rate but today this may have changed.
+
+Moreover, these choices are typically made under uncertain situations and involve a degree of risk. Though the specifics of decision making mechanisms are still not fully understood, it is evident that fundamentally the human brain is able to identify information sequences that could also correlate with reward.
+
+Interestingly investors, and in particular low to intermediate income investors make decisions based on short horizons of information and in what is in essence a naïve 'reinforcement learning' approach, ie a profitable action in the past will lead again to profit. They expect that investments profitable in the near past are likely to be profitable in the future, attributing often their gain or loss to random factors, such as fluctuations.
+
+We propose to study and develop a data driven framework for understanding decision making types of investors, and the key ingredients of making successful investment decisions. We hypothesise that investor profiles have a component of naïve reinforcement learning principles and a component of more sophisticated reinforcement learning principles.
+
+We ask the question whether the choices of successful investors have indeed a higher component of sophisticated principles versus the unsuccessful investors, and whether different mixtures of the two models can account for different investor strategies.
+
+We anticipate that the system of investors may not be well described by memory-less components, as typically assumed in many modelling approaches. In our approach, we will also employ novel reinforcement learning techniques that are not restricted by this limitation.
+
+We anticipate that our results would be of immediate interest to finance institutions that may want to use our models to extract information about their clients' profiles in order to provide customised financial training or make decisions about investor loans.
+
+Further details are available upon request.

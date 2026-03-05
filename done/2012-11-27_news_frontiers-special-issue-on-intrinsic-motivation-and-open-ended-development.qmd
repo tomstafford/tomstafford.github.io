@@ -1,0 +1,21 @@
+---
+title: "Tom Stafford - Frontiers special issue on intrinsic motivation and open-ended development"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/frontiers-special-issue-on-intrinsic-motivation-and-open-ended-development"
+date: "2012-11-27"
+---
+
+# Frontiers special issue on intrinsic motivation and open-ended development 
+
+[Back to News](/news)
+
+27 November 2012
+
+Our special issue in *Frontiers in Cognitive Science* is now accepting submissions: [Intrinsic motivations and open-ended development in animals, humans, and robots](http://www.frontiersin.org/Cognitive_Science/researchtopics/Intrinsic_motivations_and_open/1326).
+
+This call stems from the EU FP7 project [IM-CLEVER](http://www.im-clever.eu/) programme of work that involved computer scientists, neuroscientists, psychologists and roboticist in developing robot controllers that can guide a robot to learn by exploring the world.
+
+The special issue will gather together work related to this task. 'Intrinsic motivations' are those that guide exploration - things like curiosity, play or desire for mastery. The emphasis is on learning systems which are more than the simple stimulus-response or response-reward learning which has dominated learning theory for so long.
+
+'Open-ended development' means learning that doesn't have a goal or limit, but is instead designed to produce skills and abilities which can be build on to produce ever more complex skills and abilities. The call welcomes papers from experimental, theoretical and engineering perspectives.
+
+[Full text of the call](http://www.frontiersin.org/Cognitive_Science/researchtopics/Intrinsic_motivations_and_open/1326)

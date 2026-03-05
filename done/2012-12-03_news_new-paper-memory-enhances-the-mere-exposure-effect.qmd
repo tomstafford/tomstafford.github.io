@@ -1,0 +1,33 @@
+---
+title: "Tom Stafford - New paper: Memory enhances the mere exposure effect"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/new-paper-memory-enhances-the-mere-exposure-effect"
+date: "2012-12-03"
+---
+
+# New paper: Memory enhances the mere exposure effect 
+
+[Back to News](/news)
+
+3 December 2012
+
+[This research used a novel testing strategy](http://onlinelibrary.wiley.com/doi/10.1002/mar.20581/full) to overturn a long-standing claim in the literature. The mere exposure effect is the finding that simply experiencing something inclines you to like it. Obviously, back in the days of behaviourism this provided a marked contrast to reward-induced preferences.
+
+A [landmark paper](http://psycnet.apa.org/psycinfo/1981-07090-001) by Bob Zajonc showed that this effect could hold even if you weren't aware of the original exposure. Incidentally it was this paper, as far as I can tell, which reignited interest in subliminal perception after the topic had fallen into 'hidden persuader' ignominy.
+
+For a long time, based partly on the influence of this seminal paper, it has been reported that explicit memory for stimuli will reduce the mere exposure effect. The logic is that explicit memory will allow people to use a deliberate discounting strategy, something along the lines of "I know I've seen that before, so maybe I just feel positive about it because I've seen it before".
+
+This isn't implausible, but does conflict with a large marketing literature which suggests that sustained engagement with marketing materials is more likely to lead to preference (and you would expect such engagement with adverts to be accompanied by explicit memory).
+
+I put test stimuli in my PSY101 lectures, and then weeks later tested the students on their preferences for these stimuli and a matched group which they hadn't seen. This allowed me to collect high number of participants for an experiment which had a high ecological validity and many elements of experimental control.
+
+As predicted, people preferred stimuli they had seen before - whether or not they were able to identify them as having been seen before. The preference for previously exposed stimuli validates the classic nonconscious mere exposure effect. However, in contrast to previous reports, people were more likeyl to prefer recognised stimuli, showing that memory enhances the mere exposure effect.
+
+The high number (n\>200) allowed a more detailed analysis than a normal lab experiments would allow (n\~30) and this was particularly important for disentangling the contributions of both stimulus exposure and participant recognition to preference.
+
+An example of the stimuli used in the experiment is at the top of this post. We used logos made by a logo design company for products which were never launched. This ensure maximum realism with no possibility that participants had prior exposure to the stimuli. The experiment was overseen and guided by my collaborator and co-author Tony Grimes, from Manchester Business School.
+
+On a geeky note, I had to learn a bit of R to do the analysis, so thanks to my colleague [Danielle Matthews](http://www.shef.ac.uk/psychology/staff/academic/danielle-matthews) for holding my hand through that!
+
+Stafford, T., and Grimes, A. (2012). [Memory enhances the mere exposure effect](http://tomstafford.staff.shef.ac.uk/docs/stafford_and_grimes2012.pdf). *Psychology and Marketing*, 29, 12, 995-1003.
+
+![Logo example of stimuli](images/0a6fdfe1.png)

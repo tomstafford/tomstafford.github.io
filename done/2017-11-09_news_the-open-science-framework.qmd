@@ -1,0 +1,41 @@
+---
+title: "Tom Stafford - The Open Science Framework"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/the-open-science-framework"
+date: "2017-11-09"
+---
+
+# The Open Science Framework 
+
+[Back to News](/news)
+
+9 November 2017
+
+## Open science essentials in two minutes, part two 
+
+The Open Science Framework ([osf.io](https://osf.io/)) is a website designed for the complete life-cycle of your research project - designing projects; collaborating; collecting, storing and sharing data; sharing analysis scripts, stimuli, results and publishing results.
+
+[Read more about the rationale for the site](https://cos.io/our-products/open-science-framework/)
+
+Open science is fast becoming the new standard for science. As I see it, there are two major drivers of this:
+
+1.  Distributing your results via a slim journal article dates from the 17th century. Constraints on the timing, speed and volume of scholarly communication no longer apply. In short, now there is no reason not to share your full materials, data, and analysis scripts.
+
+2.  The [replicability crisis](https://www.nature.com/articles/s41562-016-0021) means that how people interpret research is changing. Obviously sharing your work doesn't automatically make it reliable, but since it is a costly signal, it is a good sign that you take the reliability of your work seriously.
+
+You could share aspects of your work in many ways, but the OSF has many benefits:
+
+-   The OSF is backed by serious money and institutional support, so the online side of your project will be live many years after you publish the link.
+
+-   It integrates with various other platforms (GitHub, Dropbox, the [PsyArXiv preprint server](https://osf.io/preprints/psyarxiv)).
+
+-   Totally free, run for scientists by scientists as a non-profit.
+
+All this, and the OSF also makes easy things like version control and [pre-registration](/news/pre-registration).
+
+Good science is open science. And the fringe benefit is that making materials open forces you to properly document everything, which makes you a better collaborator with your number one research partner - your future self.
+
+Notes to support lighting talk as part of Open Science seminar in the Department of Psychology, University of Sheffield on 14/11/17.
+
+### Other parts in the series 
+
+[Pre-registration](/news/pre-registration)

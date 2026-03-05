@@ -1,0 +1,71 @@
+---
+title: "Tom Stafford - 2017 review"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/2017-review"
+date: "2017-12-27"
+---
+
+# 2017 review 
+
+[Back to News](/news)
+
+27 December 2017
+
+Things that have consumed my attention in 2017.
+
+## Teaching and public engagement 
+
+At the beginning of the year I taught my graduate seminar class on cognitive neuroscience, and we reviewed Cordelia Fine's Delusions of Gender and the literature on sex differences in cognition. I blogged about some of the [topics covered](https://mindhacks.com/2017/02/06/gender-brain-blogging/) and gave talks about the topic at Leeds Beckett and the University of Sheffield. It's a great example of a situation that is common to so much of psychology: strong intuitions guide interpretation as much as reliable evidence.
+
+In the autumn I helped teach undergraduate cognitive psychology and took part in the review of our entire curriculum as the lead of the 'cognition stream'. It's interesting to ask exactly what a psychology student should be taught about cognitive psychology over three years.
+
+In January I have a lecture at the University of Greenwich on how cognitive science informs my teaching practice, which you can watch online: [Experiments in learning](https://vimeo.com/album/3694974/video/202237782).
+
+We organised a series of public lectures on psychology research, [Mind Matters](/sub-sites/mind-matters). These included Gustav Kuhn and Megan Freeth talking about the [science of magic](https://www.youtube.com/watch?v=8N0M2b7wwJ8), and Sophie Scott (who gave this year's Christmas Lectures at the Royal Institution) talking about the [science of laughter](https://www.youtube.com/watch?v=BeT4XitPUkI). Joy Durrant did all the hard work for these talks - thanks Joy!
+
+[More about Mind Matters](/sub-sites/mind-matters)
+
+## Research 
+
+### Using big data to test cognitive theories 
+
+Our paper '[Many analysts, one dataset: Making transparent how variations in analytical choices affect results](https://psyarxiv.com/qkwst/)' is now in press at (the new journal) [Advances in Methods and Practices in Psychological Science](https://www.psychologicalscience.org/publications/ampps). See previous coverage in Nature, '[Crowdsourced research: Many hands make tight work](https://www.nature.com/news/crowdsourced-research-many-hands-make-tight-work-1.18508)' and 538, '[Science isn't broken: It's just a hell of a lot harder than we give it credit for](https://fivethirtyeight.com/features/science-isnt-broken/)'. This paper is already more cited than many of mine which have been published for years.
+
+On the way to looking at chess players' learning curves I got distracted by sex differences: surely, I thought, chess would be a good domain to discover the controversial 'stereotype threat' effect? It turns out '[Female chess players outperform expectations when playing men](https://psyarxiv.com/bpy3t/)', in press at Psychological Science.
+
+Wayne Gray edited a special issue of Topics in Cognitive Science: [Game XP: Action games as experimental paradigms for cognitive science](http://onlinelibrary.wiley.com/doi/10.1111/tops.2017.9.issue-2/issuetoc), which features our paper [Testing sleep consolidation in skill learning: A field study using an online game](http://onlinelibrary.wiley.com/wol1/doi/10.1111/tops.12232/abstract).
+
+I presented this work at a related symposium at CogSci17 in London, along with [our work on learning in the game Destiny](http://eprints.whiterose.ac.uk/118051/1/CogSci17.pdf), at a Psychonomics Workshop in Madison, WI: [Beyond the lab: Using big data to discover principles of cognition](http://www.psychonomic.org/page/2017workshop) at a Pint of Science in Sheffield. [Watch the video](https://www.youtube.com/watch?v=4W_QVrwDvMY).
+
+[Our map of implicit racial bias in Europe](https://theconversation.com/this-map-shows-what-white-europeans-associate-with-race-and-it-makes-for-uncomfortable-reading-76661) sparked lots of discussion and the article was read nearly two million times at [The Conversation](https://theconversation.com/uk).
+
+### Trust and reason 
+
+I read Hugo Mercier and Dan Sperber's [The enigma of reason: A new theory of human understanding](https://www.penguin.co.uk/books/183625/the-enigma-of-reason/) and it had a huge effect on me, influencing a lot of the new work I've been planning this year.
+
+[My book review in the Times Higher](https://www.timeshighereducation.com/books/review-the-enigma-of-reason-hugo-mercier-and-dan-sperber-allen-lane)
+
+In April I went to a [British Academy roundtable meeting on 'Trust in experts'](http://www.crickcentre.org/blog/trust-in-experts/). Presumably I was invited because of this research: [Why we don't trust the experts](http://www.tomstafford.staff.shef.ac.uk/?p=447). Again, this has influenced lots of future plans, but nothing to show yet.
+
+We have AHRC funding for our project [Cyberselves: How immersive technologies will impact our future selves](/news/cyberselves-how-immersive-technologies-will-impact-our-future-selves). Come to the [workshop on the effects of teleoperation and telepresence](https://cyberselves.org/our-workshops/cyberselves-workshop-on-teleoperation-and-telepresence/) in Oxford in February.
+
+### Decision making 
+
+Our Leverhulme project on implicit [bias and blame](/news/new-project-bias-and-blame) wound up. Outputs in press or preparation:
+
+-   Our experimental paper on this: [The effects of moral interactions on implicit racial bias](https://osf.io/d69uv/).
+
+-   [A framework for addressing psychological biases in decision making (PDF, 407KB)](https://drive.google.com/file/d/1Pn_378s9O_LhsfWb8M8VsSXSM2S003Qp/view?usp=sharing) based on workshops I have been running with judges. [Resources on bias in decision making](/sub-sites/resources-to-accompanying-training-on-cognitive-bias).
+
+-   Holroyd, J., Scaife, R. and Stafford, T. (in press). [What is Implicit Bias?](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12437/full), Philosophy Compass.
+
+-   Holroyd, J., Scaife, R. and Stafford, T. (in press). [Responsibility for Implicit Bias](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12410/abstract), Philosophy Compass.
+
+My old PhD students Maria Panagiotidi, Angelo Pirrone and Cigar Kalfaoglu have also published papers, with me as co-author, making me look more prolific than I am. See the [publications](/outputs/scholarly-publications) page.
+
+The highlight of the year has been getting to speak to and work with so many generous, interesting, committed people. Thanks and best wishes to all.
+
+Previous years' reviews:
+
+-   [2016 review](/news/2016-review)
+
+-   [2015 review](/news/2015-review)

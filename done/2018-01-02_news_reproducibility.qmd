@@ -1,0 +1,59 @@
+---
+title: "Tom Stafford - Reproducibility"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/reproducibility"
+date: "2018-01-02"
+---
+
+# Reproducibility 
+
+[Back to News](/news)
+
+2 January 2018
+
+## Open science essentials in two minutes, part three 
+
+Let's define it this way: reproducibility is when your experiment or data analysis can be reliably repeated. It isn't replicability, which we can define as reproducing an experiment and subsequent analysis and getting qualitatively similar results with the new data. These aren't universally accepted definitions, but they are common, and enough to get us started.
+
+Reproducibility is a bedrock of science. We all know that our methods section should contain enough detail to allow an independent researcher to repeat our experiment. With the increasing use of computational methods in psychology, there's increasing need - and increasing ability - for us to share more than just a description of our experiment or analysis.
+
+### Reproducible methods 
+
+Using sites like the [Open Science Framework](/news/the-open-science-framework) you can share stimuli and other materials. If you use open source experiment software like [PsychoPy](http://www.psychopy.org/) or [Tatool](http://www.tatool-web.com/#/) you can easily share the full scripts which run your experiment and people on different platforms and without your software licenses can still run your experiment.
+
+### Reproducible analysis 
+
+Equally important is making your analysis reproducible. You'd think that with the same data, another person - or even you in the future - would get the same results. Not so! Most analyses include thousands of small choices. A mis-step in any of these small choices, for example lost participants, copy/paste errors, mis-labelled cases, unclear exclusion criteria, can derail an analysis, meaning you get different results each time and different results from what you've published.
+
+Fortunately a solution is at hand! You need to use analysis software that allows you to write a script to convert your raw data into your final output. That means no more Excel sheets (no history of what you've done = very bad - don't be these guys) and no more point-and-click SPSS analysis.
+
+**Bottom line: You must script your analysis - trust me on this one.**
+
+### Open data + code 
+
+You need to share and document your data and your analysis code. All this is harder work than just writing down the final result of an analysis once you've managed to obtain it, but it makes for more robust analysis, and allows someone else to reproduce your analysis easily in the future.
+
+The most likely beneficiary is you - your most likely collaborator in the future is Past You, and Past You doesn't answer email. Every analysis I've ever done I've had to repeat, sometimes years later. It saves time in the long run to invest in making a reproducible analysis first time around.
+
+### Further reading 
+
+-   Nick Barnes: [Publish your computer code: It is good enough](https://www.nature.com/news/2010/101013/full/467753a.html)
+
+-   British Ecological Society: [Guide to reproducible code](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+
+-   Gael Varoquaux: [Computational practices for reproducible science](https://www.slideshare.net/GaelVaroquaux/computational-practices-for-reproducible-science)
+
+### Advanced 
+
+-   [Reproducible computational workflows with continuous analysis](https://www.biorxiv.org/content/early/2016/08/11/056473)
+
+-   [Best practices for computational science: Software infrastructure and environments for reproducible and extensible research](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)
+
+### Other parts in the series 
+
+This article is part of a series for graduate students in psychology.
+
+1.  [Pre-registration](/news/pre-registration)
+
+2.  [The Open-Science Framework](/news/the-open-science-framework)
+
+Cross-posted at [mindhacks.com](https://mindhacks.com/2018/01/02/open-science-essentials-reproducibility/)

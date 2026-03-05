@@ -146,6 +146,10 @@ Sept 2022 - Sept 2023 Coordinator for UKRN [Open Research programme](https://www
 
 # 2022
 
+2022-08-29 News: [Advanced notice: Research On Research Institute seeks postdocs](done/2022-08-29_news_advanced-notice-research-on-research-institute-seeks-postdocs.qmd)
+
+2022-12-25 News: [Christmas Message 2022](done/2022-12-25_news_christmas-message-2022.qmd)
+
 Probably I did other things this year, but the only thing I can find a note of is
 
 2022-03-09 Released code for making your own ['hybrid images'](https://github.com/tomstafford/hybridimages). They look different from different distances (vision science people: it is about putting different image information into different spatial frequencies)
@@ -154,6 +158,10 @@ Probably I did other things this year, but the only thing I can find a note of i
 
 
 # 2021
+
+2021-01-26 News: [PhD opportunity: Informing citizens?](done/2021-01-26_news_phd-opportunity-informing-citizens.qmd)
+
+2021-11-25 News: [Job: Open Research Training Lead](done/2021-11-25_news_job-open-research-training-lead.qmd)
 
 2021 onwards: member, University of Sheffield Open Research Advsory Group, "providing strategic leadership in the ongoing development, promotion and implementation of the policies and practices supporting the University’s commitment to Open Research"
 
@@ -165,6 +173,12 @@ Led development and adoption of the [University of Sheffield statement on Open R
 
 # 2020
 
+2020-07-08 News: [Understanding online political advertising](done/2020-07-08_news_understanding-online-political-advertising.qmd)
+
+2020-09-03 News: [Engaging dialogue generated from argument maps](done/2020-09-03_news_engaging-dialogue-generated-from-argument-maps.qmd)
+
+2020-09-09 News: [Research Practice Lead for the University of Sheffield](done/2020-09-09_news_research-practice-lead-for-the-university-of-sheffield.qmd)
+
 
 
 2020: [The Letters of Pope Gregory VII - pilot project](https://figshare.com/articles/dataset/The_Letters_of_Pope_Gregory_VII_-_pilot_project/12781049) (with Charles West and George Litchfield)
@@ -173,13 +187,39 @@ Led development and adoption of the [University of Sheffield statement on Open R
 
 # 2019
 
+2019-01-15 News: [Remarks at 'Re-energising the narrative: Human rights in the digital age'](done/2019-01-15_news_remarks-at-re-energising-the-narrative-human-rights-in-the-digital-age.qmd)
+
 [Animated Itinerary of King John,](https://sites.google.com/d/1nQb4g6jqk7M0gwaD4Bvw7QKtBg0nkQRV/p/120fMmXEkjhEwEnsgf8fx5v1XKQrf3MdZ/edit)  [Mapping The Itinerary of King Edward I](https://figshare.com/articles/dataset/Mapping_The_Itinerary_of_King_Edward_I/8948699), [Mapping Papal Letters](https://tomstafford.github.io/PapalCorrespondence/) (with Charles West)
 
 # 2018
 
+2018-01-02 News: [Reproducibility](done/2018-01-02_news_reproducibility.qmd)
+
+2018-04-30 News: [Symposium on Robust Research Practices](done/2018-04-30_news_symposium-on-robust-research-practices.qmd)
+
+2018-06-16 News: [Teaching: How reliable is cognitive neuroscience?](done/2018-06-16_news_teaching-how-reliable-is-cognitive-neuroscience.qmd)
+
+2018-06-20 News: [Quit while you're ahead](done/2018-06-20_news_quit-while-youre-ahead.qmd)
+
+2018-08-14 News: [Preprints](done/2018-08-14_news_preprints.qmd)
+
+2018-09-20 News: [The Choice Engine](done/2018-09-20_news_the-choice-engine.qmd)
+
 2018: [@ChoiceEngine - an interactive essay about the psychology of free will](https://github.com/tomstafford/choice-engine-text)
 
 # 2017
+
+2017-11-01 News: [Seminar - Framing effects in the field: Evidence from two million bets](done/2017-11-01_news_seminar-framing-effects-in-the-field-evidence-from-two-million-bets.qmd)
+
+2017-11-09 News: [Pre-registration](done/2017-11-09_news_pre-registration.qmd)
+
+2017-11-09 News: [The Open Science Framework](done/2017-11-09_news_the-open-science-framework.qmd)
+
+2017-12-01 News: [Funded PhD studentship](done/2017-12-01_news_funded-phd-studentship.qmd)
+
+2017-12-14 News: [Cyberselves: How immersive technologies will impact our future selves](done/2017-12-14_news_cyberselves-how-immersive-technologies-will-impact-our-future-selves.qmd)
+
+2017-12-27 News: [2017 review](done/2017-12-27_news_2017-review.qmd)
 
 2017-11-09: Open science essentials in two minutes [pre-registration](done/2017-11-09prereg.html)
 
@@ -188,12 +228,98 @@ Led development and adoption of the [University of Sheffield statement on Open R
 
 2017 Organised [Mind Matters](https://tomstafford.sites.sheffield.ac.uk/sub-sites/mind-matters) 'a series of events based on various psychological research to bring knowledge to the general public and showcase Sheffield as a hub for psychology!'
 
-
-# Earlier
-
 2015 Data Scientist in Residence at [folksy.com](folksy.com). See [Folksy data analysis: buyer decision time](http://blog.folksy.com/2015/03/09/folksy-data-analysis-buyer-decision-time)
 
 2012 - 2017 Wrote a column for [BBC Future](https://www.bbc.com/future/columns/neurohacks)
+
+
+# Earlier
+
+## 2016
+
+2016-03-16 News: [Dangers and advantages in the idea of implicit bias](done/2016-03-16_news_dangers-and-advantages-in-the-idea-of-implicit-bias.qmd)
+
+2016-06-07 News: [A hierarchy of critique](done/2016-06-07_news_a-hierarchy-of-critique.qmd)
+
+2016-06-16 News: [New paper: Improving training for sensory augmentation](done/2016-06-16_news_new-paper-improving-training-for-sensory-augmentation.qmd)
+
+2016-07-04 News: [Why don't we trust the experts?](done/2016-07-04_news_why-dont-we-trust-the-experts.qmd)
+
+2016-07-05 News: [We are European scholars](done/2016-07-05_news_we-are-european-scholars.qmd)
+
+2016-08-08 News: [Cognitive Science Conference, Philadelphia](done/2016-08-08_news_cognitive-science-conference-philadelphia.qmd)
+
+2016-10-12 News: [CogSci @ Sheffield](done/2016-10-12_news_cogsci-sheffield.qmd)
+
+2016-10-12 News: [Internship: Public engagement coordinator](done/2016-10-12_news_internship-public-engagement-coordinator.qmd)
+
+2016-10-21 News: [Using Candy Crush to study perceptual learning](done/2016-10-21_news_using-candy-crush-to-study-perceptual-learning.qmd)
+
+2016-12-20 News: [2016 review](done/2016-12-20_news_2016-review.qmd)
+
+## 2015
+
+2015-06-19 News: [Power analysis for a between-sample experiment](done/2015-06-19_news_power-analysis-for-a-between-sample-experiment.qmd)
+
+2015-09-02 News: [Bias mitigation](done/2015-09-02_news_bias-mitigation.qmd)
+
+2015-12-02 News: [Crowdsourcing analysis, an alternative approach to scientific research](done/2015-12-02_news_crowdsourcing-analysis-an-alternative-approach-to-scientific-research.qmd)
+
+2015-12-15 News: [Individualised student feedback](done/2015-12-15_news_individualised-student-feedback.qmd)
+
+2015-12-16 News: [2015 review](done/2015-12-16_news_2015-review.qmd)
+
+## 2014
+
+2014-01-01 News: [Tracing the trajectory of skill learning with a very large sample](done/2014-01-01_news_tracing-the-trajectory-of-skill-learning-with-a-very-large-sample.qmd)
+
+2014-03-12 News: [First visualise, then test](done/2014-03-12_news_first-visualise-then-test.qmd)
+
+2014-03-12 News: [New paper: Performance breakdown effects dissociate from error detection](done/2014-03-12_news_new-paper-performance-breakdown-effects-dissociate-from-error-detection.qmd)
+
+2014-08-07 News: [New paper: Wiki users get higher exam scores](done/2014-08-07_news_new-paper-wiki-users-get-higher-exam-scores.qmd)
+
+2014-09-16 News: [Teaching: What it means to be critical](done/2014-09-16_news_teaching-what-it-means-to-be-critical.qmd)
+
+2014-09-30 News: [New grant - Reduced habitual intrusions: an early marker for Parkinson's?](done/2014-09-30_news_new-grant-reduced-habitual-intrusions-an-early-marker-for-parkinsons.qmd)
+
+2014-10-20 News: [Event: Crowdsourcing psychology data - online, mobile, big data approaches](done/2014-10-20_news_event-crowdsourcing-psychology-data-online-mobile-big-data-approaches.qmd)
+
+2014-12-01 News: [Neuroimaging as a marker of attention deficit hyperactivity disorder (ADHD)](done/2014-12-01_news_neuroimaging-as-a-marker-of-attention-deficit-hyperactivity-disorder-adhd.qmd)
+
+## 2013
+
+2013-02-04 News: [Six clear writing tips for exam success](done/2013-02-04_news_six-clear-writing-tips-for-exam-success.qmd)
+
+2013-02-18 News: [New paper: The path to learning: Action acquisition is impaired](done/2013-02-18_news_new-paper-the-path-to-learning-action-acquisition-is-impaired.qmd)
+
+2013-07-03 News: [New paper: The discovery of novel actions](done/2013-07-03_news_new-paper-the-discovery-of-novel-actions.qmd)
+
+2013-07-05 News: [The department's first Director of Public Engagement](done/2013-07-05_news_the-departments-first-director-of-public-engagement.qmd)
+
+2013-09-12 News: [No learning where to go without first knowing where you're coming from](done/2013-09-12_news_no-learning-where-to-go-without-first-knowing-where-youre-coming-from.qmd)
+
+2013-09-27 News: [New PhD Student: Angelo Pirrone](done/2013-09-27_news_new-phd-student-angelo-pirrone.qmd)
+
+2013-12-18 News: [New project - Bias and blame](done/2013-12-18_news_new-project-bias-and-blame.qmd)
+
+## 2012
+
+2012-06-04 News: [New paper: A novel task for the investigation of action acquisition](done/2012-06-04_news_new-paper-a-novel-task-for-the-investigation-of-action-acquisition.qmd)
+
+2012-06-06 News: [Fundamentals of learning: the exploration-exploitation trade-off](done/2012-06-06_news_fundamentals-of-learning-the-exploration-exploitation-trade-off.qmd)
+
+2012-09-06 News: [Wall Street Journal cover](done/2012-09-06_news_wall-street-journal-cover.qmd)
+
+2012-10-24 News: [Project LongArm: Drawing Machines](done/2012-10-24_news_project-longarm-drawing-machines.qmd)
+
+2012-10-30 News: [Brain network: Social media and the cognitive scientist](done/2012-10-30_news_brain-network-social-media-and-the-cognitive-scientist.qmd)
+
+2012-11-27 News: [Frontiers special issue on intrinsic motivation and open-ended development](done/2012-11-27_news_frontiers-special-issue-on-intrinsic-motivation-and-open-ended-development.qmd)
+
+2012-12-03 News: [New paper: Memory enhances the mere exposure effect](done/2012-12-03_news_new-paper-memory-enhances-the-mere-exposure-effect.qmd)
+
+2012-12-21 News: [Three PhD studentships in decision making](done/2012-12-21_news_three-phd-studentships-in-decision-making.qmd)
 
 2012-09 I wrote some of the code in LongArm, [a robot which draws labrynthine patterns](https://www.youtube.com/watch?v=lSuvSsDrEAw), by Matthias Jones
 

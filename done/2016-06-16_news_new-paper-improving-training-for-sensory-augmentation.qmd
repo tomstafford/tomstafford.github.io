@@ -1,0 +1,43 @@
+---
+title: "Tom Stafford - New paper: Improving training for sensory augmentation"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/new-paper-improving-training-for-sensory-augmentation"
+date: "2016-06-16"
+---
+
+# New paper: Improving training for sensory augmentation using the science of expertise 
+
+[Back to News](/news)
+
+16 June 2016
+
+A few years ago, we started work on a device we called 'the tactile helmet' ([Bertram et al., 2013](http://www.abrg.group.shef.ac.uk/%21DATA/attachment/0321.LM2013_001_final_v2_paper.pdf)). This would, the plan was, help you navigate without sight, using ultrasound sensors to give humans an extended sense of touch. Virtual rat-whiskers!
+
+As well as doing some basic testing with the device ([Kerdergari et al., 2014](http://link.springer.com/chapter/10.1007/978-3-662-44196-1_8)), [Craig](https://twitter.com/NeuroCraig) and I also reviewed the existing literature on similar sensory augmentation devices.
+
+What we found was that there are many such devices, with little consistency in how their effectiveness is assessed. Critically, for us, research reports neglected to consider the ease and extent of training with a device. So some devices have users who have practiced with the device for [thousands of hours](https://www.seeingwithsound.com/) (even decades!) while the results from others are described with users who have little more than a few minutes familiarisation.
+
+In our new paper, [Improving training for sensory augmentation using the science of expertise (PDF, 251KB)](https://drive.google.com/file/d/1DLAsxmUFj1xUVqHqFFDYPtmSxUSmj5-_/view?usp=sharing), we review existing sensory augmentation devices with an eye on how users can be trained to use them effectively. We make recommendations for which features of training should be reported, so fair comparisons can be made across devices.
+
+These aspects of training also provide a natural focus for how training can be optimised because for each of them, as cognitive scientists, we know how they can be adjusted so as to enhance learning.
+
+Our features of training are:
+
+-   The total training duration
+
+-   Session duration and interval
+
+-   Feedback
+
+-   The similarity of training to end use
+
+We discuss each of these in turn, with reference to the psychology literature on skill acquisition, as well as discussing non-training factors which affect device usability.
+
+[Post-print of the paper (PDF, 251KB)](https://drive.google.com/file/d/1DLAsxmUFj1xUVqHqFFDYPtmSxUSmj5-_/view?usp=sharing)
+
+## References 
+
+Bertram, C., and Stafford, T. (2016). [Improving training for sensory augmentation using the science of expertise](https://drive.google.com/file/d/1DLAsxmUFj1xUVqHqFFDYPtmSxUSmj5-_/view?usp=sharing). *Neuroscience and Biobehavioral Reviews*, 68, 234-244.
+
+Bertram, C., Evans, M. H., Javaid, M., Stafford, T., and Prescott, T. (2013). [Sensory augmentation with distal touch: The tactile helmet project](http://www.abrg.group.shef.ac.uk/%21DATA/attachment/0321.LM2013_001_final_v2_paper.pdf). In *Biomimetic and biohybrid systems* (pp. 24-35). Springer Berlin Heidelberg.
+
+Kerdegari, H., Kim, Y., Stafford, T., and Prescott, T. J. (2014). [Centralizing bias and the vibrotactile funneling illusion on the forehead](http://link.springer.com/chapter/10.1007/978-3-662-44196-1_8). In *Haptics: Neuroscience, devices, modeling, and applications* (pp. 55-62). Springer Berlin Heidelberg.

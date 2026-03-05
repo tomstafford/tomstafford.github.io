@@ -1,0 +1,67 @@
+---
+title: "Tom Stafford - Dangers and advantages in the idea of implicit bias"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/dangers-and-advantages-in-the-idea-of-implicit-bias"
+date: "2016-03-16"
+---
+
+# Dangers and advantages in the idea of implicit bias 
+
+[Back to News](/news)
+
+16 March 2016
+
+Last night I was on a panel discussion around the theme of '[Success: Is it all in the mind? A discussion on women in science](https://www.eventbrite.co.uk/e/success-is-it-all-in-the-mind-a-discussion-on-women-in-science-tickets-21560218193)'.
+
+On that panel we discussed the idea of implicit bias, that we can behave in ways that are prejudiced even if we believe ourselves to be without prejudice (or even, anti-prejudice). Relevant examples might be:
+
+-   In meetings interrupting women more than men.
+
+-   Filling departmental seminar or conference keynote slots with men rather than women.
+
+-   [Rating CVs which come from women as less employable and deserving less salary](http://www.pnas.org/content/109/41/16474.short).
+
+The idea of implicit bias has both benefits and dangers for how we talk about bias. On the positive side, it gives us a mechanism for thinking about discrimination which isn't about straightforward explicit prejudice.
+
+Sure, there are people who think "Women can't do physics" or "Women shouldn't work", but implicit bias lets us talk about more subtle prejudice, it helps make visible the intangible feeling that, in a thousand different ways, life is different for members of different social groups.
+
+Relatedly, implicit bias lets us recognise that the line of division cuts through every one of us. It isn't a matter of dividing the world into the sexists vs the feminists, say. Rather, because we're all brought up in a world which discriminates against women we acquire certain gender-prejudiced habits of thought. Even if that only means automatically thinking of a man [when asked to imagine a scientist](https://en.wikipedia.org/wiki/Draw-a-Scientist_Test), then that can have accumulating effects for women in science.
+
+Finally, thinking about implicit bias gives a handle on what it might mean for an institution or a culture to be prejudiced. Again, without the need to identify individuals, implicit bias can help us talk about the ways in which we participate, or our organisation participates, in perpetuating discrimination.
+
+Nobody has to want people who are more likely to have childcare commitments to be excluded, but if your departmental meetings are always at 4pm then you are risking excluding them.
+
+But the idea of implicit bias can have a negative influence as well. We live in an age which is fascinated by the individual and the psychological. Just because implicit biases can be measured in individuals' behaviour doesn't mean that all problems of discrimination should be addressed at the psychological level of individuals.
+
+If one thing is clear about implicit bias it is that the best approaches to addressing it won't be psychological. This is a collective project, there is little or no evidence that 'retraining' individual's implicit biases works, and raising awareness, whilst important, doesn't provide a simple cure.
+
+Approaching bias at an institutional or inter-personal level is more likely to be effective - things like tracking the outcomes of hiring decisions or anonymised marking have been shown to be effective for mitigating bias or insulating individuals from the possibility of bias.
+
+Secondly, the way people talk about bias evokes a metaphor of our rational versus irrational selves which [owes more to religion than it does to science](http://www.goodreads.com/book/show/479533.Flesh_in_the_Age_of_Reason). Implicit biases are often described as unconscious biases, [when the meaning of unconscious is unclear](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.01067/full), and there's plenty of evidence that [people are aware, in some ways, of their biases](http://psycnet.apa.org/journals/xge/143/3/1369/) and/or able to intervene in their expression.
+
+By describing bias as 'unconscious' we risk thinking of these biases as essentially mysterious - unknowable and unalterable. From there the natural thought is, well there's nothing I can do about them.
+
+My argument is that [biases are not some unconscious, extraneous, process polluting our thinking](/news/bias-mitigation). Rather, they are constitutive of our thinking - you can't think without assumptions and shortcuts. Assumptions and shortcuts, while essential, also create systematic distortions in the conclusions you come to.
+
+The idea of implicit bias helps us see prejudice in unexpected places - including our own behaviour. It sets our expectations that there will be no magic bullet for addressing bias, and progress will probably be slow, because cultural change is slow.
+
+These are the good things about thinking about the psychology of bias. Although the psychological mechanisms of bias are fascinating, we must recognise the limitations of only thinking about individuals and individual psychology when trying to deal with prejudice, especially when that prejudice is embedded in far wider historical, social and economic injustices.
+
+Nor should we allow the rhetoric of biases being 'unconscious' trick us into thinking that bias is unknowable or unaccountable for. There is no single thing to be done about discrimination, but things can be done.
+
+## Links and endnotes 
+
+The event was '[Success: Is it all in the mind? A discussion on women in science](https://www.eventbrite.co.uk/e/success-is-it-all-in-the-mind-a-discussion-on-women-in-science-tickets-21560218193)', organised by [Cavendish Inspiring Women](http://cavinspiringwomen.com/) the other panelists were Jessica Wade, [Athene Donald](http://people.bss.phy.cam.ac.uk/~amd3/) and [Michelle Ryan](http://psychology.exeter.ac.uk/staff/index.php?web_id=michelle_ryan). My thanks to all the organisers and our chair, [Stuart Higgins](https://twitter.com/StuartGHiggins).
+
+My thinking about bias is funded by the Leverhulme Trust, on a project led by [Jules Holroyd](https://www.sheffield.ac.uk/philosophy/people/academic-staff/jules-holroyd). All my thinking about this has benefited from extensive discussion with her, and with the other members of that project - Robin Scaife and Andreas Bunge.
+
+[Read my previous post about bias mitigation](/news/bias-mitigation), which arose from doing training on bias with employment tribunal judges.
+
+A great book review: [What works: Gender equality by Design](https://www.timeshighereducation.com/books/review-what-works-gender-equality-by-design-iris-bohnet-harvard-university-press), by Iris Bohnet, which says many sensible things but which risks describing bias as unconscious and therefore more mysterious and intractable than it really is.
+
+A good example of the risk of 'psychologising' bias: there are more police killings of blacks than whites in the US, but that [may reflect other injustices in society rather than straightforward racist biases in police decisions to shoot](http://www.nytimes.com/2015/10/18/upshot/police-killings-of-blacks-what-the-data-says.html). Even if it did, it isn't clear that the solutions would be to target individual officers.
+
+See also: [Implicit bias training for police may help, but it's not enough](http://www.huffingtonpost.com/destiny-peery/implicit-bias-training-fo_b_9464564.html)
+
+A great discussion of the Williams and Ceci (2015) [claim that "sexism in science is over"](http://digest.bps.org.uk/2014/12/is-sexism-in-science-really-over.html), and also here: [Struggling against gender bias in STEM field](http://womeninastronomy.blogspot.co.uk/2016/03/struggling-against-gender-bias-in-stem.html).
+
+See also: [How have gender stereotypes changed in the last 30 years?](http://digest.bps.org.uk/2014/12/is-sexism-in-science-really-over.html)

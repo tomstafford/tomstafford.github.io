@@ -1,0 +1,39 @@
+---
+title: "Tom Stafford - New paper: Performance breakdown effects dissociate from error detection"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/new-paper-performance-breakdown-effects-dissociate-from-error-detection"
+date: "2014-03-12"
+---
+
+# New paper: Performance breakdown effects dissociate from error detection effects in typing 
+
+[Back to News](/news)
+
+12 March 2014
+
+This is the first work on typing that has come out of C's PhD thesis. C's idea, which inspired his PhD, was that typing would be an interesting domain to look at errors and error monitoring. Unlike most discrete trial tasks which have been used to look at errors, typing is a continuous performance task, some of subjects can type over 100 words per minute, pressing around 10 keys a second!
+
+Furthermore the response you make to signal an error is highly practiced - you press the backspace. Previous research on error signalling hasn't been able to distinguished between effects due to the error and effects due having to make an unpracticed response to signal that you know you made the error.
+
+For me, typing is a fascinating domain which contradicts some notions of how actions are learnt. The dichotomy between automatic and controlled processing doesn't obviously apply to typing, which is rapid and low effort (like habits), but flexible and goal-orientated (like controlled processes). A great example of how typing can be used to investigate the complexity of action control comes from [this paper by Gordan Logan and Matthew Crump](http://www.sciencemag.org/content/330/6004/683.short).
+
+In this paper, we asked skilled touch-typists to copy type some set sentences and analysed the speed of typing before, during and after errors. We found, in contrast to some previous work which had used unpracticed discrete trial tasks to study errors, that there was no change in speed before an error. We did find, however, that typing speeds before errors did increase in variability - something we think signals a loss of control, something akin to slipping 'out of the zone' of concentration.
+
+A secondary analysis compared errors which participants corrected against those they didn't correct (and perhaps didn't even notice they made). This gave us evidence that performance breakdown before an error isn't just due to the processes that notice and correct errors, but - at least to the extent that error correction is synonymous with error detection - performance breakdown occurs independently of error monitoring.
+
+The abstract:
+
+Mistakes in skilled performance are often observed to be slower than correct actions. This error slowing has been associated with cognitive control processes involved in performance monitoring and error detection.
+
+A limited literature on skilled actions, however, suggests that pre-error actions may also be slower than accurate actions. This contrasts with findings from unskilled, discrete trial tasks, where pre-error performance is usually faster than accurate performance.
+
+We tested three predictions about error-related behavioural changes in continuous typing performance. We asked participants to type 100 sentences without visual feedback. We found that
+
+-   \(a\) Performance before errors was no different in speed than that before correct key-presses.
+
+-   \(b\) Error and post-error key-presses were slower than matched correct key-presses.
+
+-   \(c\) Errors were preceded by greater variability in speed than were matched correct key-presses.
+
+Our results suggest that errors are preceded by a behavioural signature, which may indicate breakdown of fluid cognition, and that the effects of error detection on performance (error and post-error slowing) can be dissociated from breakdown effects (pre-error increase in variability).
+
+Citation and download: Kalfaoğlu, Ç., and Stafford, T. (2013). [Performance breakdown effects dissociate from error detection effects in typing](http://www.tandfonline.com/eprint/neYR97ser5C3sFI8pcuT/full#.UiW5Rj89w4l). *The Quarterly Journal of Experimental Psychology*, 67(3), 508-524. doi:10.1080/17470218.2013.820762

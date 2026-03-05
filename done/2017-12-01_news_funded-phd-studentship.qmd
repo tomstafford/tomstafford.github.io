@@ -1,0 +1,37 @@
+---
+title: "Tom Stafford - Funded PhD studentship"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/funded-phd-studentship"
+date: "2017-12-01"
+---
+
+# Funded PhD studentship 
+
+[Back to News](/news)
+
+1 December 2017
+
+Funding is available for a PhD studentship in my department, based around a teaching fellowship. This means you'd get four years of funding but would be expected to help teach during your PhD.
+
+Relevant suitability criteria include:
+
+-   Being ready to start 5 February
+
+-   Having completed an MSc with a merit or distinction
+
+-   EU citizen
+
+-   Background in psychology
+
+Projects I'd like to supervise are [listed in this document](https://docs.google.com/document/d/1v9akVLjoYlR01V7SvGjYxUsDP2zCCbdvSXYB1NqoqcQ/edit?usp=sharing), including:
+
+-   Analysing big data to understand learning (like [this example](http://journals.sagepub.com/doi/abs/10.1177/0956797613511466))
+
+-   Online discussion: Augmenting argumentation with chatbots, with [Andreas Vlachos](https://andreasvlachos.github.io/) in computer science.
+
+-   Improving skill learning - [theory informed experiments!](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037749)
+
+A PhD with me will involve using [robust](https://www.nature.com/articles/s41562-016-0021) and [open science](https://en.wikipedia.org/wiki/Open_science) methods to address theoretical ideas in cognitive science. Plus extensive mentoring on all aspects of the scholarly life, conducted in Sheffield's best coffee shops.
+
+[Full details (PDF, 38KB)](https://drive.google.com/file/d/1OlDPbRoGFxiST5Uqadtb9pc--s-9o95q/view?usp=sharing)
+
+Deadline: 18 December.

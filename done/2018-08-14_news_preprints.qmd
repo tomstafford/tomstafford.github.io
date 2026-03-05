@@ -1,0 +1,71 @@
+---
+title: "Tom Stafford - Preprints"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/preprints"
+date: "2018-08-14"
+---
+
+# Preprints 
+
+[Back to News](/news)
+
+14 August 2018
+
+## Open science essentials in two minutes, part four 
+
+Before a research article is published in a journal you can make it freely available for anyone to read. You could do this on your own website, but you can also do it on a preprint server, such as [psyarxiv.com](http://psyarxiv.com/), where other researchers also share their preprints. Psyarxiv allows others to find your research easily, and is supported by the OSF, which means it has the support to hold your papers for the long-term.
+
+Preprint servers have been used for decades in physics, but are now becoming more common across academia. Preprints allow rapid dissemination (and citation) of your research, which is especially important for early career researchers. Preprints can be cited and indexing services like Google Scholar will join your preprint citations with the record of your eventual journal publication.
+
+Preprints also mean that work can be reviewed (and errors-caught) before final publication.
+
+**What happens when my paper is published?**
+
+Your work is still available in preprint form, which means that there is a non-paywalled version and so more people will read and cite it. If you upload a version of the manuscript after it has been accepted for publication that is called a post-print.
+
+**What about copyright?**
+
+Mostly journals own the formatted, typeset version of your published manuscript. This is why you often aren't allowed to upload the PDF of this to your own website or a preprint server, but there's nothing stopping you uploading a version with the same text (so the formatting will be different, but the information is the same).
+
+**Will journals refuse my paper if it is already 'published' via a preprint?**
+
+Most journals allow, or even encourage preprints. A diminishing minority don't. If you're interested you can [search for specific journal policies](http://www.sherpa.ac.uk/romeo/index.php).
+
+**Will I get scooped?**
+
+Preprints allow you to timestamp your work before publication, so they can act to establish priority on a findings which is protection against being scooped. Of course, if you have a project where you don't want to let anyone know you are working in that area until you're published, preprints may not be suitable.
+
+**When should I upload a preprint?**
+
+Upload a preprint at the point of submission to a journal, and for each further submission and upon acceptance (making it a postprint).
+
+**What's to stop people uploading rubbish to a preprint server?**
+
+There's nothing to stop this, but since your reputation for doing quality work is one of the most important things a scholar has I don't recommend it.
+
+### Advice 
+
+Put clear headers in your pre-print, noting the version and/or data, and the status of the pre-print, eg under review or published. When you are published you can upload a version with a header saying 'Please cite as \[xxxxxxx\]'.
+
+### Useful links 
+
+-   [psyarxiv](http://psyarxiv.com/) -- preprint server for psychology
+
+-   [List of academic journals by preprint policy](https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy) (Wikipedia)
+
+-   [ShERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php) - search publishers policies on preprints by journal name
+
+-   [The preprint dilemma](http://science.sciencemag.org/content/357/6358/1344) (Jocelyn Kaiser in Science, 2017)
+
+-   [ASAPbio Preprint FAQ](http://asapbio.org/preprint-info/preprint-faq)
+
+-   Bourne et al. (2016) [Ten simple rules for considering preprints](https://peerj.com/preprints/2669v1/)
+
+### Other parts in the series 
+
+1.  [Pre-registration](/news/pre-registration)
+
+2.  [The Open Science Framework](/news/the-open-science-framework)
+
+3.  [Reproducibility](/news/reproducibility)
+
+Cross-posted at [mindhacks.com](https://mindhacks.com/)

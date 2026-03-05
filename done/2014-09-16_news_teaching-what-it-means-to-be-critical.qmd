@@ -1,0 +1,59 @@
+---
+title: "Tom Stafford - Teaching: What it means to be critical"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/teaching-what-it-means-to-be-critical"
+date: "2014-09-16"
+---
+
+# Teaching: What it means to be critical 
+
+[Back to News](/news)
+
+![](images/468ed598.png)
+
+16 September 2014
+
+We often ask students to 'critically assess' research, but we probably don't explain what we mean by this as well as we could. Being 'critical' doesn't mean merely criticising, just as skepticism isn't the same as cynicism. A cynic thinks everything is worthless, regardless of the evidence; a skeptic wants to be persuaded of the value of things, but needs to understand the evidence first.
+
+When we ask students to critically assess something we want them to do it as skeptics. You're allowed to praise, as well as blame, a study, but it is important that you explain why.
+
+As a rule of thumb, I distinguish three levels of criticism. These are the kinds of critical thinking that you might include at the end of a review or a final year project, under a 'flaws and limitations' type-heading. Taking the least value first (and the one that will win you the least marks), let's go through the three types one by one:
+
+## General criticisms 
+
+These are the sorts of flaws that we're taught to look out for from the very first moment we start studying psychology. Things like too few participants, lack of ecological validity or the study being carried out on a selective population (such as university psychology students). The problem isn't that these aren't flaws of many studies, but rather that they are flaws of too many studies.
+
+Because these things are almost always true - we'd always like to have more people in our study! We're never certain if our results will generalise to other populations - it isn't very interesting to point this out.
+
+Far better if you can make\...
+
+## Specific criticisms 
+
+These are things which are specific weakness of the study you are critiquing. Things which you might say as a general criticism become specific criticisms if you can show how they relate to particular weaknesses of a study.
+
+For example, almost all studies would benefit from more participants (a general criticism), but if you are looking at a study where the experiment and the control group differed on the dependent variable, but the result was non-significant (p=0.09 say), then you can make the specific criticism that the study is under-powered.
+
+The numbers tested, and the statistics used, mean that it isn't possible to resolve either way that there probably is or probably isn't an effect. It's simply uncertain. So, they need to try again with more people or with less noise in their measures.
+
+Finding specific criticisms means thinking hard about the logic of how the measures taken relate to psychological concepts (operationalisation) and what the comparisons made (control groups) really mean.
+
+A good specific criticism will be particular to the details of the study, showing that you've thought about the logic of how an experiment relates to the theoretical claims being considered. That's why you get more credit for making these kind of criticisms.
+
+Specific criticism are good, but even better are\...
+
+## Specific criticisms with crucial tests or suggestions 
+
+This means identifying a flaw in the experiment, or a potential alternative explanation, and simultaneously suggesting how the flaw can be remedied or the alternative explanation can be assessed for how likely it is. This is the hardest to do, because it is the most interesting. If you can do this well you can use existing information (the current study, and its results) to enhance our understanding of what is really true, and to guide our research so we can ask more effective questions next time. Exciting stuff!
+
+Let me give an example. A few years ago I ran course which used a wiki (reader edited webpages) to help the students organise their study. At the end of the course I thought I'd compare the final exam scores of people who used the wiki against those who hadn't. Surprise: people who used the wiki got better exam scores. An interesting result, I thought, which could suggest that using the wiki helped people understand the material.
+
+Next, I imagined I'd written this up as a study and then imagined the criticisms you could make of it. Obviously the major one is that it is observational rather than experimental (there is no control group), but why is this a problem? It's a problem because there could be all sorts of differences between students which might mean they both score well on the exam and use the wiki more.
+
+One way this could manifest is that diligent students used the wiki more, but they also studied harder, and so got better marks because of that. But this criticism can be tested using the existing data. We can look and see if only highly grading students use the wiki. They don't - there is a spread of students who score well and who score badly, independently of whether they use the wiki or not.
+
+In both groups, the ones who use the wiki more score better. This doesn't settle the matter (we still need to run a randomised control study), but it allows us to finesse our assessment of one criticism that only good students used the wiki. There are other criticisms and other checks, which you can read about [in this paper we eventually published on the topic](http://www.researchinlearningtechnology.net/index.php/rlt/article/view/22797).
+
+Overall, you get credit in a critical assessment for showing that you are able to assess the plausibility of the various flaws a study has. You don't get marks just for identifying as many flaws as possible without balancing them against the merits of the study. All studies have flaws, the interesting thing is to make positive suggestions about what can be confidently learnt from a study, whilst noting the most important flaws and - if possible - suggesting how they could be dismissed or corrected.
+
+## Addenda 
+
+I made a [video of this post](https://www.youtube.com/watch?v=wjOfDc-JsZc) and a postscript: [A hierarchy of critique](/news/a-hierarchy-of-critique).

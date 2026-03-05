@@ -1,0 +1,31 @@
+---
+title: "Tom Stafford - Neuroimaging as a marker of attention deficit hyperactivity disorder (ADHD)"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/neuroimaging-as-a-marker-of-attention-deficit-hyperactivity-disorder-adhd"
+date: "2014-12-01"
+---
+
+# New grant: Neuroimaging as a marker of attention deficit hyperactivity disorder (ADHD) 
+
+[Back to News](/news)
+
+1 December 2014
+
+We have been awarded \~£11,000 by the White Rose Collaboration Fund. This will allow us to carry out a small neuroimaging study investigating brain activity associated with higher levels of ADHD traits. The collaboration combines expertise and facilities across the Universities of Sheffield, Leeds and York.
+
+Paul Overton has previously proposed that the [subcortical area known as the superior colliculus may be crucial in ADHD](http://www.medical-hypotheses.com/article/S0306-9877%2807%2900660-3/abstract). This is the focus of Maria's PhD thesis (co-supervised by Paul and me).
+
+Jaclyn Billington from Leeds has experience imaging the colliculus, and Tony Morland is the deputy director of [York's neuroimaging facility](https://www.ynic.york.ac.uk/), as well as having a wealth of experience imaging the areas associated with visual function. Alex Wade and Jeff Delvenne provide additional expertise in visual attention. I lead the project.
+
+Here is the blurb:
+
+We will create a unique network of expertise, personnel and facilities from across the WR network in order to establish a novel biomarker of attention deficit hyperactivity disorder (ADHD).
+
+Despite a high prevalence (up to 10% of children by some estimates), ADHD remains controversial in terms diagnosis and treatment. Using brain scanning, this network aims to establish a biological marker common to all ADHD suffers. Such a biomarker could revolutionise our response to ADHD, allowing us to better understand the condition, diagnose earlier, manage the symptoms and target pharmacological interventions. This could potentially alleviate suffering and improve function for millions.
+
+Theoretical direction for this proposal arises from Overton's recent proposal that a core dysfunction in ADHD is hypersensitivity of the superior colliculus (SC), a key subcortical brain region known to play a critical role in attention, spatial orientation and saccadic eye movements. The development of this 'collicular hypersensitivity' hypothesis was possible because of the tradition of research into the fundamental neuroscience of subcortical structures at Sheffield.
+
+This hypothesis has been taken forward by Stafford (Sheffield) who, with Panagiotidi, has been developing behavioural tests of collicular sensitivity. Early results show that healthy adults who are high and low on ADHD traits differ in these behavioural measures. However, behavioural tests are limited in that they cannot provide definitive insight into the neural basis of function.
+
+Teams in York and Leeds provide expertise in functional brain imaging and the neural basis of attention which would allow the direct translation of the Sheffield research programme into a test of a biomarker for ADHD.
+
+Our primary objective will be to test two groups, high and low in ADHD traits for collicular responsiveness, using fMRI brain imaging. This testing will use behavioural measures which have been shown to discriminate the two groups, and analytic and imaging expertise from the Leeds and York based applicants in order to determine collicular responsiveness.

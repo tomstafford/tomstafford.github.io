@@ -1,0 +1,23 @@
+---
+title: "Tom Stafford - Understanding online political advertising"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/understanding-online-political-advertising"
+date: "2020-07-08"
+---
+
+# Understanding online political advertising: Perceptions, uses and regulation 
+
+[Back to News](/news)
+
+8 July 2020
+
+The Leverhulme Trust has funded this project, led by [Dr Kate Dommett](http://www.katedommett.com/) (Department of Politics), and involving myself and [Dr Nikos Aletras](https://www.sheffield.ac.uk/dcs/people/academic/nikos-aletras) (Department of Computer Science).
+
+The project abstract:
+
+Microtargeted advertising is revolutionising political campaigning. Despite widespread adoption, and strong claims of efficacy, there is no systematic account of the rationale behind targeted ad campaigns, nor their perception by citizens. This lack impedes the design and implementation of an appropriate response from government or industry.
+
+Using voter surveys, in depth interviews with campaigners and analysis of online ad archives augmented by machine learning, this grant will explore the logic and practice of political advertising. It will place the regulation of political advertising within a broader framework of human rationality and the legitimate role of persuasion in politics.
+
+It is due to start in January 2021, and we'll be hiring two postdocs (each three-year posts). One postdoc with a background in political science will conduct research interviews with advertisers, campaigners, policy makers and stakeholders. They will also help me with experimental survey design, aimed at gauging public perceptions of targeted ads - the 'folk theories' of how they work and should be regulated.
+
+The other postdoc will have a background in natural language process/machine learning and work on automated text and network analyses of ad archives and social media data. If you have a PhD, or will have a PhD by January, and could fill one of these positions, please get in touch now to discuss.

@@ -1,0 +1,59 @@
+---
+title: "Tom Stafford - 2015 review"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/2015-review"
+date: "2015-12-16"
+---
+
+# 2015 review 
+
+[Back to News](/news)
+
+16 December 2015
+
+A selective round-up of my academic year.
+
+## Teaching 
+
+I taught my Cognitive Psychology course for the second time. It takes inspiration from MOOCs and 'flipped classroom' models, so I try and scaffold the lectures with a bunch of online resources and pre- and post-lecture activities. This year I added pre-lecture quizzes and [personalised feedback for each student](/news/individualised-student-feedback) on their engagement.
+
+Based on thinking about my lecture discussions I wrote a short post on Medium '[Cheap tricks for starting discussions in lectures](https://medium.com/@tomstafford/cheap-tricks-for-starting-discussions-in-lectures-c6baecd4a6c8#.kn8k38s1r)'. The truth is, lectures are a bad place for starting discussions, but sometimes that's what you have to work with. I rewrote my first year course on [emergent models of mind and brain](https://github.com/tomstafford/emerge). It uses interactive [Jupyter notebooks](http://jupyter.org/), which I'm very happy with.
+
+The lectures themselves show off a simple neural network as an associative model of memory, and the interactive notebooks mean that students can train the neural network on their own photos if they want.
+
+I also held an 'intergenerational tea party' every Thursday afternoon of autumn semester where I invited two students I supervise from every year of the undergraduate course (and my PG students and postdocs). If you came to one of these, thanks - I'll be doing it again next semester.
+
+## Writing 
+
+I had a piece in the Guardian titled [The science of learning: Five classic studies](http://www.theguardian.com/education/2015/dec/12/the-science-of-learning-five-classic-studies), as well as my regular [BBC Future column](http://www.bbc.com/future/columns/neurohacks), a few pieces for [The Conversation](https://theconversation.com/columns/tom-stafford-91781), and some ad-hoc blogging as a minor player on the [mindhacks.com blog](http://mindhacks.com).
+
+I self published an e-book [*For argument's sake: Evidence that reason can change minds*](http://www.amazon.com/dp/B010O1Z018) which was very briefly the eighth most popular experimental psychology e-book on Amazon, one place behind *50 sexting tips for women*.
+
+## Engagement 
+
+The year began with me on a sabbatical, which I spent at [Folksy](https://folksy.com/). Thanks to everyone there who made it such an enjoyable experience. I learnt more observing small business life in my home city than I think I would have in another psychology department on the other side of the world.
+
+This year I was also lucky enough to do some work with [2CV](http://www.2cv.com/) related to a Transport for London brief on applying behavioural science to passenger behaviours, with [Comparethemarket.com](http://www.comparethemarket.com/) on understanding customer decisions and with McGraw-Hill Education on analysis of student learning.
+
+Our work on decision biases in court was also [mentioned on the UK parliament website](http://researchbriefings.parliament.uk/ResearchBriefing/Summary/POST-PN-0512), but I have to say that my getting-out-of-the-university highlight of the year was appearing in the promotional video for [Folksy's drone delivery project](https://vimeo.com/123783107) (released 1/4/2015).
+
+## Research 
+
+We rebooted interdisciplinary cognitive science activities at Sheffield with a [workshop](https://www.eventbrite.co.uk/e/cognitive-science-in-sheffield-tickets-19224799894), several seminars and a mailing list for everyone to keep in touch. Kudos to [Luca](https://www.sheffield.ac.uk/philosophy/staff/profiles/barlassina) for help instigating these things.
+
+Several existing grants kept me very busy:
+
+Our Leverhulme grant on [Bias and Blame](/news/new-project-bias-and-blame) continued with our investigation into the cognitive foundation and philosophical implications of implicit bias. The PI, Jules Holroyd was awarded a prestigious [Vice Chancellor's Fellowship](https://www.sheffield.ac.uk/ris/vcfellows/welcome) at Sheffield, so she'll be a colleague in the new year as well as a collaborator - well done Jules!
+
+As part of this project we [pre-registered](http://www.theguardian.com/science/head-quarters/2014/may/20/psychology-registration-revolution) an experimental test of our core hypothesis and this December Robin Scaife finished a heroic effort in data collection, so expect results on this in the new year. Pre-registration was an immensely informative process, not least because it made me finally take [power analysis](/news/power-analysis-for-a-between-sample-experiment) seriously (previously I just sought to [side-step the issue](http://pss.sagepub.com/content/25/2/511)).
+
+As a result of this work on decision making and implicit bias I did [training for employment tribunal judges on bias in decision making](/news/bias-mitigation), during which I probably learnt more from them than they learnt from me.
+
+We've been scanning at the York Neuroimaging Centre, as part of our project on '[Neuroimaging as a marker of attention deficit hyperactivity disorder (ADHD)](/news/neuroimaging-as-a-marker-of-attention-deficit-hyperactivity-disorder-adhd)'. One of the inspirations for this project, Maria Panagiotidi, passed her PhD viva in November for her thesis titled 'The role of the superior colliculus in attention deficit hyperactivity disorder'. Congratulations to Maria, who goes on to work as a research psychologist for [Arctic Shores](https://www.arcticshores.com/) in Manchester.
+
+Funded by the Michael J Fox Foundation we'd continued testing in Sheffield and Madrid, using [typing as a measure of the strength of habitual behaviour in Parkinson's Disease](/news/new-grant-reduced-habitual-intrusions-an-early-marker-for-parkinsons). For this grant the heroic testing efforts were performed by Mariana Leriche. For the analysis we are combing timing information (my specialty) and an information theoretic analysis based on language structure. Colin Bannard (University of Liverpool) is leading on this part of the analysis. Working with him has been a great pleasure and immensely informative on computational linguistics.
+
+Our students as part of the [Sheffield Neuroeconomics network](https://www.sheffield.ac.uk/neuroeconomics) approach their final years. Angelo Pirrone and I have been working with [James Marshall](https://www.sheffield.ac.uk/dcs/people/academic/james-marshall) in Computer Science on perceptual decision making, and fitting models of decision making.
+
+That's not all, but that is all for now. The greatest pleasure of the year has been all the people I've had a chance to work with; students, colleagues and collaborators. Everything I have done this year has been teamwork. So apologies if you're not mentioned above - it is only due to lack of space, not lack of appreciation.
+
+My best wishes for 2016.

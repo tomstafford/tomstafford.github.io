@@ -1,0 +1,81 @@
+---
+title: "Tom Stafford - Job: Open Research Training Lead"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/job-open-research-training-lead"
+date: "2021-11-25"
+---
+
+# Job: Open Research Training Lead 
+
+[Back to News](/news)
+
+25 November 2021
+
+Come and drive research improvement at the University of Sheffield!
+
+Work with me as [Open research training lead](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjE5RTJBRDIxNkY2MjkzRUUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#) to design, deliver and evaluate training in open research, for researchers in all disciplines. This is a five-year+ post, full time, at a postdoctoral grade (G7), part of our [national UKRN/Research England project](https://www.sheffield.ac.uk/news/university-sheffield-spearhead-open-research-drive).
+
+\"This role will work across the University, and nationally with the UK Reproducibility Network (UKRN), to accelerate the uptake of open research practices. By empowering researchers to engage with better practice around research transparency, reuse and reliability, this role is key to the University Vision of an open research culture across all disciplines, which supports research quality and integrity, and deserves public trust in academic research.\"
+
+It would suit someone who knows and cares about open research, and can work with researchers of all types to improve research practice. Applicants from a research, eg post-PhD, or research services background are encouraged.
+
+-   Work with me, the University [open research working group](https://sites.google.com/sheffield.ac.uk/orwg) and our [research services team](https://www.sheffield.ac.uk/rs).
+
+-   Contribute to the excellent open research environment at the [University of Sheffield](https://www.sheffield.ac.uk/openresearch/university-statement-open-research), across all faculties, working with academics from medical researchers to musicologists.
+
+-   Embed open research in our [University vision for research excellence](https://www.sheffield.ac.uk/vision/our-pillars/research/excellence).
+
+-   Deliver training in coordination with our excellent library, research software engineering, IT services and others.
+
+-   Coordinate with all [UKRN partners](https://www.ukrn.org/), and the wider national and international space of those working on open research practices.
+
+-   Help academics contribute to the knowledge commons and support a vision of research work which is robust, re-usable and serves the public.
+
+[Job details](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjE5RTJBRDIxNkY2MjkzRUUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#)
+
+Deadline: 15 December 2021.
+
+Any questions, contact me via email [t.stafford@sheffield.ac.uk](mailto:t.stafford@sheffield.ac.uk) or Twitter: [\@tomstafford](https://twitter.com/tomstafford/).
+
+Update: 29 November 2021
+
+I've had a few questions, which I'll address here so everyone can enjoy the answers.
+
+**Will the role involve delivering workshops/training just within Sheffield, or across the 18 other institutions?**
+
+Primarily within Sheffield. The focus will be on training for University of Sheffield researchers, but the role involves coordinating with all UKRN partner institutions, so it is probable that there would be some exchange visits around the UK.
+
+**How much technical knowledge do you need?**
+
+Comfort with using, but not expertise, with technical platforms (eg R, GitHub) is necessary. Nobody can be expert in everything, and for the most technical areas of open research we have the support of our RSE team, meaning that a trainer in this role could rely on them for the domain knowledge.
+
+**Who decides on the training that will be designed and delivered?**
+
+You would! Designing a programme of comprehensive open research training, in coordination with the Research Practice Lead, Tom Stafford, existing University of Sheffield provision and the wider community, including the UKRN consortium is part of the role
+
+**What does 5+ years mean?**
+
+It means we have guaranteed funding for five years, as part of the UKRN/REDF project but the University would like to extend the role beyond the project.
+
+**What will it be like working with you? Can I have some references?**
+
+Feel free to contact anyone I have previously supervised - [see the](/supervision) [list](/supervision). For the last few years I've asked current supervisees to speak, in confidence, to anyone thinking of applying to work with me, so they shouldn't be surprised to hear from you, and I won't ask who they have spoken to or what they have spoken about.
+
+Okay, I wasn't really asked these questions, but I thought I'd allow myself to ask and answer it for you.
+
+**When is the start date?**
+
+As soon as possible.
+
+**When will interviews be held?**
+
+12 January. We're hoping to shortlist before Christmas, so will be in touch early in the new year at latest.
+
+**I understand that experience with designing workshops and training sessions are crucial. Would you encourage people with no such prior experience to apply too?**
+
+The answer for questions like this is to review the person specification in the [About The Job](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NjE5RTJBRDIxNkY2MjkzRUUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#) document, paying careful attention to what is essential and what is desirable.
+
+It will be very difficult for us to appoint anyone who doesn't meet the essential criteria. With respect to experience of designing workshops, the most relevant criterion is \"A good understanding of how to design and deliver successful and challenging training to research professionals, which promotes debate and discussion to promote and evolve good practice\".
+
+I could imagine a candidate demonstrating that they meet this criteria (understanding) without direct experience of having previously designed and run such workshops, but probably you can see that having actual experience is far more likely to be convincing.
+
+The bottom line is that there is flexibility in how different candidates will meet the criteria. If you have any doubts, please get in touch and I'm happy to discuss. I will be sad if good candidates discount themselves because they are uncertain.

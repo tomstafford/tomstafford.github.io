@@ -1,0 +1,111 @@
+---
+title: "Tom Stafford - Christmas Message 2022"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/christmas-message-2022"
+date: "2022-12-25"
+---
+
+# Christmas Message 2022 
+
+[Back to News](/news)
+
+2022-12-25
+
+*This was my holiday autoreply for the Christmas break 2022-23. I thought I\'d save it here*
+
+\
+
+I am now either on holiday or fully booked with little time to check email until January 9th. Thank you for your patience with any delays.
+
+\
+
+The great joy of academia is working with people across nations, disciplines and generations. I am very grateful for this privilege and would like to thank everyone who contributed to our collective work in 2022, whether it was research, teaching or other organisation and administration.
+
+\
+
+Below are some outputs from some of the earlier career researchers I\'ve been lucky enough to work with this year. (Obviously, the most important work doesn\'t produce published outputs, but these are at least the tip of an iceberg that I can link to).
+
+\
+
+**Amber** was awarded her PhD this year. Lots of her work is published, but she recommends this paper particularly, which is the first publication showing off her use of decision models for analysis of choice behaviour (it was also awarded an \"exceptional contribution\" certificate by the journal):
+
+\
+
+Copeland, A., Stafford, T., & Field, M. (2022). [](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2079801) [Methodological issues with value-based decision-making (VBDM) tasks: The effect of trial wording on evidence accumulation outputs from the EZ drift-diffusion model.](https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2079801) *Cogent Psychology*, *9*(1), 2079801.
+
+\
+
+**Lotty** wrote an evidence submission for the Science and Technology Committee inquiry on \"Reproducibility and research integrity\", which makes ideal Christmas reading
+
+\
+
+Brand, C. O. (2022). [](https://osf.io/preprints/metaarxiv/nr3vt/) [An outdated publishing system threatens both research integrity and the retention of rigorous early career researchers](https://osf.io/preprints/metaarxiv/nr3vt/).
+
+\
+
+**Georgi**\'s published analysis of experiments on online groups solving a famously counterintuitive puzzle:
+
+\
+
+[What makes you change your mind? An empirical investigation in online group decision-making conversations.](https://arxiv.org/abs/2207.12035) Georgi Karadzhov, Tom Stafford, Andreas Vlachos. SIGDIAL'22
+
+\
+
+**Christine** published her work on arguments among Wikipedia editors:
+
+\
+
+[How to disagree well: Investigating the dispute tactics used on Wikipedia](https://arxiv.org/abs/2101.10917), Christine De Kock, Tom Stafford, Andreas Vlachos, Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
+
+\
+
+And **Zahra** used this dataset to make some great visualisations of discussion dynamics, which she presented at [](https://www.delibot.xyz/deliberation4good/) [our workshop](https://www.delibot.xyz/deliberation4good/) in Cambridge:
+
+\
+
+[https://github.com/zahra-arjm/wikipedia_discussions/blob/main/wiki_graph_cambridge.pdf](https://github.com/zahra-arjm/wikipedia_discussions/blob/main/wiki_graph_cambridge.pdf)
+
+\
+
+**Youmna** also presented at EMNLP, on our large project on use artificial dialogue agents (\"chatbots\") to help people engage with contentious topics
+
+\
+
+Farag, Youmna; Brand, Charlotte; Amidei, Jacopo; Piwek, Paul; Stafford, Tom; Stoyanchev, Svetlana and Vlachos, Andreas (2022). [](https://oro.open.ac.uk/85410/) [Opening up Minds with Argumentative Dialogues](https://oro.open.ac.uk/85410/). In: Findings of EMNLP (Empirical Methods in Natural Language Processing), 7-11 Dec 2022, Abu Dhabi, United Arab Emirates.
+
+\
+
+**Oz** published his first paper, in PLoS ONE:
+
+\
+
+Vardal, O., Bonometti, V., Drachen, A., Wade, A., & Stafford, T. (2022). [](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275843) [Mind the gap: Distributed practice enhances performance in a MOBA game](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275843). *PloS one*, *17*(10), e0275843.
+
+\
+
+**Elena** published this on players\' reactions to monetisation strategies in online games:
+
+\
+
+Petrovskaya, E., & Zendle, D. (2022). [](https://www.hindawi.com/journals/hbet/2022/1260174/) [\"These People Had Taken Advantage of Me": A Grounded Theory of Problematic Consequences of Player Interaction with Mobile Games Perceived as "Designed to Drive Spending](https://www.hindawi.com/journals/hbet/2022/1260174/). *Human Behavior and Emerging Technologies*, *2022*.
+
+\
+
+And finally, **Adam Partridge**, with help from **Jenni Adams** and other wonderful library colleagues, updated our Open Research pages, which I recommend to everyone:
+
+\
+
+[https://www.sheffield.ac.uk/openresearch](https://www.sheffield.ac.uk/openresearch)
+
+\
+
+Best wishes to all for 2023.
+
+\
+
+Tom
+
+\
+
+\
+
+\

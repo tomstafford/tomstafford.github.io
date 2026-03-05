@@ -1,0 +1,17 @@
+---
+title: "Tom Stafford - Project LongArm: Drawing Machines"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/project-longarm-drawing-machines"
+date: "2012-10-24"
+---
+
+# Project LongArm: Drawing Machines 
+
+[Back to News](/news)
+
+24 October 2012
+
+Sheffield Artist Mattias Jones and team built a drawing machine which implemented a solution to a mathematical algorithm, in the form of a set of straight lines connecting many tens of thousands of points (which in turn were placed based on photographs of the Peak District). The whole installation took about two weeks to draw, and happened as part of the [Festival of the Mind](http://festivalofthemind.group.shef.ac.uk/) at the end of September.
+
+I had a small part in the project because the robot control was based on an algorithm I wrote -- basically only the part which told the motors how much to move and when to stop so as to get from point to point while drawing a straight line. You might think this is a funny place for a psychologist to be involved in an art project, but the fundamentals of movement control apply to robots just as they apply to people (that's why they are fundamentals!).
+
+You can see the interview with Matt on [vimeo](https://vimeo.com/50693255).

@@ -1,0 +1,81 @@
+---
+title: "Tom Stafford - Engaging dialogue generated from argument maps"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/engaging-dialogue-generated-from-argument-maps"
+date: "2020-09-03"
+---
+
+# Engaging dialogue generated from argument maps 
+
+[Back to News](/news)
+
+3 September 2020
+
+January 2021 update: Project is go!
+
+[Opening up minds: Engaging dialogue generated from argument maps](http://mcs.open.ac.uk/pp2464/Opening_Up_Minds/)
+
+In Sheffield, we are lucky to be joined by [Dr Lotty Brand](https://lottybrand.wordpress.com/).
+
+Starting January 2021, a two year postdoctoral research associate position. Skills required
+
+-   experiment design
+
+-   measure validation
+
+-   online recruitment and testing
+
+-   coding and/or statistical computing skills
+
+-   background in psychology, linguistics or NLP generally, in reason, argument or dialogue specifically
+
+Applications open later this year. Informal enquiries welcome at any point.
+
+The EPSRC has funded our project 'Opening up minds: Engaging dialogue generated from argument maps', led by [Paul Piwek](http://mcs.open.ac.uk/pp2464/) (Computer Science, Open University), with myself, [Andreas Vlachos](https://andreasvlachos.github.io/) (Computer Science, University of Cambridge) and Svetlana Stonyanchev ([Toshiba Research Europe](https://www.toshiba.eu/eu/Toshiba-Research-Europe/)).
+
+The idea is to design a 'dialogue system' interface to existing databases of the arguments surrounding controversial topics such as 'Should the United Kingdom remain a member of the European Union?' or 'Should all humans be vegan?'. In particular, a user can have a 'Moral Maze' style chat with the dialogue system.
+
+*Moral Maze* is a long-running popular BBC 4 Radio programme in which a panel discusses a controversial topic with the help of witnesses and a host who chairs the conversation.
+
+The dialogue system consists of a panel of Argumentation Bots (ArguBots) who present arguments for or against the topic under discussion (the pro and con ArguBots), a host ArguBot and a witness ArguBot (that can provide detailed evidence).
+
+The user is invited to join the panel and voice their views on the topic under discussion. Thus the user can explore what they thought and what others thought about the controversial topic.
+
+An important part of the projects will be to evaluate the effects on people's appreciation of the complexity of debate and attendant ability to comprehend the world from other people's point of view or perspective.
+
+The computer science research will focus on developing the dialogue agents ('bots') to allow users to explore controversial topics through natural language conversations. Our hope is such conversation can be engaging, and also free of the polarisation that we see in human-human interactions over social media around controversial topics.
+
+My job will be to lead on work package 3 (WP3), which will look at evaluating how people experience the dialogues, and how their attitudes and beliefs are affected.
+
+Here's what we said about that in the proposal:
+
+Work package 3 - Evaluation (lead: Sheffield)
+
+Work on this WP will begin immediately with validation of the measures of open-mindedness, attitude strength and perception of argument coherence, and with the establishment of procedures for participant recruitment and testing. Importantly we need to develop an appropriate control condition which will act as a baseline against which any benefits of engaging with the argument-map via a ArguBots will be gauged.
+
+Development of the measures and control condition will also allow statistical power analysis to ensure that subsequent testing recruits enough participants to measure the effects of interest with sufficient accuracy. These can proceed before the full dialogue system development is finalised, using a Wizard-of-Oz (WoZ) protocol.
+
+As the dialogue system is developed, this WP will support continuous testing and feedback, allowing user behaviour to be integrated into development. The collected user utterances will be used as additional data to train and evaluate the components of the dialogue system.
+
+At fixed points, experiments will be conducted which test the impact of the dialogues on the participants at the three levels of
+
+1.  perception of coherence
+
+2.  engagement and
+
+3.  impact on attitudes and beliefs.
+
+Because of the [common cognitive bias to overestimate the extent of our insight into argument structure](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1) (see background), testing of the impact on attitudes and beliefs will use direct surveys, as well as before-after testing and novel implicit measures developed for the project and designed to test participants' comprehension of opposing arguments, ie ability to pass the [Ideological Turing Test](https://www.econlib.org/archives/2011/06/the_ideological.html).
+
+Ethics approval will be obtained for all data collection and evaluation with human subjects, and this will include necessary steps to mitigate ethical risks, eg including procedures for data deletion in the event that participants reveal personal information during the decision making task.
+
+We'll be recruiting a postdoc for the project, to work with me in Sheffield and collaborate with the project partners at the OU and in Cambridge. The project starts mid January 2021 and applications will open later in year.
+
+I'll have a better idea of the job specification then, but I expect the ideal candidate will
+
+-   have a background in experimental research with online platforms
+
+-   be interested and/or informed about the psychology of reason, argument and dialogue
+
+-   be comfortable with interdisciplinary approaches, in particular working with NLP/computer science communities.
+
+Informal enquiries are welcome at any time. Hit me up by email or on [Twitter](http://twitter.com/tomstafford/).

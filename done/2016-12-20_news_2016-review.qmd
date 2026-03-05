@@ -1,0 +1,89 @@
+---
+title: "Tom Stafford - 2016 review"
+source: "https://tomstafford.sites.sheffield.ac.uk/news/2016-review"
+date: "2016-12-20"
+---
+
+# 2016 review 
+
+[Back to News](/news)
+
+20 December 2016
+
+## Research theme one: Decision making 
+
+Most of the work I've done this year hasn't yet seen the light of day. Our Michael J Fox Foundation funded project using typing as [a measure of the strength of habitual behaviour in Parkinson's Disease](/news/new-grant-reduced-habitual-intrusions-an-early-marker-for-parkinsons) continues, and we'll finish the data analysis next month.
+
+Likewise, we should soon finish the analysis on our project '[Neuroimaging as a marker of attention deficit hyperactivity disorder (ADHD)](/news/neuroimaging-as-a-marker-of-attention-deficit-hyperactivity-disorder-adhd)'. Angelo successfully passed his viva - thesis title: Decision modelling insights in cognition and adaptive decision making. He takes up a fellowship at Peking University in 2017. Well done Angelo!
+
+This thread of work, which is concerned with the neural and mechanistic basis of decision making, informs the 'higher-level' work I do on decision making, which is preoccupied with [bias in decision making](/news/new-project-bias-and-blame) and how to address it. This work, done with Jules Holroyd and Robin Scaife, has focussed on the idea of [implicit bias](/news/dangers-and-advantages-in-the-idea-of-implicit-bias), and what might be done about it.
+
+As well as running experiments and doing conceptual analysis, we've been developing an intervention on cognitive and implicit bias, which summarises the current state of research and gives some practical advice on avoiding bias in decision making.
+
+I've done a number of these sessions with judges, which has been a humbling experience: to merely study decision making and then be confronted with a room of professionals who dedicate their time to actually making fair decisions. As with the other projects, much more on this work will hopefully see the light in 2017.
+
+World events have made studying decision making to understand better decisions seem more and more relevant. Here's a re-analysis of some older data which I completed following the UK's referendum on leaving the EU in June: [Why don't we trust the experts?](/news/why-dont-we-trust-the-experts) Relatedly, read [my thoughts on being a European scholar](/news/we-are-european-scholars). Also on this topic, a piece for The Conversation: [How to check if you're in a news echo chamber - and what to do about it](https://theconversation.com/how-to-check-if-youre-in-a-news-echo-chamber-and-what-to-do-about-it-69999).
+
+Journal publications on decision making:
+
+-   Holroyd, J., Scaife, R. and Stafford, T. (in press) Responsibility for implicit bias, Philosophy Compass.
+
+-   Pirrone, A., Azab, H., Hayden, B.Y., Stafford, T. and Marshall, J.A.R. (in press) [Evidence for the speed-value trade-off: Human and monkey decision making is magnitude sensitive](http://eprints.whiterose.ac.uk/109297/), Decision.
+
+-   Panagiotidi, M., Overton, P. G. and Stafford, T. (in press) [Attention deficit hyperactivity disorder-like traits and distractibility in the visual periphery](http://pec.sagepub.com/content/early/2016/11/28/0301006616681313.abstract), Perception.
+
+-   Pirrone, A., Dickinson, A., Gomez, R., Stafford, T. and Milne, E. (in press) Understanding perceptual judgement in autism spectrum disorder using the drift diffusion model, Neuropsychology.
+
+-   Bednark J., Reynolds J., Stafford T., Redgrave P. and Franz, E. (2016) [Action experience and action discovery in medicated individuals with Parkinson's Disease](http://journal.frontiersin.org/article/10.3389/fnhum.2016.00427), Frontiers in Human Neuroscience, 10, 427. DOI: 10.3389/fnhum.2016.00427
+
+-   Lu, Y., Stafford, T. and Fox, C. (2016) [Maximum saliency bias in binocular fusion](http://www.tandfonline.com/doi/abs/10.1080/09540091.2016.1159181), Connection Science, 28(3), 258-269.
+
+[See all of my scholarly publications](/outputs/scholarly-publications)
+
+## Research theme two: Skill and learning 
+
+My argument is that games provide a unique data set where participants engage in profound skill acquisition AND the complete history of their skill development is easily recorded. To this end, I have several projects analysing data from games. This new paper: Stafford, T. and Haasnoot, E. (in press) [Testing sleep consolidation in skill learning: A field study using an online game](http://onlinelibrary.wiley.com/wol1/doi/10.1111/tops.12232/abstract), Topics in Cognitive Science, ([data + code](https://osf.io/fckq8/)) is an example of the new kinds of analysis - as well as the new results - which large data from games allow.
+
+The paper is an advance on our [first work on this data](http://pss.sagepub.com/content/25/2/511) (Stafford and Dewar, 2014) and is a [featured project](http://www.dataonthemind.org/featured-projects) at the Centre for Data on the Mind. I gave a talk about this work at a workshop titled '[Innovations in online learning environments: intrapersonal perspectives](http://www.education.ox.ac.uk/network-on-intrapersonal-research-in-education-nire/seminar-4-york-februarymarch-2016/)', for which there is video - [Factors influencing optimal skill learning: Data from a simple online game](http://www.education.ox.ac.uk/network-on-intrapersonal-research-in-education-nire/seminar-4-york-februarymarch-2016/tom-stafford/).
+
+I have been analysing a large dataset of chess games (11 million + games) and presented initial work on this at the [Cognitive Science Conference](/news/cognitive-science-conference-philadelphia). You can read the paper or see the code, results and commentary in an integrated [Jupyter notebook](https://github.com/tomstafford/FIDEchess/blob/master/no_ST_in_chess.ipynb) (these are the future). There's lots more exciting stuff to come out of this data!
+
+Our overview of how the science of skill acquisition can inform development of sensory protheses came out: Bertram, C. and Stafford, T. (2016) [Improving training for sensory augmentation using the science of expertise (PDF, 251KB)](https://drive.google.com/file/d/1DLAsxmUFj1xUVqHqFFDYPtmSxUSmj5-_/view?usp=sharing), Neuroscience and Biobehavioral Reviews, 68, 234-244.
+
+-   [Talk slides](https://docs.google.com/presentation/d/1u-VPGeu2lds3vtwkC8QRvrQQYIIWd1dErwMMj65HmyA/edit)
+
+-   [Lay summary](/news/new-paper-improving-training-for-sensory-augmentation)
+
+I wrote for The Conversation about an [important review of the literature on the benefits of brain training](https://theconversation.com/brain-training-why-its-no-walk-in-the-park-66245) and I had a great summer student looking at the [expertise acquired by Candy Crush players](/news/using-candy-crush-to-study-perceptual-learning).
+
+## Teaching and thinking about teaching 
+
+Not as much to report as last year, since I had teaching leave for the autumn semester, as part of our Leverhulme project on [bias and blame](/news/new-project-bias-and-blame). At the beginning of the year I taught a graduate discussion class on dual-process theories in psychology and neuroscience, which was very worthwhile, but didn't leave much digital trace.
+
+Whilst I've not been teaching classes, I have been thinking about teaching, publishing in The Guardian: [The way you're revising may let you down in exams - and here's why](https://www.theguardian.com/education/2016/may/07/the-way-youre-revising-may-let-you-down-in-exams-and-heres-why) (my third [piece in the G on learning](https://mindhacks.com/2016/05/09/the-memory-trap/)) and on NPJ 'Science of Learning' Community: [Do students know what's good for them?](https://npjscilearncommunity.nature.com/users/21128-tom-stafford/posts/12584-do-students-know-what-s-good-for-them) - I'm proud of this one, mainly for the quality of the outgoing links it includes. I also published an article in The Conversation, on a under-noted consequence of testing in education: [Good tests make children fail - here's why](https://theconversation.com/good-tests-make-children-fail-heres-why-59329).
+
+I also used some informal platforms (ie blogging) to produce some guidance for psychology students:
+
+-   What I call the [Hierarchy of critique](/news/a-hierarchy-of-critique)
+
+-   [The logic of student experiment reports](https://imgur.com/3qoFqCY)
+
+I tried to provoke some discussion around this: [I don't read students' drafts. Should I?](https://medium.com/@tomstafford/i-dont-read-students-drafts-should-i-31423fb1589e#.3hx2b6u6j)
+
+I did some talks for graduate students, follow the links for slides:
+
+-   [Adventures in research blogging](https://docs.google.com/presentation/d/1oE04e0y767qv97a2dag5wOnBSCjIw34Pg9jlmHOMVIE/edit#slide=id.g616c3c80c_06)
+
+-   [Expanding your writing portfolio](https://docs.google.com/presentation/d/176-z9uXnfDfrjJOjSECX4EMK75C7F3yCJqb9IGKRlN8/edit#slide=id.g1773f2f904_0_2)
+
+## Peer reviewing 
+
+I feel this should be recorded somewhere, since peer reviewing is a part of an academic's job which requires the pinnacle of their expertise and experience, yet is generally unrecognised and unrewarded.
+
+This year I helped the scholarly community out by doing grant reviews for the Medical Research Council and the Biotechnology and Biological Sciences Research Council and manuscript reviews for Trends in Cognitive Sciences, Memory and Cognition, Connection Science, Canadian Journal of Philosophy, Journal of European Psychology Students, International Journal of Communication and the Annual Cognitive Science Society conference.
+
+From 1 January I will only be reviewing papers which make their data freely available, as part of the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/).
+
+That's mostly it, bar a few things I couldn't fit under these four headlines. Thanks to everyone who helped with the work in 2016 - getting to talk, write and pursue ideas with sincere, intelligent, kind and interesting people is the best part of the job.
+
+[2015 review](/news/2015-review)
