@@ -62,6 +62,8 @@ title: "Papers"
 
 ## In press, and under review
 
+- Brodeur, A., Valenta, D., Marcoci, A., Aparicio, J. P., Mikola, D., Barbarioli, B., ... & Topstad Borgen, N. (in press). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science. *Proceedings of the National Academy of Sciences of the United States of America*.  [preprint](https://www.econstor.eu/handle/10419/308508)
+
 - Stafford, T. (2026, February 28). [Belief in the reasonableness of others: stability and responsiveness to electoral shock](https://doi.org/10.31234/osf.io/kj9qe_v1). https://doi.org/10.31234/osf.io/kj9qe_v1
   - [The effects of political disappointment](https://tomstafford.substack.com/p/the-effects-of-political-disappointment)
 
