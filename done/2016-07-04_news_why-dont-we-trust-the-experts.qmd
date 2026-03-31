@@ -56,7 +56,7 @@ For me and my friends it seems incomprehensible to ignore the facts, whether abo
 
 People who voted Leave do suffer from a lack of trust, and my best guess is that this is a reflection of a belief that most authorities aren't on their side, not because they necessarily reject their status as experts.
 
-The paper is written up as: Eiser, J. R., Stafford, T., Henneberry, J., and Catney, P. (2009). Trust me, I'm a scientist (not a developer): Perceived expertise and motives as predictors of trust in assessment of risk from contaminated land. Risk Analysis, 29(2), 288-297.\
+The paper is written up as: Eiser, J. R., Stafford, T., Henneberry, J., and Catney, P. (2009). Trust me, I'm a scientist (not a developer): Perceived expertise and motives as predictors of trust in assessment of risk from contaminated land. Risk Analysis, 29(2), 288-297. <https://doi.org/10.1111/j.1539-6924.2008.01131.x>\
 [View paper (PDF, 260KB)](https://drive.google.com/file/d/1LrYshGTdYcubTeQ91GrcSWeO-uQFE3xW/view?usp=sharing)
 
 [Data and analysis for this post (ZIP, 545KB)](https://drive.google.com/file/d/1jujtJLua4sdA1NRLK1x9gj4WHyfhJ23D/view?usp=sharing)

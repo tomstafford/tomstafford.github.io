@@ -292,9 +292,9 @@ title: "Papers"
 
 -   Stafford, T. (2009), [What use are computational models of cognitive processes?](https://drive.google.com/file/d/1KTWXcmsH9TWwVVagAfysf0ch-IQjzIDW/view?usp=sharing) (PDF, 56KB) In Mayor, J., Ruh, N.,  Plunkett, K. Connectionist Models of Behaviour and Cognition II: Proceedings of the 11th Neural Computation and Psychology Workshop. World Scientific.
 
--   Eiser, J. R., Stafford, T., Henneberry, J., and Catney, P. (2009). "Trust me, I'm a Scientist (Not a Developer)": [Perceived expertise and motives as predictors of trust in assessment of risk from contaminated land](https://drive.google.com/file/d/1mBtjfzW89lcLCWogK9ZYhIm3EJNFqCJq/view?usp=sharing). (PDF, 260KB)  Risk Analysis, 29(2), 288--297.
+-   Eiser, J. R., Stafford, T., Henneberry, J., and Catney, P. (2009). "Trust me, I'm a Scientist (Not a Developer)": [Perceived expertise and motives as predictors of trust in assessment of risk from contaminated land](https://drive.google.com/file/d/1mBtjfzW89lcLCWogK9ZYhIm3EJNFqCJq/view?usp=sharing). Risk Analysis, 29(2), 288--297. https://doi.org/10.1111/j.1539-6924.2008.01131.x
 
-    -   see also [Why don't we trust the experts? (2016)](https://tomstafford.sites.sheffield.ac.uk/news/why-dont-we-trust-the-experts)
+    -   see also [Why don't we trust the experts? (2016)](https://tomstafford.github.io/done/2016-07-04_news_why-dont-we-trust-the-experts.html)
 
 -   Stafford, T. and Gurney, K.N. (2007), [Biologically constrained action selection improves cognitive control in a model of the Stroop task](http://www.abrg.group.shef.ac.uk/!DATA/attachment/0046.stafford07.pdf), (External PDF) Philosophical Transactions of the Royal Society B: Biological Sciences, 362 (1485), 1671--1684.
 
