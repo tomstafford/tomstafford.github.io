@@ -4,7 +4,12 @@ title: "Talks"
 
 # Coming up
 
-- Nothing so far. Get in touch!
+- 8th of June: Beyond Information Aggregation: Group reasoning for chess problems [Behavioural Data Science] Seminar(https://www.ucl.ac.uk/brain-sciences/pals/research/behavioural-data-science/behavioural-data-science-seminar), UCL, London
+
+- 20th of May: Reasoning in groups, with human and artificial agents, [Wednesday Seminar](https://www.cst.cam.ac.uk/seminars), Department of Computer Science and Technology, University of Cambridge
+ - In the right circumstances groups can use deliberation to outperform the ability of each individual group member. This talk will review work done in collaboration with Prof. Vlachos and other colleagues in the Department which looks at when, and how, the benefits of group deliberation can manifest, revealing insights into both human psychology and the power of argument exchange. Ultimately the ambition is to design artificial dialogue agents which can positively contribute to, and so enhance, group discussions.
+
+- 13 May: 'contemporary challenges to research integrity', Panel discussion, [UKRIO's Annual Symposium](https://events.zoom.us/ev/Ar902ExMGBf9SsKL4GfXDIUpflh5ooy8KPL6bF-MENdhZwF5JW2W~Alw6CiRLNiVfTKZKOvGW00wlrSSay90EwvKPU3PfbMGjp9OTUeb93l_FUA).
 
 # Past talks
 
