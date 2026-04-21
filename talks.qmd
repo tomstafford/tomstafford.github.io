@@ -12,6 +12,11 @@ title: "Talks"
 
 - 13 May: **contemporary challenges to research integrity**, Panel discussion, [UKRIO's Annual Symposium](https://events.zoom.us/ev/Ar902ExMGBf9SsKL4GfXDIUpflh5ooy8KPL6bF-MENdhZwF5JW2W~Alw6CiRLNiVfTKZKOvGW00wlrSSay90EwvKPU3PfbMGjp9OTUeb93l_FUA).
 
+- 21 April: **Funder Experiments, Experimental Funders**, ZonMW/NWO- RoRI workshop
+
+  - [slides](https://docs.google.com/presentation/d/1a-fsJOo6uIAAfOy_semARh9WjlAt5Vcn/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), [PDF](docs/2026-04-21zonmw.pdf)
+  
+  
 # Past talks
 
 ## 2026
