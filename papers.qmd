@@ -67,24 +67,27 @@ title: "Papers"
 - Stafford, T. (2026, February 28). [Belief in the reasonableness of others: stability and responsiveness to electoral shock](https://doi.org/10.31234/osf.io/kj9qe_v1). https://doi.org/10.31234/osf.io/kj9qe_v1
   - [The effects of political disappointment](https://tomstafford.substack.com/p/the-effects-of-political-disappointment)
 
-- Zhu, X., Zhang, C., Chi, Y., Stafford, T., Collier, N., & Vlachos, A. (2026). [Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://arxiv.org/abs/2601.19921)_. arXiv preprint arXiv:2601.19921. Accepted at ACL Findings
-
 - Arjmandi-Lari, Z., Mantzarlis, A., Stafford, T. (2025). [Threats to the sustainability of Community Notes on X](https://arxiv.org/abs/2510.00650). arXiv preprint arXiv:2510.00650
 
   - see also [Community fact-checking on X survived Elon Musk. It may not survive AI](https://indicator.media/p/community-fact-checking-on-x-survived-elon-musk-it-may-not-survive-ai)
 
 - Copeland, A., Dora, J., King, K., Stafford, T., & Field, M. (in press). Value-based decision-making in daily tobacco smokers following experimental manipulation of mood. *Experimental and Clinical Psychopharmacology* [preprint](https://osf.io/preprints/psyarxiv/5w4ap_v1)
 
-- Lee, J., Zhu, X., Karadzhov, G., Stafford, T., Vlachos, A., & Lee, D. (2025). [Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems](https://arxiv.org/abs/2503.04945). arXiv preprint arXiv:2503.04945.
-
-- Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2024). Conformity in Large Language Models. arXiv preprint [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
 
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://www.delibot.xyz/publications/). arXiv preprint [arXiv:2207.12035](https://arxiv.org/abs/2207.12035)
 
     -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
 
+## 2026
+
+- Lee, J., Zhu, X., Karadzhov, G., Stafford, T., Vlachos, A., & Lee, D. (2026). [Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems](https://arxiv.org/abs/2503.04945). arXiv preprint arXiv:2503.04945. ICWSM 2026
+
+- Zhu, X., Zhang, C., Chi, Y., Stafford, T., Collier, N., & Vlachos, A. (2026). [Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://arxiv.org/abs/2601.19921)_. arXiv preprint arXiv:2601.19921. ACL Findings 2026
+
 ## 2025
+
+- Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2025). Conformity in large language models. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 3854-3872). [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
 
 - Boag, R. J., Innes, R. J., Stevenson, N., Bahg, G., Busemeyer, J. R., Cox, G. E., ... & Forstmann, B. U. (2025). [An expert guide to planning experimental tasks for evidence-accumulation modeling](https://doi.org/10.1177/25152459251336127). Advances in Methods and Practices in Psychological Science, 8(2), 25152459251336127. <https://doi.org/10.1177/25152459251336127>
 
