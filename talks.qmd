@@ -6,10 +6,16 @@ title: "Talks"
 
 - 8th of June: **[Quantifying the benefits of using decision models with response time and accuracy data](https://link.springer.com/article/10.3758/s13428-020-01372-w)** [Behavioural Data Science Seminar](https://www.ucl.ac.uk/brain-sciences/pals/research/behavioural-data-science/behavioural-data-science-seminar), UCL, London
 
+
+# Past talks
+
+## 2026
+
 - 20th of May: **Reasoning in groups, with human and artificial agents**, [Wednesday Seminar](https://www.cst.cam.ac.uk/seminars), Department of Computer Science and Technology, University of Cambridge
 
   - In the right circumstances groups can use deliberation to outperform the ability of each individual group member. This talk will review work done in collaboration with Prof. Vlachos and other colleagues in the Department which looks at when, and how, the benefits of group deliberation can manifest, revealing insights into both human psychology and the power of argument exchange. Ultimately the ambition is to design artificial dialogue agents which can positively contribute to, and so enhance, group discussions.
   - [slides](https://docs.google.com/presentation/d/1gCAWt02XuOkFLqeHUQTmYZ-GZCdWbTePxhnw33ivdM4/edit?usp=sharing), [PDF](docs/2026-05-20cambridge.pdf)
+  - [recording](https://www.cl.cam.ac.uk/seminars/wednesday/video/20260520-1500-t242446.html) **< -- Good summary of 8+ years of work on this topic**
 
 - 13 May: **contemporary challenges to research integrity**, Panel discussion, [UKRIO's Annual Symposium](https://events.zoom.us/ev/Ar902ExMGBf9SsKL4GfXDIUpflh5ooy8KPL6bF-MENdhZwF5JW2W~Alw6CiRLNiVfTKZKOvGW00wlrSSay90EwvKPU3PfbMGjp9OTUeb93l_FUA).
 
@@ -18,9 +24,6 @@ title: "Talks"
   - [slides](https://docs.google.com/presentation/d/1a-fsJOo6uIAAfOy_semARh9WjlAt5Vcn/edit?usp=sharing&ouid=102850735399031809686&rtpof=true&sd=true), [PDF](docs/2026-04-21zonmw.pdf)
   
   
-# Past talks
-
-## 2026
 
 - 12 February: **Understanding the reasons for vaccine hesitancy** at [NHS England digital Prevention Services](https://www.digital-prevention-services.nhs.uk), Thoughtful Thursday, 1pm, Canary Wharf
   - [slides](https://docs.google.com/presentation/d/1C-HniI7FV6dEIQpYANi_pgU7o3YMA3H24IddYn3r7YY/edit?usp=sharing), [pdf](docs/nhs2026-02-12.pdf)
