@@ -62,8 +62,6 @@ title: "Papers"
 
 ## In press, and under review
 
-- Brodeur, A., Valenta, D., Marcoci, A., Aparicio, J. P., Mikola, D., Barbarioli, B., ... & Topstad Borgen, N. (in press). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science. *Proceedings of the National Academy of Sciences of the United States of America*.  [preprint](https://www.econstor.eu/handle/10419/308508)
-
 - Stafford, T. (2026, February 28). [Belief in the reasonableness of others: stability and responsiveness to electoral shock](https://doi.org/10.31234/osf.io/kj9qe_v1). https://doi.org/10.31234/osf.io/kj9qe_v1
   - [The effects of political disappointment](https://tomstafford.substack.com/p/the-effects-of-political-disappointment)
 
@@ -80,6 +78,9 @@ title: "Papers"
 
 
 ## 2026
+
+- Brodeur, A., Valenta, D., Marcoci, A., ... & Topstad Borgen, N. (2026). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science. *Proceedings of the National Academy of Sciences of the United States of America*. 123 (22) e2524747123
+<https://doi.org/10.1073/pnas.2524747123> [preprint](https://www.econstor.eu/handle/10419/308508)
 
 - Lee, J., Zhu, X., Karadzhov, G., Stafford, T., Vlachos, A., & Lee, D. (2026). [Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems](https://arxiv.org/abs/2503.04945). arXiv preprint arXiv:2503.04945. ICWSM 2026
 
