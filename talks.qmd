@@ -5,7 +5,7 @@ title: "Talks"
 # Coming up
 
 - 8th of June: **[Quantifying the benefits of using decision models with response time and accuracy data](https://link.springer.com/article/10.3758/s13428-020-01372-w)** [Behavioural Data Science Seminar](https://www.ucl.ac.uk/brain-sciences/pals/research/behavioural-data-science/behavioural-data-science-seminar), UCL, London
-  - [slides](https://docs.google.com/presentation/d/18MJqiHHy03ZG0WdIUK6olfQPBKeySR6X873G-csnVj0/edit?usp=sharing). [PDF](docs/2026-06-08ucl.pdf)
+  - [slides](https://docs.google.com/presentation/d/18MJqiHHy03ZG0WdIUK6olfQPBKeySR6X873G-csnVj0/edit?usp=sharing), [PDF](docs/2026-06-08ucl.pdf)
 
 
 # Past talks
