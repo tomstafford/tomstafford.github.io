@@ -21,9 +21,9 @@ title: "Papers"
 
 -   Karadzhov, G., Stafford, T., and Vlachos, A. (2023). [DeliData: A dataset for deliberation in multi-party problem solving](https://dl.acm.org/doi/10.1145/3610056). Proceedings of the ACM on Human-Computer Interaction, CSCW. <https://doi.org/10.1145/3610056> [[arXiv](https://arxiv.org/abs/2108.05271)]
 
--   Karadzhov, G., Stafford, T., and Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://www.delibot.xyz/publications/). arXiv preprint [arXiv:2207.12035](https://arxiv.org/abs/2207.12035)
+- Karadzhov, G., Stafford, T., & Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://arxiv.org/abs/2207.12035). In Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (pp. 552-563). SIGDIAL'22
 
-    -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
+    -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
 -   De Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia](https://arxiv.org/abs/2212.08353). In Y. Goldberg, Z. Kozareva, & Y. Zhang (Eds.), Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 3824–3837). Association for Computational Linguistics. https://doi.org/10.18653/v1/2022.emnlp-main.252
 
@@ -62,6 +62,8 @@ title: "Papers"
 
 ## In press, and under review
 
+- Zhu, X., Karadzhov, G., Stafford, T., & Vlachos, A. (2026). [DeliChess: A Multi-party Dialogue Dataset for Deliberation in Chess Puzzle Solving](https://arxiv.org/abs/2606.04987). arXiv preprint arXiv:2606.04987.
+
 - Stafford, T. (2026, February 28). [Belief in the reasonableness of others: stability and responsiveness to electoral shock](https://doi.org/10.31234/osf.io/kj9qe_v1). https://doi.org/10.31234/osf.io/kj9qe_v1
   - [The effects of political disappointment](https://tomstafford.substack.com/p/the-effects-of-political-disappointment)
 
@@ -72,9 +74,6 @@ title: "Papers"
 - Copeland, A., Dora, J., King, K., Stafford, T., & Field, M. (in press). Value-based decision-making in daily tobacco smokers following experimental manipulation of mood. *Experimental and Clinical Psychopharmacology* [preprint](https://osf.io/preprints/psyarxiv/5w4ap_v1)
 
 
--   Karadzhov, G., Stafford, T., and Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://www.delibot.xyz/publications/). arXiv preprint [arXiv:2207.12035](https://arxiv.org/abs/2207.12035)
-
-    -   -   See also: [delibot.xyz](https://www.delibot.xyz/)
 
 
 ## 2026
@@ -131,6 +130,11 @@ title: "Papers"
 -   Varbanov V., Overton, P., and Stafford, T. (2023). [ADHD and ASD traits are indirectly associated with sensory changes through anxiety](https://link.springer.com/article/10.1007/s12144-022-04217-1) Curr Psychol (2023). <https://doi.org/10.1007/s12144-022-04217-1> [[preprint](https://psyarxiv.com/dchbs)].
 
 ## 2022
+
+- Karadzhov, G., Stafford, T., & Vlachos, A. (2022). [What makes you change your mind? An empirical investigation in online group decision-making conversations](https://arxiv.org/abs/2207.12035). In Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (pp. 552-563). SIGDIAL'22
+
+    -   See also: [delibot.xyz](https://www.delibot.xyz/)
+
 
 -   Vardal, O., Bonometti, V., Drachen, A., Wade, A., & Stafford, T. (2022). [Mind the gap: Distributed practice enhances performance in a MOBA game](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275843). Plos one, 17(10), e0275843.
 
