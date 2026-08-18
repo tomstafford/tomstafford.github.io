@@ -31,6 +31,10 @@ title: "Papers"
 
 ## Data intensive psychology:
 
+- Arjmandi-Lari, Z., Mantzarlis, A., Stafford, T. (2025). [Threats to the sustainability of Community Notes on X](https://arxiv.org/abs/2510.00650). arXiv preprint arXiv:2510.00650
+
+  - see also [Community fact-checking on X survived Elon Musk. It may not survive AI](https://indicator.media/p/community-fact-checking-on-x-survived-elon-musk-it-may-not-survive-ai)
+
 -    Panagiotidi, M., Zavlis, O., Jones, M., & Stafford, T. (2024). [The three-dimensional community structure of attention-deficit hyperactivity disorder (ADHD) traits captured by the Adult ADHD Self-Report Scale: An exploratory graph analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1997). International Journal of Methods in Psychiatric Research, e1997. <https://doi.org/10.1002/mpr.1997> [[preprint](https://psyarxiv.com/sakn9), [Data/code](https://osf.io/sd6f5/)]
 
 -   Stafford, T., and Vaci, N. (2022). [Maximizing the potential of digital games for understanding skill acquisition](https://doi.org/10.1177/09637214211057841). Current Directions in Psychological Science, 31(1), 49-55.  <https://doi.org/10.1177/09637214211057841> [[web/mobile version](https://journals.sagepub.com/doi/full/10.1177/09637214211057841), [Code](https://osf.io/fvm8s/files/osfstorage)]
@@ -42,7 +46,7 @@ title: "Papers"
 
 ## Metaresearch
 
-- Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2026, February 3). [Applicants as reviewers: A mixed methods evaluation of the risks, benefits, and potential of distributed peer review for grant funding allocations](https://doi.org/10.31222/osf.io/t2p56_v2). <https://doi.org/10.31222/osf.io/t2p56_v2>
+- Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (in press). [Applicants as reviewers: A mixed methods evaluation of the risks, benefits, and potential of distributed peer review for grant funding allocations](https://doi.org/10.31222/osf.io/t2p56_v2). Research Integrity and Peer Review. <https://doi.org/10.31222/osf.io/t2p56_v2>
 
   - Working paper (longer) : Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2025). [Applicants as Reviewers: Evaluating the Risks, Benefits, and Potential of Distributed Peer Review for Grant Funding Allocations](https://doi.org/10.6084/m9.figshare.29994841) (RoRI Working Paper No. 17). https://doi.org/10.6084/m9.figshare.29994841
 
@@ -62,14 +66,12 @@ title: "Papers"
 
 ## In press, and under review
 
+- Butters, A., Marshall, M. B., Pinfield, S., & Stafford, T. (2026, July 20). [Automated analysis of reviewer feedback to understand funding evaluation](https://doi.org/10.31222/osf.io/6kx3w_v1). https://doi.org/10.31222/osf.io/6kx3w_v1
+
 - Zhu, X., Karadzhov, G., Stafford, T., & Vlachos, A. (2026). [DeliChess: A Multi-party Dialogue Dataset for Deliberation in Chess Puzzle Solving](https://arxiv.org/abs/2606.04987). arXiv preprint arXiv:2606.04987.
 
 - Stafford, T. (2026, February 28). [Belief in the reasonableness of others: stability and responsiveness to electoral shock](https://doi.org/10.31234/osf.io/kj9qe_v1). https://doi.org/10.31234/osf.io/kj9qe_v1
   - [The effects of political disappointment](https://tomstafford.substack.com/p/the-effects-of-political-disappointment)
-
-- Arjmandi-Lari, Z., Mantzarlis, A., Stafford, T. (2025). [Threats to the sustainability of Community Notes on X](https://arxiv.org/abs/2510.00650). arXiv preprint arXiv:2510.00650
-
-  - see also [Community fact-checking on X survived Elon Musk. It may not survive AI](https://indicator.media/p/community-fact-checking-on-x-survived-elon-musk-it-may-not-survive-ai)
 
 - Copeland, A., Dora, J., King, K., Stafford, T., & Field, M. (in press). Value-based decision-making in daily tobacco smokers following experimental manipulation of mood. *Experimental and Clinical Psychopharmacology* [preprint](https://osf.io/preprints/psyarxiv/5w4ap_v1)
 
