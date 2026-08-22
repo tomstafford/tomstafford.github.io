@@ -3,7 +3,7 @@ title: "News"
 editor: source
 ---
 
-## Updates from <mastodon.online/@tomstafford>
+## Emphemera from <mastodon.online/@tomstafford>
 
 ```{=html}
 <style>
@@ -14,6 +14,10 @@ editor: source
   .toot-meta a:hover { text-decoration: underline; }
   .toot-content p { margin: 0.25em 0; }
   .toot-content img.emoji { height: 1em; width: 1em; vertical-align: -0.2em; }
+  .toot-media { margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.4em; }
+  .toot-media a, .toot-media video, .toot-media audio { display: block; }
+  .toot-media img, .toot-media video { max-width: 100%; max-height: 320px; border-radius: 4px; background: #eee; }
+  .toot-media audio { width: 100%; }
 </style>
 
 <div id="toots">Loading posts from Mastodon…</div>
@@ -23,6 +27,28 @@ editor: source
   const server = 'https://mastodon.online';
   const acct = 'tomstafford';
   const el = document.getElementById('toots');
+
+  function renderMedia(attachments) {
+    if (!attachments || attachments.length === 0) return '';
+    const parts = attachments.map(m => {
+      const alt = (m.description || '').replace(/"/g, '&quot;');
+      if (m.type === 'image') {
+        return `<a href="${m.url}" target="_blank" rel="noopener"><img src="${m.preview_url || m.url}" alt="${alt}" loading="lazy"></a>`;
+      }
+      if (m.type === 'gifv') {
+        return `<video src="${m.url}" poster="${m.preview_url || ''}" autoplay muted loop playsinline></video>`;
+      }
+      if (m.type === 'video') {
+        return `<video src="${m.url}" poster="${m.preview_url || ''}" controls preload="metadata"></video>`;
+      }
+      if (m.type === 'audio') {
+        return `<audio src="${m.url}" controls preload="metadata"></audio>`;
+      }
+      return `<a href="${m.url}" target="_blank" rel="noopener">[attachment]</a>`;
+    });
+    return `<div class="toot-media">${parts.join('')}</div>`;
+  }
+
   try {
     const u = await fetch(`${server}/api/v1/accounts/lookup?acct=${acct}`);
     if (!u.ok) throw new Error('lookup failed');
@@ -35,7 +61,10 @@ editor: source
       const t = new Date(p.created_at).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' });
       const div = document.createElement('div');
       div.className = 'toot';
-      div.innerHTML = `<div class="toot-meta"><a href="${p.url}" target="_blank" rel="noopener">${t}</a></div><div class="toot-content">${p.content}</div>`;
+      div.innerHTML =
+        `<div class="toot-meta"><a href="${p.url}" target="_blank" rel="noopener">${t}</a></div>` +
+        `<div class="toot-content">${p.content}</div>` +
+        renderMedia(p.media_attachments);
       el.appendChild(div);
     }
   } catch (e) {
