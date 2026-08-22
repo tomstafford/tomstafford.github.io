@@ -172,19 +172,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="html">
-<style>
-  iframe {
-    width: 100%;
-    aspect-ratio: 500 / 800;
-    max-width: 500px; /* Optional */
-  }
-</style>
-</div>
 <section id="updates-from-mastodon.onlinetomstafford" class="level2">
 <h2 class="anchored" data-anchor-id="updates-from-mastodon.onlinetomstafford">Updates from <a href="mailto:mastodon.online/@tomstafford" class="email">mastodon.online/@tomstafford</a></h2>
-<iframe allowfullscreen="" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" loading="lazy" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.online%2Fusers%2Ftomstafford&amp;theme=light&amp;size=100&amp;header=false&amp;replies=false&amp;boosts=false">
-</iframe>
+<style>
+  #toots { max-width: 640px; }
+  .toot { border: 1px solid #ddd; border-radius: 6px; padding: 0.75em 1em; margin-bottom: 0.75em; background: #fafafa; }
+  .toot-meta { font-size: 0.85em; color: #666; margin-bottom: 0.5em; }
+  .toot-meta a { color: #666; text-decoration: none; }
+  .toot-meta a:hover { text-decoration: underline; }
+  .toot-content p { margin: 0.25em 0; }
+  .toot-content img.emoji { height: 1em; width: 1em; vertical-align: -0.2em; }
+</style>
+
+<div id="toots">Loading posts from Mastodon…</div>
+
+<script>
+(async function () {
+  const server = 'https://mastodon.online';
+  const acct = 'tomstafford';
+  const el = document.getElementById('toots');
+  try {
+    const u = await fetch(`${server}/api/v1/accounts/lookup?acct=${acct}`);
+    if (!u.ok) throw new Error('lookup failed');
+    const account = await u.json();
+    const s = await fetch(`${server}/api/v1/accounts/${account.id}/statuses?limit=10&exclude_replies=true&exclude_reblogs=true`);
+    if (!s.ok) throw new Error('statuses failed');
+    const posts = await s.json();
+    el.innerHTML = '';
+    for (const p of posts) {
+      const t = new Date(p.created_at).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' });
+      const div = document.createElement('div');
+      div.className = 'toot';
+      div.innerHTML = `<div class="toot-meta"><a href="${p.url}" target="_blank" rel="noopener">${t}</a></div><div class="toot-content">${p.content}</div>`;
+      el.appendChild(div);
+    }
+  } catch (e) {
+    el.textContent = 'Could not load posts from Mastodon. Visit ' + server + '/@' + acct + ' directly.';
+  }
+})();
+</script>
 
 
 </section>
