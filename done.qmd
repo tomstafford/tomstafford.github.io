@@ -7,6 +7,10 @@ Recording things i've done which don't go under  [Papers](papers.html),
 
 ## 2026
 
+2026-09-01: [Returned to University of Sheffield after my career break](https://tomstafford.substack.com/p/that-was-the-year-that-was)
+
+2026-08-11: Quoted in this piece in Nature: [When the best decision is no decision: the rise of randomization in grant funding](https://www.nature.com/articles/d41586-026-02082-7)
+
 2026-02-02 to 2028-01-18 **Visiting Professor, Department of Computer Science and Technology, University of Cambridge**
 
 2026-02-19: Letter published in Nature: [The funding system needs fixing — but it’s not a ‘waste of time and money’](https://doi.org/10.1038/d41586-026-00498-9)
@@ -21,6 +25,8 @@ Recording things i've done which don't go under  [Papers](papers.html),
 2025-12-18: Published [A new model moves research in a more democratic direction – it could be faster and fairer too](https://wonkhe.com/blogs/a-new-model-moves-research-in-a-more-democratic-direction-it-could-be-faster-and-fairer-too/) at WonkHE, with Anna Butters.
 
 2025-10-25: Participated in the [ARRC](https://www.arrc.group.cam.ac.uk/) policy studio on ECR precarity, at the University of Cambridge, UK. 
+
+2025-09-01: Started [a year-long career break from University of Sheffield](https://tomstafford.substack.com/p/some-personal-news)
 
 September 2025: [Our working paper on Distributed Peer Review published](https://doi.org/10.6084/m9.figshare.29994841). Media: [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/18/distributed-peer-review-how-the-wisdom-of-the-crowd-can-allocate-grant-funding/), [Science|Business](https://sciencebusiness.net/news/r-d-funding/assessment/distributed-peer-review-cuts-funding-decision-time-trials-show-there-are-risks), [Research Professional News](https://www.researchprofessionalnews.com/rr-news-europe-universities-2025-8-radical-method-cuts-time-on-peer-review-by-60-trial-finds/), [LaborJournal](https://www.laborjournal.de/editorials/3323.php), [Table](https://table.media/research/analyse/distributed-peer-review-welche-probleme-das-verfahren-loest) and [my newsletter](https://tomstafford.substack.com/p/distributed-peer-review)
 
