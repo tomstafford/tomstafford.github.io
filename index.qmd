@@ -10,8 +10,8 @@ image: /tom_2020.jpg
 
 As Professor of Cognitive Science, I teach and research in the [School of Psychology](https://www.sheffield.ac.uk/psychology) at the University of Sheffield. My work applies insights from neuroscience, experimental design and data science to the topics of learning, decision making, reasoning and bias.
 
-::: {.callout-tip title="News!"}
-From 1st September 2025 - 31st August 2026 I am on leave from the University of Sheffield. During this time I will be on secondment to the [Research on Research Institute](https://researchonresearch.org/), as well as pursing writing projects. Subscribe for updates on [tomstafford.substack.com/](https://tomstafford.substack.com/).
+::: {.callout-tip title="Signal collapse"}
+If you write to me, please consider that I now receive an abundance of messages which appear to be well written and well researched inquiries by people who have spent a lot of time reading my website and reviewing my research interests. If you would like me to respond please consider how I might distinguish, [under the conditions of signal collapse engendered by AI](https://tomstafford.substack.com/p/when-trusted-signals-collapse), your message from all these others.
 :::
 
 From 2026 to 2028 I am a Visiting Professor in the Department of Computer Science and Technology, University of Cambridge.
