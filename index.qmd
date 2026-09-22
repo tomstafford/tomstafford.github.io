@@ -16,9 +16,9 @@ If you write to me, please consider that I now receive an abundance of messages 
 
 From 2026 to 2028 I am a Visiting Professor in the Department of Computer Science and Technology, University of Cambridge.
 
-As Senior Fellow at the [Research on Research Institute](https://researchonresearch.org/), I lead the programme [AFIRE: Accelerator For Innovation &amp; Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/). We seek to catalyse the generation and use of high quality evidence on research processes ("Metaresearch").
+As Senior Fellow and Director of Strategy at the [Research on Research Institute](https://researchonresearch.org/), I lead several projects, including the[AFIRE: Accelerator For Innovation &amp; Research Funding Experimentation](https://researchonresearch.org/project/a-f-i-r-e/). We seek to catalyse the generation and use of high quality evidence on research processes ("Metaresearch").
 
-I am on the [PsyArXiv](https://osf.io/preprints/psyarxiv) Scientific Advisory Board as chair of the Public Engagement Subcommittee. 
+I am on the [PsyArXiv](https://osf.io/preprints/psyarxiv) Scientific Advisory Board as member (and ex-chair) of the Public Engagement Subcommittee. 
 
 Previously, I was Director for the MSc programmes in Psychological Research Methods, and set up the MSc in Psychological Research Methods with Data Science. You can read more about the flagshiop module I designed and taught here: [PSY6422 Data Analysis and Visualisation](https://tomstafford.github.io/psy6422/).
 

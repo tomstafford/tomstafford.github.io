@@ -46,7 +46,7 @@ title: "Papers"
 
 ## Metaresearch
 
-- Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (in press). [Applicants as reviewers: A mixed methods evaluation of the risks, benefits, and potential of distributed peer review for grant funding allocations](https://doi.org/10.31222/osf.io/t2p56_v2). Research Integrity and Peer Review. <https://doi.org/10.31222/osf.io/t2p56_v2>
+- Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2026). [Applicants as reviewers: A mixed methods evaluation of the risks, benefits, and potential of distributed peer review for grant funding allocations](https://doi.org/10.1186/s41073-026-00246-7). Research Integrity and Peer Review. <https://doi.org/10.1186/s41073-026-00246-7>
 
   - Working paper (longer) : Butters, A., Marshall, M. B., Pinfield, S., Stafford, T., Bondarenko, A., Neubauer, B., Nuske, R., Schwidlinski, P., & Denecke, H. (2025). [Applicants as Reviewers: Evaluating the Risks, Benefits, and Potential of Distributed Peer Review for Grant Funding Allocations](https://doi.org/10.6084/m9.figshare.29994841) (RoRI Working Paper No. 17). https://doi.org/10.6084/m9.figshare.29994841
 
