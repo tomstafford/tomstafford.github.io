@@ -2,44 +2,39 @@
 title: "Supervision"
 ---
 
-I am always enthusiastic to hear from potential PhD students. Please get in touch.
-
-A PhD with me will involve using [robust](https://www.nature.com/articles/s41562-016-0021) and [open science](https://en.wikipedia.org/wiki/Open_science) methods to address theoretical ideas in cognitive science. Plus extensive mentoring on all aspects of the scholarly life, conducted in [Sheffield's best coffee shops](https://www.ourfaveplaces.co.uk/our-guides/top-10-coffee-shops/).
-
 I am not currently accepting applications for PhD places. My old advice page about applying is [here](https://github.com/tomstafford/onboarding/).
+
+A PhD with me involves using [robust](https://www.nature.com/articles/s41562-016-0021) and [open science](https://en.wikipedia.org/wiki/Open_science) methods to address theoretical ideas in cognitive science. Plus extensive mentoring on all aspects of the scholarly life, conducted in [Sheffield's best coffee shops](https://www.ourfaveplaces.co.uk/our-guides/top-10-coffee-shops/).
+
 
 # Current PhD and postdoc supervision
 
-
 ## Postdoc
 
-- [Anna Butters](https://scholar.google.com/citations?user=8mKDLWQAAAAJ&hl=en&oi=ao) (2024 -- 2026) on [Distributed Peer Review at the Volkswagen Foundation](https://researchonresearch.org/volkswagen-distributed-peer-review/)
-
--   [Amber Copeland](https://scholar.google.com/citations?user=JnNAldsAAAAJ&hl=en) (2018--2025) on "Reinforcer-specific value-based decision-making in persistence of and recovery from alcohol use disorder"
-
+- [Anna Butters](https://scholar.google.com/citations?user=8mKDLWQAAAAJ&hl=en&oi=ao) (2024 -- 2027) on [Distributed Peer Review at the Volkswagen Foundation](https://researchonresearch.org/volkswagen-distributed-peer-review/) and as RoRI Metascience Fellow
 
 
 ## PhD
 
--   Indro Adinugroho (2021--2025) -- Investigating the Relation between Fundamentalism, Belief in Conspiracy Theories and Perceived Political Leadership toward Political Trust
-
--   Hazel Gordon (2021--2025) "[Informing citizens? Effects of imprints on digital political advertising](https://tomstafford.sites.sheffield.ac.uk/news/phd-opportunity-informing-citizens)"
-
--   Ioanna Spentza (2017--) -- Factors affecting Everyday Problem-Solving skills in Older Adults
+-- currently none --
 
 ### Second supervisor to...
 
--   James Myers (2022-) 'Modelling cognitive decline in dementia patients: the impact of social isolation'
-
--   Vesko Varbanov (2020-) 'Sensory processing in Autism Spectrum Conditions and Attention Deficit Hyperactivity Disorder'
+-- currently none --
 
 ### External
 
-- [Olha Guley](http://www.institutnicod.org/membres/etudiant-e-s/doctorant-e-s/guley-olha/?lang=fr) (2023 - ) Institut Jean Nicod, CNRS, Paris.
+- [Olha Guley](http://www.institutnicod.org/membres/etudiant-e-s/doctorant-e-s/guley-olha/?lang=fr) (2023 -- ) Institut Jean Nicod, CNRS, Paris.
 
 # Alumni! (Previous supervision and examining)
 
 ## As primary PhD supervisor
+
+-   Indro Adinugroho (2021--2025) -- Investigating the Relation between Fundamentalism, Belief in Conspiracy Theories and Perceived Political Leadership toward Political Trust
+
+-   Hazel Gordon (2021--2026) "[Informing citizens? Effects of imprints on digital political advertising](https://tomstafford.sites.sheffield.ac.uk/news/phd-opportunity-informing-citizens)"
+
+-   Ioanna Spentza (2017--2026) -- Factors affecting Everyday Problem-Solving skills in Older Adults
 
 -   [Maria Panagiotidi](https://scholar.google.co.uk/citations?user=XcFf_6EAAAAJ&hl=en&oi=ao), PhD 2017 '[The Role of the Superior Colliculus in Attention Deficit Hyperactivity Disorder](https://etheses.whiterose.ac.uk/12124/)'
 
@@ -54,6 +49,10 @@ I am not currently accepting applications for PhD places. My old advice page abo
 -   Cigir Kalfaoglu, PhD 2012, '[Errors and error-detection during skilled typing](http://etheses.whiterose.ac.uk/2924/)'
 
 ## As a secondary PhD supervisor
+
+-   James Myers (2022--2025) 'Modelling cognitive decline in dementia patients: the impact of social isolation'
+
+-   Vesko Varbanov (2020--2026) 'Sensory processing in Autism Spectrum Conditions and Attention Deficit Hyperactivity Disorder'
 
 -   [Georgi Karadzhov](https://gkaradzhov.com/) (2019--2022) -- "DEliBots -- Deliberation Enhancing Bots" (at University of Cambridge)
 
@@ -92,6 +91,8 @@ I am not currently accepting applications for PhD places. My old advice page abo
 -   Dagmar Adamcová, 2017--2018: "Quit while you're ahead: a surprising interaction between game performance and motivation" ([Blog post](https://tomstafford.sites.sheffield.ac.uk/news/quit-while-youre-ahead), [Jupyter notebook](https://github.com/dagmaradamcova/axon-drop-out/blob/master/axon_drop_out.ipynb)). Erasmus exchange
 
 ## Post doctoral supervision
+
+-   [Amber Copeland](https://scholar.google.com/citations?user=JnNAldsAAAAJ&hl=en) (2018--2025) on "Reinforcer-specific value-based decision-making in persistence of and recovery from alcohol use disorder"
 
 - [Adam Partridge](https://orcid.org/0000-0002-0133-4155) (2022 -), as Open Research Training Lead for the University of Sheffield and part of the [UKRN Open Research Programme](https://www.ukrn.org/open-research-programme/)
 
