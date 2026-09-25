@@ -81,3 +81,13 @@ Or you can find traces on these other platforms:
 ## Colophon
 
 Website made with [Quarto](https://quarto.org), hosted on [github](https://github.com/tomstafford/tomstafford.github.io). Site style & structure from [Drew Dimmery](https://ddimmery.com/posts/quarto-website/).
+
+```{r}
+#| echo: false
+#| output: asis
+txt <- paste(readLines("llms.txt", warn = FALSE), collapse = "\n")
+cat('<div class="agent-note"><pre>',
+    htmltools::htmlEscape(txt),
+    '</pre></div>', sep = "")
+```
+
