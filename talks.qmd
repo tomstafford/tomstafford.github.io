@@ -7,7 +7,7 @@ title: "Talks"
 - 16th October: **Using metascience to ride the AI shockwave**. European Commision Workshop on Challenges and future of the European R&I funding system, Brussels.
 
 - 30th September: **Metascience and research funding**. Lightning Talk at the Wellcome Trust, London
-  - [slides](https://docs.google.com/presentation/d/1Q6ZCQ_pyOpCGcKT0TFPCc3SKLTLCnNj2veCFOU0BZu0/edit?usp=sharing)
+  - [slides](https://docs.google.com/presentation/d/1Q6ZCQ_pyOpCGcKT0TFPCc3SKLTLCnNj2veCFOU0BZu0/edit?usp=sharing), [PDF](docs/2026-09-30wellcome.pdf)
 
 - 28th September : **[Distributed Peer Review at the Volkswagen Foundation](https://docs.google.com/presentation/d/1ywLQ4yQQ9s6rnSMeRKNHYS2YxbCIa3NGsiiCi8Sb0Sg/edit?usp=sharing)**. Presentation for the Volkswagen Foundation.
   - [slides](https://docs.google.com/presentation/d/1ywLQ4yQQ9s6rnSMeRKNHYS2YxbCIa3NGsiiCi8Sb0Sg/edit?usp=sharing), [PDF](docs/2026-09-28DPR_VWS.pdf)
