@@ -9,6 +9,7 @@ title: "Talks"
 - 30th September: **Metascience and research funding**. Lightning Talk at the Wellcome Trust, London
 
 - 28th September : **[Distributed Peer Review at the Volkswagen Foundation](https://docs.google.com/presentation/d/1ywLQ4yQQ9s6rnSMeRKNHYS2YxbCIa3NGsiiCi8Sb0Sg/edit?usp=sharing)**. Presentation for the Volkswagen Foundation.
+  - [slides](https://docs.google.com/presentation/d/1ywLQ4yQQ9s6rnSMeRKNHYS2YxbCIa3NGsiiCi8Sb0Sg/edit?usp=sharing), [PDF](docs/2026-09-28DPR_VWS.pdf)
 
 
 # Past talks
