@@ -4,7 +4,7 @@ title: "Talks"
 
 # Coming up
 
-- 16th October: **Using metascience to ride the AI shockwave**. European Commision Workshop on Challenges and future of the European R&I funding system, Brussels.
+- 16th October: **Using metascience to ride the AI shockwave**. European Commission, Directorate-General for Research and Innovation workshop on "Challenges and future of the European R&I funding system", Brussels.
   - [slides](https://docs.google.com/presentation/d/1dai_GP9t6pBnC06oiNTlTb-wxPJx3J8qrhbkDGd_L68/edit?usp=sharing), [PDF](docs/2026-10-16ec.pdf)
 
 - 30th September: **Metascience and research funding**. Lightning Talk at the Wellcome Trust, London
