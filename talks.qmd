@@ -4,6 +4,9 @@ title: "Talks"
 
 # Coming up
 
+- 23rd October: **DPR** at UKRI
+  - [slides](https://docs.google.com/presentation/d/1Q_DG_PMJJnC0HOgvYC7AcGr6uQVD2CkgCIBLlawGHoQ/edit?usp=sharing)
+  
 - 16th October: **Using metascience to ride the AI shockwave**. European Commission, Directorate-General for Research and Innovation workshop on "Challenges and future of the European R&I funding system", Brussels.
   - [slides](https://docs.google.com/presentation/d/1dai_GP9t6pBnC06oiNTlTb-wxPJx3J8qrhbkDGd_L68/edit?usp=sharing), [PDF](docs/2026-10-16ec.pdf)
 
