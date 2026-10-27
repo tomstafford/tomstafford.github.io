@@ -87,7 +87,7 @@ title: "Papers"
 
 ## 2026
 
-- Butters, A., Benson Marshall, M., Pinfield, S., Stafford, T., Bondarenko, A., Nuske, R., Schwidlinski, P., & Denecke, H. (2026). <i>[Distributed Peer Review at the Volkswagen Foundation](https://doi.org/10.6084/m9.figshare.34701069) (RoRI Working Paper No. 23)</i> (Version 3). Research on Research Institute. <https://doi.org/10.6084/m9.figshare.34701069.v3>
+- Butters, A., Benson Marshall, M., Pinfield, S., Stafford, T., Bondarenko, A., Nuske, R., Schwidlinski, P., & Denecke, H. (2026). <i>[Two Years of Distributed Peer Review at the Volkswagen Foundation](https://doi.org/10.6084/m9.figshare.34701069) (RoRI Working Paper No. 23)</i>. Research on Research Institute. <https://doi.org/10.6084/m9.figshare.34701069>
 
 - Brodeur, A., Valenta, D., Marcoci, A., ... & Topstad Borgen, N. (2026). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science. *Proceedings of the National Academy of Sciences of the United States of America*. 123 (22) e2524747123
 <https://doi.org/10.1073/pnas.2524747123> [preprint](https://www.econstor.eu/handle/10419/308508)
