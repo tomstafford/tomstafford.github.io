@@ -11,6 +11,10 @@ title: "Papers"
 
 ## Decision making & reasoning
 
+-   Pirrone, A., Illin, J., Stafford, T., Milne, E. (2020). [A diffusion model decomposition of orientation discrimination in children with Autism Spectrum Disorder](https://eprints.whiterose.ac.uk/id/eprint/139910/3/manuscript2.pdf). European Journal of Developmental Psychology, 17, 2, 213-230. <https://doi.org/10.1080/17405629.2018.1561364>
+
+- Gyurkovics, M., Stafford, T., & Levita, L. (2020). [Cognitive control across adolescence: Dynamic adjustments and mind-wandering](https://eprints.gla.ac.uk/282480/1/282480.pdf). Journal of Experimental Psychology: General, 149(6), 1017–1031. https://doi.org/10.1037/xge0000698
+
 - Stafford, T., Zhu, J., & Dommett, K. (2024, December 31). Quantifying belief in the rationality of others: the Faith in Reason scale. Working Paper. <https://doi.org/10.31234/osf.io/umwxj>
 
 -   Stafford, T., Pirrone, A., Croucher, M., and Krystalli, A. (2020). [Quantifying the benefits of using decision models with response time and accuracy data](https://link.springer.com/article/10.3758/s13428-020-01372-w). Behaviour Research Methods, 52, 2142--2155. [doi.org/10.3758/s13428-020-01372-w](https://doi.org/10.3758/s13428-020-01372-w) (pre-print, [web/mobile version](https://idiolect.org.uk/papers/stafford2020/))
@@ -30,6 +34,9 @@ title: "Papers"
 
 
 ## Data intensive psychology:
+
+-   Stafford, T. and Haasnoot, E. (2017). [Testing sleep consolidation in skill learning: a field study using an online game](https://doi.org/10.1111/tops.12232). Topics in Cognitive Science. 9(2), 485--496. <https://doi.org/10.1111/tops.12232>
+  - ([data + code](https://osf.io/fckq8/))
 
 - Arjmandi-Lari, Z., Mantzarlis, A., Stafford, T. (2025). [Threats to the sustainability of Community Notes on X](https://arxiv.org/abs/2510.00650). arXiv preprint arXiv:2510.00650
 
@@ -179,13 +186,13 @@ title: "Papers"
 
 -   Scaife, R., Stafford, T., Bunge, A., and Holroyd, J. (2020). [To blame? The effects of moralized feedback on implicit racial bias](https://www.collabra.org/article/10.1525/collabra.251/). Collabra: Psychology, 6(1), 30. DOI: http://doi.org/10.1525/collabra.251
 
--   Pirrone, A., Illin, J., Stafford, T., Milne, E. (2020). [A diffusion model decomposition of orientation discrimination in children with Autism Spectrum Disorder](https://www.tandfonline.com/eprint/VIIZBcGgYpItKcCGw27I/full). European Journal of Developmental Psychology, 17, 2, 213-230.
+-   Pirrone, A., Illin, J., Stafford, T., Milne, E. (2020). [A diffusion model decomposition of orientation discrimination in children with Autism Spectrum Disorder](https://eprints.whiterose.ac.uk/id/eprint/139910/3/manuscript2.pdf). European Journal of Developmental Psychology, 17, 2, 213-230. <https://doi.org/10.1080/17405629.2018.1561364>
 
 -   Williams, L., Butler, J., Thirkettle, M., Stafford, T., Quinlivan, B., MacGovern, E., ... and Hutchinson, M. (2020). [Slowed luminance reaction times in cervical dystonia: disordered superior colliculus processin](https://onlinelibrary.wiley.com/doi/full/10.1002/mds.27975)g. Movement Disorders, 35(5), 877-880.
 
 -   Field, M., Heather, N., Murphy, J. G., Stafford, T., Tucker, J. A., & Witkiewitz, K. (2020). [Recovery from addiction: Behavioral economics and value-based decision making](https://psyarxiv.com/rfjwu/). Psychology of Addictive Behaviors, 34(1), 182--193. https://doi.org/10.1037/adb0000518
 
--   Gyurkovics, M., Stafford, T., Levita, L. (2020). [Cognitive control across adolescence: Dynamic adjustments and mind-wandering](https://www.ncbi.nlm.nih.gov/pubmed/31599622). Journal of Experimental Psychology: General, 149(6), 1017--1031.
+-   Gyurkovics, M., Stafford, T., Levita, L. (2020). [Cognitive control across adolescence: Dynamic adjustments and mind-wandering](https://eprints.gla.ac.uk/282480/1/282480.pdf). Journal of Experimental Psychology: General, 149(6), 1017--1031. https://doi.org/10.1037/xge0000698
 
 -   Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Clemente, E. G., ... & Hiring Decisions Forecasting Collaboration. (2020). [Creative destruction in science](https://www.sciencedirect.com/science/article/pii/S0749597820303678). Organizational Behavior and Human Decision Processes, 161, 291-309.
 
@@ -227,7 +234,8 @@ title: "Papers"
 
 -   Pirrone, A., Marshall, J. A., and Stafford, T. (2017). [A drift diffusion model account of the semantic congruity effect in a classification paradigm](https://jnc.psychopen.eu/article/view/79). Journal of Numerical Cognition, 3(1), 77--96.
 
--   Stafford, T. and Haasnoot, E. (2017). [Testing sleep consolidation in skill learning: a field study using an online game](http://onlinelibrary.wiley.com/wol1/doi/10.1111/tops.12232/abstract). Topics in Cognitive Science. 9(2), 485--496. ([data + code](https://osf.io/fckq8/))
+-   Stafford, T. and Haasnoot, E. (2017). [Testing sleep consolidation in skill learning: a field study using an online game](https://doi.org/10.1111/tops.12232). Topics in Cognitive Science. 9(2), 485--496. <https://doi.org/10.1111/tops.12232>
+  - ([data + code](https://osf.io/fckq8/))
 
 -   Panagiotidi, M., Overton, P.G., Stafford, T. (2017). [Attention Deficit Hyperactivity Disorder-like traits and distractibility in the visual periphery](http://pec.sagepub.com/content/early/2016/11/28/0301006616681313.abstract). Perception, 46 (6), 665--678.
 
