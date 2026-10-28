@@ -80,8 +80,6 @@ title: "Papers"
 - Stafford, T. (2026, February 28). [Belief in the reasonableness of others: stability and responsiveness to electoral shock](https://doi.org/10.31234/osf.io/kj9qe_v1). https://doi.org/10.31234/osf.io/kj9qe_v1
   - [The effects of political disappointment](https://tomstafford.substack.com/p/the-effects-of-political-disappointment)
 
-- Copeland, A., Dora, J., King, K., Stafford, T., & Field, M. (in press). Value-based decision-making in daily tobacco smokers following experimental manipulation of mood. *Experimental and Clinical Psychopharmacology* [preprint](https://osf.io/preprints/psyarxiv/5w4ap_v1)
-
 - Copeland, A. et al (submitted). The effect of alcohol-specific episodic memories and alcohol cue exposure on value-based decision-making and ad libitum alcohol consumption
 
 
@@ -97,6 +95,9 @@ title: "Papers"
 - Zhu, X., Zhang, C., Chi, Y., Stafford, T., Collier, N., & Vlachos, A. (2026). [Demystifying Multi-Agent Debate: The Role of Confidence and Diversity](https://arxiv.org/abs/2601.19921)_. arXiv preprint arXiv:2601.19921. ACL Findings 2026
 
 ## 2025
+
+- Copeland, A., Dora, J., King, K., Stafford, T., & Field, M. (2025). Value-based decision-making in daily tobacco smokers following experimental manipulation of mood. *Experimental and Clinical Psychopharmacology*, Psychopharmacology, 33(5), 459. [preprint](https://osf.io/preprints/psyarxiv/5w4ap_v1)
+
 
 - Zhu, X., Zhang, C., Stafford, T., Collier, N., & Vlachos, A. (2025). Conformity in large language models. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 3854-3872). [arXiv::2410.12428](https://doi.org/10.48550/arXiv.2410.12428)
 
@@ -138,7 +139,12 @@ title: "Papers"
 
 -   Dommett, K., Mensah, S. A., Zhu, J., Stafford, T., & Aletras, N. (2023). [Is There a Permanent Campaign for Online Political Advertising? Investigating Partisan and Non-Party Campaign Activity in the UK between 2018--2021](https://www.tandfonline.com/doi/full/10.1080/15377857.2023.2175102). Journal of Political Marketing, 1-19.
 
--   Varbanov V., Overton, P., and Stafford, T. (2023). [ADHD and ASD traits are indirectly associated with sensory changes through anxiety](https://link.springer.com/article/10.1007/s12144-022-04217-1) Curr Psychol (2023). <https://doi.org/10.1007/s12144-022-04217-1> [[preprint](https://psyarxiv.com/dchbs)].
+-   Varbanov V., Overton, P., and Stafford, T. (2023). [ADHD and ASD traits are indirectly associated with sensory changes through anxiety](https://link.springer.com/article/10.1007/s12144-022-04217-1) Curr Psychol (2023). <https://doi.org/10.1007/s12144-022-04217-1> 
+    - [OA version](https://eprints.whiterose.ac.uk/id/eprint/195319/3/Article%20text%20.pdf), [preprint](https://psyarxiv.com/dchbs).
+
+- Copeland, A., Stafford, T., & Field, M. (2023). [Recovery from nicotine addiction: A diffusion model decomposition of value-based decision-making in current smokers and ex-smokers](https://doi.org/10.1093/ntr/ntad040). Nicotine and Tobacco Research, 25(7), 1269-1276. <https://doi.org/10.1093/ntr/ntad040>
+
+    - [OA version](https://eprints.whiterose.ac.uk/id/eprint/197452/3/Copeland_Stafford_Field_recovery%20from%20nicotine%20addiction%20R1%20preprint.pdf)
 
 ## 2022
 
@@ -161,7 +167,8 @@ title: "Papers"
 
 -   Stafford, T., and Vaci, N. (2022). [Maximizing the potential of digital games for understanding skill acquisition](https://doi.org/10.1177/09637214211057841). Current Directions in Psychological Science, 31(1), 49-55.  <https://doi.org/10.1177/09637214211057841> [[web/mobile  version](https://journals.sagepub.com/doi/full/10.1177/09637214211057841)]
 
--   Pirrone, A., Reina, A, Stafford, T., Marshall, J.A.R., and Gobet, F. (2022). [Magnitude-sensitivity: Rethinking decision-making](https://www.sciencedirect.com/science/article/pii/S1364661321002618?casa_token=W5lKMgVueasAAAAA:GDwwQu4GBq4QtdbTWvjt7Y6-OY9kr7tgT0nGjQ1nu8a74laE5TCtmRotkpw5vQO6nQ8q14gH). Trends in Cognitive Sciences, 26(1), 66-80 [[OA version here](https://www.giovannireina.com/pdf/pirrone-TiCS2022.pdf)]
+-   Pirrone, A., Reina, A, Stafford, T., Marshall, J.A.R., and Gobet, F. (2022). [Magnitude-sensitivity: Rethinking decision-making](https://www.sciencedirect.com/science/article/pii/S1364661321002618?casa_token=W5lKMgVueasAAAAA:GDwwQu4GBq4QtdbTWvjt7Y6-OY9kr7tgT0nGjQ1nu8a74laE5TCtmRotkpw5vQO6nQ8q14gH). Trends in Cognitive Sciences, 26(1), 66-80
+    - [[OA version here](https://eprints.whiterose.ac.uk/id/eprint/185046/1/pirrone-TiCS2022.pdf)]
 
 
 ## 2021
