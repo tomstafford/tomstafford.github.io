@@ -16,7 +16,7 @@ Recording things i've done which don't go under  [Papers](papers.html),
 2026-02-19: Letter published in Nature: [The funding system needs fixing — but it’s not a ‘waste of time and money’](https://doi.org/10.1038/d41586-026-00498-9)
   - see also [The point of no return?](https://researchonresearchinstitute.substack.com/p/the-point-of-no-return)
 
-2026-01-28: Chaired workshop on Demand Management at Wellcome Trust
+2026-01-28: Chaired workshop on Demand Management at Wellcome Trust. Report: [Demand management: findings from a multi-funder workshop](https://rori.figshare.com/articles/report/_b_Demand_management_findings_from_a_multi-funder_workshop_b_/32044422?file=64292685) https://doi.org/10.6084/m9.figshare.32044422
 
 2026-01-02: Published [The 1,000 neuron challenge](https://www.thetransmitter.org/computational-neuroscience/the-1000-neuron-challenge/) at The Transmitter. 'A competition to design small, efficient neural models might provide new insight into real brains—and perhaps unite disparate modeling efforts.'
 
